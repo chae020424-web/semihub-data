@@ -1,0 +1,290 @@
+[
+  {
+    "id": "hbm4",
+    "title": "HBM4·HBM4E",
+    "category": "메모리",
+    "status": "양산 확대·차세대",
+    "summary": "HBM은 DRAM 다이를 수직 적층하고 TSV로 연결해 GPU 옆에서 매우 높은 메모리 대역폭을 제공한다. HBM4는 인터페이스 확대와 베이스 다이·패키징 최적화가 핵심이다.",
+    "process": "DRAM 적층 → TSV → 마이크로범프·접합 → 실리콘 인터포저 또는 첨단 패키지 → AI 가속기",
+    "impact": "AI 학습·추론 시 데이터 공급 병목을 줄여준다. 다만 발열, 수율, 패키지 신호·전력 무결성 부담이 커진다.",
+    "keywords": "HBM4 HBM4E TSV DRAM 2048 IO 메모리",
+    "related": [
+      "tsv",
+      "hybrid",
+      "thermal",
+      "si",
+      "cowos"
+    ],
+    "source": "https://semiconductor.samsung.com/news-events/news/samsung-ships-industry-first-commercial-hbm4-with-ultimate-performance-for-ai-computing/"
+  },
+  {
+    "id": "hybrid",
+    "title": "하이브리드 본딩",
+    "category": "패키징",
+    "status": "기술 확대",
+    "summary": "솔더 범프를 작게 만드는 대신 구리와 절연막을 정밀하게 정렬·직접 접합하는 고밀도 연결 기술이다.",
+    "process": "표면 평탄화(CMP) → 세정·활성화 → 정밀 정렬 → Cu/유전체 접합",
+    "impact": "접합 피치를 줄여 연결 밀도를 높이지만 미세 오염·평탄도·정렬 오차에 더 민감하다.",
+    "keywords": "Hybrid Bonding HCB Cu CMP 웨이퍼본딩",
+    "related": [
+      "hbm4",
+      "tsv",
+      "cowos",
+      "glass"
+    ],
+    "source": "https://news.skhynix.com/en/tech-note-series-ep2/"
+  },
+  {
+    "id": "tsv",
+    "title": "TSV·3D 적층",
+    "category": "패키징",
+    "status": "고도화",
+    "summary": "실리콘 웨이퍼를 관통하는 미세 전극으로 여러 칩을 수직 연결한다. HBM 적층과 3D 집적의 핵심 기반 기술이다.",
+    "process": "비아 식각 → 절연·배리어막 → 구리 충전 → 웨이퍼 박막화 → 적층·검사",
+    "impact": "전송 경로를 짧게 하지만 열-기계적 응력, 기생 성분, 제조 난도가 함께 증가한다.",
+    "keywords": "TSV Via 3D 적층 HBM",
+    "related": [
+      "hbm4",
+      "hybrid",
+      "cowos"
+    ],
+    "source": "https://news.skhynix.com/en/tech-note-series-ep2/"
+  },
+  {
+    "id": "cowos",
+    "title": "2.5D 패키징·CoWoS",
+    "category": "패키징",
+    "status": "용량 확대",
+    "summary": "여러 다이와 HBM을 인터포저나 고밀도 재배선층 위에 나란히 배치하는 고성능 패키징 접근법이다.",
+    "process": "Logic/GPU + HBM → 인터포저/RDL → 패키지 기판 → PCB",
+    "impact": "AI 가속기의 패키지 크기·배선·열·전력 분배 설계가 병목이 되는 분야다.",
+    "keywords": "CoWoS 인터포저 RDL 2.5D 패키징",
+    "related": [
+      "hbm4",
+      "si",
+      "glass",
+      "cpo"
+    ],
+    "source": "https://pr.tsmc.com/english/latest-news"
+  },
+  {
+    "id": "si",
+    "title": "SI·PI·열 설계",
+    "category": "패키징",
+    "status": "핵심 병목",
+    "summary": "고속 패키지의 신호 무결성(SI), 전원 무결성(PI), 전자기 간섭 및 열 전달을 함께 고려하는 시스템 설계다.",
+    "process": "전송선로 임피던스·S-파라미터 → PDN 임피던스 → 전력·열 모델 → 검증",
+    "impact": "HBM의 고속·병렬 인터페이스와 GPU 통합이 고도화될수록 중요한 분석 역량이다.",
+    "keywords": "SI PI EMC HFSS PDN S파라미터 누화",
+    "related": [
+      "hbm4",
+      "cowos",
+      "cpo",
+      "backside"
+    ],
+    "source": "https://news.skhynix.com/en/tech-note-series-ep2/"
+  },
+  {
+    "id": "highna",
+    "title": "High-NA EUV·포토마스크",
+    "category": "노광·장비",
+    "status": "도입·표준화",
+    "summary": "노광장비의 개구수(NA)를 높여 미세 패턴 해상도를 향상시키는 방향이다. 광학·마스크·레지스트·공정창 최적화가 함께 필요하다.",
+    "process": "EUV 광원 → 반사광학계 → 포토마스크 → 포토레지스트 → 패턴 전사",
+    "impact": "해상도 개선과 함께 DOF, 마스크 크기·스티칭, 비용의 제약을 동시에 풀어야 한다.",
+    "keywords": "High-NA EUV 0.55 NA 노광 DUV 마스크",
+    "related": [
+      "gaa",
+      "inspection",
+      "ald"
+    ],
+    "source": "https://investor.asml.com/news-releases/news-release-details/asml-and-tsmc-announce-initiative-pioneer-industry-transition-large-format-photomasks-high-na-euv"
+  },
+  {
+    "id": "gaa",
+    "title": "GAA·2nm급 트랜지스터",
+    "category": "공정·소자",
+    "status": "확대",
+    "summary": "Gate-All-Around는 게이트가 채널 사방을 둘러싸는 나노시트 구조로, 미세화 과정의 누설·전기장 제어에 대응한다.",
+    "process": "나노시트 적층 → 선택적 식각 → High-k/Metal Gate → 소스·드레인 접촉",
+    "impact": "FinFET 대비 전기적 제어 개선을 기대하나 공정 복잡성과 변동 관리가 중요하다.",
+    "keywords": "GAA Nanosheet 2nm 트랜지스터 공정설계",
+    "related": [
+      "highna",
+      "backside",
+      "ald",
+      "etch"
+    ],
+    "source": "https://pr.tsmc.com/english/latest-news"
+  },
+  {
+    "id": "backside",
+    "title": "후면 전력 공급(BSPDN)",
+    "category": "공정·소자",
+    "status": "개발·도입",
+    "summary": "웨이퍼 후면에 전원 배선을 배치해 전원 전달 경로를 신호 배선과 분리하는 기술이다.",
+    "process": "전면 소자 형성 → 웨이퍼 뒤집기·박막화 → 후면 비아 → 전원망 연결",
+    "impact": "전압강하(IR drop)와 배선 혼잡 완화를 목표로 하지만 제조·검증 난도가 높다.",
+    "keywords": "BSPDN Backside Power Delivery PDN 전력망",
+    "related": [
+      "gaa",
+      "si"
+    ],
+    "source": "https://www.intel.com/content/www/us/en/foundry/process.html"
+  },
+  {
+    "id": "cpo",
+    "title": "실리콘 포토닉스·CPO",
+    "category": "광통신",
+    "status": "확대 검토",
+    "summary": "실리콘 광소자와 광엔진을 스위치·연산 패키지 가까이에 통합해 전기 신호의 장거리 이동 부담을 줄이는 기술이다.",
+    "process": "전기 신호 → 광 변조기·레이저 → 광도파로·광섬유 → 수신기",
+    "impact": "데이터센터 연결에서 전력 소모·대역폭 문제를 줄일 수 있지만 광결합·열·테스트·신뢰성 과제가 남는다.",
+    "keywords": "CPO Silicon Photonics 광인터커넥트 광통신",
+    "related": [
+      "si",
+      "cowos"
+    ],
+    "source": "https://news.skhynix.com/en/tech-note-series-ep3/"
+  },
+  {
+    "id": "cxl",
+    "title": "CXL·메모리 풀링",
+    "category": "시스템",
+    "status": "도입 확대",
+    "summary": "CPU·가속기·메모리 장치 간 자원 연결 규약으로, 서버가 메모리 용량을 유연하게 확장·공유하도록 돕는다.",
+    "process": "호스트 → CXL 인터페이스 → 메모리 확장·풀링 → 소프트웨어 자원 관리",
+    "impact": "HBM의 초고속 근거리 메모리와는 서로 다른 계층을 담당하며 시스템 효율을 함께 개선할 수 있다.",
+    "keywords": "CXL 인터커넥트 서버 DRAM memory pooling",
+    "related": [
+      "hbf",
+      "hbm4",
+      "pim"
+    ],
+    "source": "https://news.skhynix.com/en/ocp-global-summit-2026/"
+  },
+  {
+    "id": "hbf",
+    "title": "HBF·계층형 메모리",
+    "category": "메모리",
+    "status": "표준화·시연",
+    "summary": "High Bandwidth Flash는 플래시 기반으로 대용량 데이터 공급을 목표로 연구되는 계층형 메모리 접근이다. HBM의 직접적인 대체라기보다 메모리 계층 확장 관점으로 봐야 한다.",
+    "process": "HBM 초고속 계층 → DRAM → HBF/SSD 대용량 계층",
+    "impact": "장문맥 AI 추론의 데이터 이동 비용을 줄이는 다양한 메모리 계층 구성과 연관된다.",
+    "keywords": "HBF High Bandwidth Flash NAND SSD AI",
+    "related": [
+      "nand",
+      "cxl"
+    ],
+    "source": "https://news.skhynix.com/en/hbf-at-fms-2026/"
+  },
+  {
+    "id": "nand",
+    "title": "300단 이상 3D NAND",
+    "category": "메모리",
+    "status": "고적층",
+    "summary": "셀을 수직 적층해 단위 면적당 저장 용량을 늘리는 3D NAND 기술이다. 수직 채널 형성과 초고종횡비 식각·증착이 핵심이다.",
+    "process": "다층막 증착 → 깊은 홀 식각 → 채널 형성 → 셀 연결 및 신뢰성 검증",
+    "impact": "더 높은 적층은 저장 밀도를 높이지만 균일한 깊은 식각과 공정 편차 관리를 어렵게 한다.",
+    "keywords": "3D NAND 321단 375단 HAR 식각",
+    "related": [
+      "etch",
+      "hbf",
+      "ald"
+    ],
+    "source": "https://news.skhynix.com/en/hbf-at-fms-2026/"
+  },
+  {
+    "id": "etch",
+    "title": "고종횡비 식각·ALE",
+    "category": "식각·장비",
+    "status": "정밀화",
+    "summary": "고종횡비(HAR) 식각과 원자층 식각(ALE)은 깊거나 미세한 구조를 손상과 편차를 줄이며 구현하려는 기술이다.",
+    "process": "플라즈마/표면 반응 → 선택적 제거 → 측벽·깊이 제어 → 계측",
+    "impact": "3D NAND와 차세대 트랜지스터가 미세화될수록 선택비·방향성·손상 제어가 중요해진다.",
+    "keywords": "HAR ALE Etch RIE ICP 플라즈마",
+    "related": [
+      "nand",
+      "gaa",
+      "inspection"
+    ],
+    "source": "https://www.lamresearch.com/"
+  },
+  {
+    "id": "ald",
+    "title": "ALD·선택적 증착",
+    "category": "증착·장비",
+    "status": "정밀화",
+    "summary": "원자층 증착(ALD)은 표면 자기제한 반응을 반복해 복잡한 구조에 얇고 균일한 박막을 형성하는 공정이다.",
+    "process": "전구체 투입 → 퍼지 → 반응물 투입 → 퍼지 → 반복",
+    "impact": "3D 구조 및 나노시트 내부처럼 균일한 두께가 필요한 곳에서 중요하다.",
+    "keywords": "ALD CVD PEALD 원자층 증착",
+    "related": [
+      "gaa",
+      "nand",
+      "highna"
+    ],
+    "source": "https://www.appliedmaterials.com/"
+  },
+  {
+    "id": "glass",
+    "title": "유리 기판·차세대 기판",
+    "category": "패키징",
+    "status": "개발·시제품",
+    "summary": "유리 코어 기반 패키지 기판은 평탄성·치수 안정성과 미세 패턴·대형 기판을 목표로 연구된다.",
+    "process": "유리 가공 → TGV(관통유리비아) → 금속화·RDL → 패키지 조립",
+    "impact": "대형 AI 패키지에서 신호 손실과 패키지 변형 문제를 줄일 가능성이 있지만 취성·수율이 도전이다.",
+    "keywords": "Glass substrate TGV 유리기판 RDL",
+    "related": [
+      "cowos",
+      "hybrid"
+    ],
+    "source": "https://www.intel.com/"
+  },
+  {
+    "id": "pim",
+    "title": "PIM·컴퓨트 인 메모리",
+    "category": "AI·시스템",
+    "status": "연구·응용",
+    "summary": "메모리 근처 또는 내부에서 일부 연산을 수행해 메모리와 연산기 사이 데이터 이동을 줄이는 접근이다.",
+    "process": "저장 데이터 → 메모리 근처 연산 → 데이터 전송량 감소",
+    "impact": "모든 연산을 대체하지 않고 워크로드 특성에 따라 이점이 달라진다.",
+    "keywords": "PIM Processing In Memory CIM AiMX",
+    "related": [
+      "hbf",
+      "cxl"
+    ],
+    "source": "https://news.skhynix.com/en/ai-infra-summit-2026/"
+  },
+  {
+    "id": "thermal",
+    "title": "HBM 열관리·냉각 패키징",
+    "category": "패키징",
+    "status": "솔루션 확대",
+    "summary": "고적층 HBM에서 발생한 열을 빼내기 위한 TIM·냉각 구조·패키지 열저항 설계다.",
+    "process": "발열 다이 → 접합·충진재 → 히트스프레더·냉각 경로 → 시스템 냉각",
+    "impact": "온도 상승은 성능 유지·수명·패키지 신뢰성에 영향을 주므로 전기적 설계와 공동 최적화해야 한다.",
+    "keywords": "MR-MUF ICE Cooling HBM 열관리 TIM",
+    "related": [
+      "hbm4",
+      "hybrid"
+    ],
+    "source": "https://news.skhynix.com/en/ihbm-solution/"
+  },
+  {
+    "id": "inspection",
+    "title": "첨단 검사·계측·수율",
+    "category": "검사·장비",
+    "status": "투자 확대",
+    "summary": "미세화와 적층이 진행될수록 공정 중 결함을 찾고 물리적·전기적 특성을 정량화하는 계측이 중요해진다.",
+    "process": "검사·계측 → 결함 분류 → 공정 보정 → 수율 개선",
+    "impact": "더 작은 결함도 수율에 영향을 미치며 계측·데이터 분석과 공정 제어를 함께 써야 한다.",
+    "keywords": "KLA inspection metrology overlay defect yield",
+    "related": [
+      "highna",
+      "etch",
+      "hybrid"
+    ],
+    "source": "https://www.kla.com/"
+  }
+]

@@ -1,0 +1,4550 @@
+{
+  "updated": "2026-11-02",
+  "sourcesNote": "개별 연봉은 공시 기반 재구성·사람인 통계·업종 모형을 구분함. 일괄 자동 갱신 아님",
+  "companies": [
+    {
+      "id": "samsung",
+      "name": "삼성전자",
+      "subtitle": "DS부문 · 메모리 / 파운드리 / 시스템LSI",
+      "segment": "종합반도체(IDM)",
+      "logo": "S",
+      "color": "#3278ef",
+      "description": "DRAM, NAND, 시스템반도체, 파운드리 및 패키징 연구·생산. 회사 전체 직원 수/연봉을 DS만의 수치로 혼동하지 않도록 주의하세요.",
+      "locations": [
+        {
+          "name": "기흥",
+          "region": "경기 용인",
+          "type": "웨이퍼 FAB"
+        },
+        {
+          "name": "화성",
+          "region": "경기 화성",
+          "type": "웨이퍼 FAB"
+        },
+        {
+          "name": "평택",
+          "region": "경기 평택",
+          "type": "웨이퍼 FAB"
+        },
+        {
+          "name": "천안",
+          "region": "충남 천안",
+          "type": "패키징·후공정 거점"
+        },
+        {
+          "name": "온양",
+          "region": "충남 아산",
+          "type": "패키징·후공정 거점"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "2025 사업보고서 요약 (DART 기반 제3자)",
+          "url": "https://dart.cinia.kr/today/?c=00126380&cp=300&cs=new"
+        },
+        {
+          "label": "공식 반도체 사업장 안내",
+          "url": "https://semiconductor.samsung.com/kr/about-us/locations/"
+        },
+        {
+          "label": "공식 DS 채용 직무소개",
+          "url": "https://www.samsung-dsrecruit.com/recruits/job_description/index.php"
+        },
+        {
+          "label": "전자공시시스템 (원문 조회)",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": "https://www.samsungcareers.com/",
+      "country": "한국",
+      "focus": "DRAM · NAND · 파운드리 · 시스템LSI",
+      "products": "HBM · DRAM · NAND · 파운드리 · 첨단 패키징",
+      "salaryData": {
+        "avg": 15800,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 3336059.38,
+      "sourceState": "일부 정량 검증",
+      "note": "평균 급여/직원 수는 삼성전자 전체 법인 기준이며 DS부문 인원만이 아닙니다.",
+      "homepage": "https://semiconductor.samsung.com/kr/about-us/locations/"
+    },
+    {
+      "id": "sk",
+      "name": "SK하이닉스",
+      "subtitle": "메모리 반도체 · DRAM / NAND / HBM",
+      "segment": "메모리(IDM)",
+      "logo": "SK",
+      "color": "#ef6155",
+      "description": "메모리 설계·제조와 HBM 연구개발. 이천과 청주를 주요 거점으로 하고 용인 신규 클러스터를 건설 중입니다.",
+      "locations": [
+        {
+          "name": "이천",
+          "region": "경기 이천",
+          "type": "메모리 FAB / R&D"
+        },
+        {
+          "name": "청주",
+          "region": "충북 청주",
+          "type": "메모리 FAB"
+        },
+        {
+          "name": "용인 클러스터",
+          "region": "경기 용인",
+          "type": "건설 중 · 예정 FAB"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "2025 사업보고서 요약 (DART 기반 제3자)",
+          "url": "https://dart.cinia.kr/today/?c=00164779&cp=3"
+        },
+        {
+          "label": "공식 용인 클러스터 설명",
+          "url": "https://news.skhynix.co.kr/2026-expert-column-series-ep5/"
+        },
+        {
+          "label": "공식 청주 M15X 설명",
+          "url": "https://news.skhynix.co.kr/m15x/"
+        },
+        {
+          "label": "전자공시시스템 (원문 조회)",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": "https://talent.skhynix.com/hub/ko/apply/job",
+      "country": "한국",
+      "focus": "DRAM · NAND · HBM",
+      "products": "HBM · DRAM · NAND · 패키징",
+      "salaryData": {
+        "avg": 18500,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 971466.75,
+      "sourceState": "일부 정량 검증",
+      "note": "평균 급여는 전체 직원 기준으로 성과급 영향이 큰 연도가 있습니다.",
+      "homepage": "https://talent.skhynix.com/hub/ko/apply/job"
+    },
+    {
+      "id": "amkor",
+      "name": "앰코테크놀로지코리아",
+      "subtitle": "패키징·테스트 전문 / OSAT",
+      "segment": "후공정(OSAT)",
+      "logo": "A",
+      "color": "#20a89b",
+      "description": "반도체 패키지 조립·테스트 전문기업. 국내 인천 및 광주에 생산 거점이 있습니다.",
+      "locations": [
+        {
+          "name": "K3",
+          "region": "인천 계양",
+          "type": "패키징·테스트 생산"
+        },
+        {
+          "name": "K4",
+          "region": "광주 북구",
+          "type": "패키징·테스트 생산"
+        },
+        {
+          "name": "K5",
+          "region": "인천 송도",
+          "type": "패키징·테스트 생산"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 평균 연봉 — 사람인 자체 통계 추정",
+          "url": "https://m.saramin.co.kr/salaries/total-salary/view?company_cd=foreign&company_type=4&csn=SC9QYWxINUpwaUVwVE5VR2lZZ1duQT09&group_cd=0&industry_cd=&list_type=company&max_salary=10000&min_salary=1000&order=rank&page=1&page_num=20&rec_status=&request_modify_company_nm=&search_company_nm=&search_company_nm_org="
+        },
+        {
+          "label": "공식 글로벌 사업장 주소",
+          "url": "https://amkor.com/kr/contact-us/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": "https://amkor.com/kr/careers/",
+      "country": "한국",
+      "focus": "패키징 · 테스트",
+      "products": "패키징 · 테스트 · Advanced Packaging",
+      "salaryData": {
+        "avg": 6798,
+        "type": "제3자 추정",
+        "year": 2025,
+        "sourceLabel": "2025 평균 연봉 — 사람인 자체 통계 추정",
+        "sourceUrl": "https://m.saramin.co.kr/salaries/total-salary/view?company_cd=foreign&company_type=4&csn=SC9QYWxINUpwaUVwVE5VR2lZZ1duQT09&group_cd=0&industry_cd=&list_type=company&max_salary=10000&min_salary=1000&order=rank&page=1&page_num=20&rec_status=&request_modify_company_nm=&search_company_nm=&search_company_nm_org=",
+        "basis": "2025년 사람인 통계 추정 · 포함 범위가 공시와 다를 수 있음"
+      },
+      "revenueEok": 52416,
+      "sourceState": "일부 정량 검증",
+      "note": "사람인 연봉은 자체 수집·통계 분석에 의한 추정으로 공시 평균과 집계 방식이 다릅니다.",
+      "homepage": "https://amkor.com/kr/contact-us/"
+    },
+    {
+      "id": "extra1",
+      "name": "DB하이텍",
+      "subtitle": "특화 공정 파운드리 · BCD·전력·아날로그·CIS",
+      "segment": "파운드리",
+      "logo": "DB",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 특화 공정 파운드리. 대표 제품·장비: BCD·전력·아날로그·CIS. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "부천·상우(음성)",
+          "region": "부천·상우(음성)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.dbhitek.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "특화 공정 파운드리",
+      "products": "BCD·전력·아날로그·CIS",
+      "salaryData": {
+        "avg": 9300,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 13972.33,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.dbhitek.com/"
+    },
+    {
+      "id": "extra2",
+      "name": "LX세미콘",
+      "subtitle": "디스플레이 IC · DDI·PMIC",
+      "segment": "팹리스",
+      "logo": "LX",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 디스플레이 IC. 대표 제품·장비: DDI·PMIC. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "서울·대전",
+          "region": "서울·대전",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.lxsemicon.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "디스플레이 IC",
+      "products": "DDI·PMIC",
+      "salaryData": {
+        "avg": 9800,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 16390.71,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.lxsemicon.com/"
+    },
+    {
+      "id": "extra3",
+      "name": "매그나칩반도체",
+      "subtitle": "전력반도체·디스플레이 · Power MOSFET",
+      "segment": "IDM",
+      "logo": "매그",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 전력반도체·디스플레이. 대표 제품·장비: Power MOSFET. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "청주",
+          "region": "청주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.magnachip.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "전력반도체·디스플레이",
+      "products": "Power MOSFET",
+      "salaryData": {
+        "low": 6200,
+        "high": 10500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.magnachip.com/"
+    },
+    {
+      "id": "extra4",
+      "name": "키파운드리",
+      "subtitle": "8인치 특화 파운드리 · 아날로그·전력 공정",
+      "segment": "파운드리",
+      "logo": "키파",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 8인치 특화 파운드리. 대표 제품·장비: 아날로그·전력 공정. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "청주",
+          "region": "청주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.key-foundry.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "8인치 특화 파운드리",
+      "products": "아날로그·전력 공정",
+      "salaryData": {
+        "low": 6100,
+        "high": 10000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.key-foundry.com/"
+    },
+    {
+      "id": "extra5",
+      "name": "SEMES",
+      "subtitle": "세정·공정 장비 · 세정장비·코터/디벨로퍼",
+      "segment": "장비",
+      "logo": "SE",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 세정·공정 장비. 대표 제품·장비: 세정장비·코터/디벨로퍼. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "천안",
+          "region": "천안",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 직원 현황 재구성 — K-비즈인",
+          "url": "https://kbizin.com/company/00207737"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.semes.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "세정·공정 장비",
+      "products": "세정장비·코터/디벨로퍼",
+      "salaryData": {
+        "avg": 11607,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 직원 현황 재구성 — K-비즈인",
+        "sourceUrl": "https://kbizin.com/company/00207737",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 24575,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.semes.com/"
+    },
+    {
+      "id": "extra6",
+      "name": "원익IPS",
+      "subtitle": "박막 증착·열처리 · CVD·ALD·열처리 장비",
+      "segment": "장비",
+      "logo": "원익",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 박막 증착·열처리. 대표 제품·장비: CVD·ALD·열처리 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "평택",
+          "region": "평택",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.wonikips.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "박막 증착·열처리",
+      "products": "CVD·ALD·열처리 장비",
+      "salaryData": {
+        "avg": 8553.7,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 9097.96,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.wonikips.com/"
+    },
+    {
+      "id": "extra7",
+      "name": "주성엔지니어링",
+      "subtitle": "박막 증착 · ALD·CVD 장비",
+      "segment": "장비",
+      "logo": "주성",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 박막 증착. 대표 제품·장비: ALD·CVD 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "광주(경기)",
+          "region": "광주(경기)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.jusung.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "박막 증착",
+      "products": "ALD·CVD 장비",
+      "salaryData": {
+        "avg": 9300,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 3106.93,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.jusung.com/"
+    },
+    {
+      "id": "extra8",
+      "name": "유진테크",
+      "subtitle": "반도체 증착 공정 · LPCVD 장비",
+      "segment": "장비",
+      "logo": "유진",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 증착 공정. 대표 제품·장비: LPCVD 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "용인",
+          "region": "용인",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.eugenetech.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 증착 공정",
+      "products": "LPCVD 장비",
+      "salaryData": {
+        "avg": 10000,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 3503.24,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.eugenetech.co.kr/"
+    },
+    {
+      "id": "extra9",
+      "name": "테스",
+      "subtitle": "증착·세정 · PECVD·Dry Cleaning",
+      "segment": "장비",
+      "logo": "테스",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 증착·세정. 대표 제품·장비: PECVD·Dry Cleaning. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "용인",
+          "region": "용인",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.hites.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "증착·세정",
+      "products": "PECVD·Dry Cleaning",
+      "salaryData": {
+        "avg": 12800,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 3511.16,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.hites.co.kr/"
+    },
+    {
+      "id": "extra10",
+      "name": "피에스케이",
+      "subtitle": "식각 후 감광막 제거 · Dry Strip·Dry Cleaning",
+      "segment": "장비",
+      "logo": "피에",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 식각 후 감광막 제거. 대표 제품·장비: Dry Strip·Dry Cleaning. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.pskinc.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "식각 후 감광막 제거",
+      "products": "Dry Strip·Dry Cleaning",
+      "salaryData": {
+        "avg": 9100,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 4572.13,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.pskinc.com/"
+    },
+    {
+      "id": "extra11",
+      "name": "피에스케이홀딩스",
+      "subtitle": "후공정 공정 장비 · Descum·Reflow",
+      "segment": "장비",
+      "logo": "피에",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 후공정 공정 장비. 대표 제품·장비: Descum·Reflow. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.pskholding.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "후공정 공정 장비",
+      "products": "Descum·Reflow",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.pskholding.com/"
+    },
+    {
+      "id": "extra12",
+      "name": "HPSP",
+      "subtitle": "고압 수소 어닐링 · 고압 어닐링 장비",
+      "segment": "장비",
+      "logo": "HP",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 고압 수소 어닐링. 대표 제품·장비: 고압 어닐링 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.hpsp.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "고압 수소 어닐링",
+      "products": "고압 어닐링 장비",
+      "salaryData": {
+        "avg": 14300,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 1729.65,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.hpsp.co.kr/"
+    },
+    {
+      "id": "extra13",
+      "name": "한미반도체",
+      "subtitle": "HBM 패키징·본딩 · TC Bonder·패키징 장비",
+      "segment": "장비",
+      "logo": "한미",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: HBM 패키징·본딩. 대표 제품·장비: TC Bonder·패키징 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "인천",
+          "region": "인천",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.hanmisemi.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "HBM 패키징·본딩",
+      "products": "TC Bonder·패키징 장비",
+      "salaryData": {
+        "avg": 6481.4,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 5766.85,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.hanmisemi.com/"
+    },
+    {
+      "id": "extra14",
+      "name": "이오테크닉스",
+      "subtitle": "레이저 응용 공정 · 레이저 마킹·어닐링 장비",
+      "segment": "장비",
+      "logo": "이오",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 레이저 응용 공정. 대표 제품·장비: 레이저 마킹·어닐링 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "안양",
+          "region": "안양",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.eotechnics.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "레이저 응용 공정",
+      "products": "레이저 마킹·어닐링 장비",
+      "salaryData": {
+        "avg": 7175.5,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 3808.91,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.eotechnics.com/"
+    },
+    {
+      "id": "extra15",
+      "name": "테크윙",
+      "subtitle": "테스트 자동화 · 메모리 테스트 핸들러",
+      "segment": "장비",
+      "logo": "테크",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 테스트 자동화. 대표 제품·장비: 메모리 테스트 핸들러. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.techwing.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "테스트 자동화",
+      "products": "메모리 테스트 핸들러",
+      "salaryData": {
+        "avg": 5800,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 1591.28,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.techwing.co.kr/"
+    },
+    {
+      "id": "extra16",
+      "name": "엑시콘",
+      "subtitle": "메모리 테스트 · 반도체 검사 장비",
+      "segment": "장비",
+      "logo": "엑시",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 메모리 테스트. 대표 제품·장비: 반도체 검사 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "성남",
+          "region": "성남",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.exicon.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "메모리 테스트",
+      "products": "반도체 검사 장비",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.exicon.co.kr/"
+    },
+    {
+      "id": "extra17",
+      "name": "와이씨",
+      "subtitle": "구 와이아이케이 · 메모리 웨이퍼 테스트 장비",
+      "segment": "장비",
+      "logo": "와이",
+      "color": "#287a9f",
+      "description": "2024년 3월 와이아이케이에서 와이씨로 사명 변경. DRAM·NAND 웨이퍼 테스트 시스템을 개발·공급하며 공식 채용 안내에 과거 공개채용 이력이 있음.",
+      "locations": [
+        {
+          "name": "본사",
+          "region": "경기 성남 판교로255번길 28",
+          "type": "본사·연구개발"
+        }
+      ],
+      "sources": [
+        {
+          "label": "와이씨 공식 회사 소개·제품",
+          "url": "https://www.yccorp.com/kr/index.php"
+        },
+        {
+          "label": "와이씨 공식 채용 공고·과거 모집 이력",
+          "url": "https://www.yccorp.com/kr/recruit/recruit03.php"
+        },
+        {
+          "label": "2024년 3월 사명 변경 — KIND 공시",
+          "url": "https://kind.krx.co.kr/external/2025/03/18/000123/20250318000566/11011.htm"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": "https://www.yccorp.com/kr/recruit/recruit03.php",
+      "country": "한국",
+      "focus": "DRAM · NAND 웨이퍼 테스터",
+      "products": "MT6122 NAND Wafer Tester · MT6133/MT6135S/MT8311 DRAM Wafer Tester",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.yccorp.com/kr/index.php",
+      "historicalRecruitment": [
+        {
+          "year": 2025,
+          "label": "YC-EXICON-SEMCNS GROUP 하반기 대졸신입공채 (마감)",
+          "source": "https://www.yccorp.com/kr/recruit/recruit03.php"
+        },
+        {
+          "year": 2024,
+          "label": "상·하반기 대졸신입공채 이력 (마감)",
+          "source": "https://www.yccorp.com/kr/recruit/recruit03.php"
+        }
+      ]
+    },
+    {
+      "id": "extra18",
+      "name": "디아이",
+      "subtitle": "메모리 검사 · Burn-in 테스트 장비",
+      "segment": "장비",
+      "logo": "디아",
+      "color": "#287a9f",
+      "description": "반도체 검사장비 제조 업체로 KRX 상장사 정보에 공식 등록. 회사 홈페이지의 HTTPS 접근이 검증되지 않아 KRX 기업정보 링크를 제공.",
+      "locations": [
+        {
+          "name": "서울",
+          "region": "서울",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "한국거래소 KIND 기업정보 — 반도체 검사장비·본사",
+          "url": "https://kind.krx.co.kr/corpdetail/totalinfo.do?isurCd=00316&kisComCd=360392&method=searchTotalInfo&repIsuCd=KR7003160009"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "메모리 검사",
+      "products": "Burn-in 테스트 장비",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://kind.krx.co.kr/corpdetail/totalinfo.do?isurCd=00316&kisComCd=360392&method=searchTotalInfo&repIsuCd=KR7003160009"
+    },
+    {
+      "id": "extra19",
+      "name": "넥스틴",
+      "subtitle": "결함 검사 · 광학 검사 장비",
+      "segment": "장비",
+      "logo": "넥스",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 결함 검사. 대표 제품·장비: 광학 검사 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.nextinsol.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "결함 검사",
+      "products": "광학 검사 장비",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.nextinsol.com/"
+    },
+    {
+      "id": "extra20",
+      "name": "오로스테크놀로지",
+      "subtitle": "계측 · 오버레이 계측 장비",
+      "segment": "장비",
+      "logo": "오로",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 계측. 대표 제품·장비: 오버레이 계측 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.aurostech.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "계측",
+      "products": "오버레이 계측 장비",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.aurostech.com/"
+    },
+    {
+      "id": "extra21",
+      "name": "케이씨텍",
+      "subtitle": "CMP·세정 · CMP 장비·슬러리",
+      "segment": "장비",
+      "logo": "케이",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: CMP·세정. 대표 제품·장비: CMP 장비·슬러리. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "안성",
+          "region": "안성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.kctech.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "CMP·세정",
+      "products": "CMP 장비·슬러리",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.kctech.com/"
+    },
+    {
+      "id": "extra22",
+      "name": "제우스",
+      "subtitle": "습식 세정·공정 자동화 · Wet Cleaning 장비",
+      "segment": "장비",
+      "logo": "제우",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 습식 세정·공정 자동화. 대표 제품·장비: Wet Cleaning 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.globalzeus.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "습식 세정·공정 자동화",
+      "products": "Wet Cleaning 장비",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.globalzeus.com/"
+    },
+    {
+      "id": "extra23",
+      "name": "에스에프에이",
+      "subtitle": "자동화·물류 시스템 · 공장 자동화 장비",
+      "segment": "장비",
+      "logo": "에스",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 자동화·물류 시스템. 대표 제품·장비: 공장 자동화 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.sfa.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "자동화·물류 시스템",
+      "products": "공장 자동화 장비",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.sfa.co.kr/"
+    },
+    {
+      "id": "extra24",
+      "name": "인텍플러스",
+      "subtitle": "광학·3D 검사 · 반도체 패키지 검사 장비",
+      "segment": "장비",
+      "logo": "인텍",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 광학·3D 검사. 대표 제품·장비: 반도체 패키지 검사 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "대전",
+          "region": "대전",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.intekplus.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "광학·3D 검사",
+      "products": "반도체 패키지 검사 장비",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.intekplus.com/"
+    },
+    {
+      "id": "extra25",
+      "name": "기가레인",
+      "subtitle": "플라즈마 식각 · DRIE 식각 장비",
+      "segment": "장비",
+      "logo": "기가",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 플라즈마 식각. 대표 제품·장비: DRIE 식각 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.gigalane.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "플라즈마 식각",
+      "products": "DRIE 식각 장비",
+      "salaryData": {
+        "low": 5300,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.gigalane.com/"
+    },
+    {
+      "id": "extra26",
+      "name": "하나마이크론",
+      "subtitle": "반도체 패키징·테스트 · 패키지 조립·테스트",
+      "segment": "후공정",
+      "logo": "하나",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 패키징·테스트. 대표 제품·장비: 패키지 조립·테스트. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "아산",
+          "region": "아산",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.hanamicron.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 패키징·테스트",
+      "products": "패키지 조립·테스트",
+      "salaryData": {
+        "avg": 6300,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 15344.19,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.hanamicron.com/"
+    },
+    {
+      "id": "extra27",
+      "name": "SFA반도체",
+      "subtitle": "패키징·테스트 · 반도체 조립·테스트",
+      "segment": "후공정",
+      "logo": "SF",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 패키징·테스트. 대표 제품·장비: 반도체 조립·테스트. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "천안",
+          "region": "천안",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.sfasemicon.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "패키징·테스트",
+      "products": "반도체 조립·테스트",
+      "salaryData": {
+        "avg": 5800,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 3673.89,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.sfasemicon.com/"
+    },
+    {
+      "id": "extra28",
+      "name": "네패스",
+      "subtitle": "첨단 패키징 · WLP·Fan-out",
+      "segment": "후공정",
+      "logo": "네패",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 첨단 패키징. 대표 제품·장비: WLP·Fan-out. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "청주",
+          "region": "청주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.nepes.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "첨단 패키징",
+      "products": "WLP·Fan-out",
+      "salaryData": {
+        "avg": 5539.6,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 5214.39,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.nepes.co.kr/"
+    },
+    {
+      "id": "extra29",
+      "name": "LB세미콘",
+      "subtitle": "디스플레이 구동칩 후공정 · 범핑·테스트",
+      "segment": "후공정",
+      "logo": "LB",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 디스플레이 구동칩 후공정. 대표 제품·장비: 범핑·테스트. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "평택",
+          "region": "평택",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.lbsemicon.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "디스플레이 구동칩 후공정",
+      "products": "범핑·테스트",
+      "salaryData": {
+        "low": 4400,
+        "high": 7800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.lbsemicon.com/"
+    },
+    {
+      "id": "extra30",
+      "name": "윈팩",
+      "subtitle": "반도체 패키징·테스트 · 메모리 패키징·테스트",
+      "segment": "후공정",
+      "logo": "윈팩",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 패키징·테스트. 대표 제품·장비: 메모리 패키징·테스트. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "용인",
+          "region": "용인",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.winpac.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 패키징·테스트",
+      "products": "메모리 패키징·테스트",
+      "salaryData": {
+        "low": 4400,
+        "high": 7800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.winpac.co.kr/"
+    },
+    {
+      "id": "extra31",
+      "name": "시그네틱스",
+      "subtitle": "패키징 서비스 · 패키지 조립·테스트",
+      "segment": "후공정",
+      "logo": "시그",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 패키징 서비스. 대표 제품·장비: 패키지 조립·테스트. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "파주",
+          "region": "파주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.signetics.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "패키징 서비스",
+      "products": "패키지 조립·테스트",
+      "salaryData": {
+        "low": 4400,
+        "high": 7800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.signetics.com/"
+    },
+    {
+      "id": "extra32",
+      "name": "ASE코리아",
+      "subtitle": "반도체 패키징·테스트 · OSAT",
+      "segment": "후공정",
+      "logo": "AS",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 패키징·테스트. 대표 제품·장비: OSAT. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "파주",
+          "region": "파주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.aseglobal.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 패키징·테스트",
+      "products": "OSAT",
+      "salaryData": {
+        "low": 4400,
+        "high": 7800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.aseglobal.com/"
+    },
+    {
+      "id": "extra33",
+      "name": "삼성전기",
+      "subtitle": "패키지 기판 · FC-BGA",
+      "segment": "기판·부품",
+      "logo": "삼성",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 패키지 기판. 대표 제품·장비: FC-BGA. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "수원·세종·부산",
+          "region": "수원·세종·부산",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 직원 현황 재구성 — 보너스칩",
+          "url": "https://bonuschip.app/guides/korea-semiconductor-suppliers-pay"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.samsungsem.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "패키지 기판",
+      "products": "FC-BGA",
+      "salaryData": {
+        "avg": 11000,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 직원 현황 재구성 — 보너스칩",
+        "sourceUrl": "https://bonuschip.app/guides/korea-semiconductor-suppliers-pay",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.samsungsem.com/"
+    },
+    {
+      "id": "extra34",
+      "name": "대덕전자",
+      "subtitle": "반도체 패키지 기판 · FC-BGA·메모리 기판",
+      "segment": "기판·부품",
+      "logo": "대덕",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 패키지 기판. 대표 제품·장비: FC-BGA·메모리 기판. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "안산",
+          "region": "안산",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.daeduck.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 패키지 기판",
+      "products": "FC-BGA·메모리 기판",
+      "salaryData": {
+        "low": 4900,
+        "high": 8500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.daeduck.com/"
+    },
+    {
+      "id": "extra35",
+      "name": "심텍",
+      "subtitle": "반도체 패키징용 PCB · 메모리 패키지 기판",
+      "segment": "기판·부품",
+      "logo": "심텍",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 패키징용 PCB. 대표 제품·장비: 메모리 패키지 기판. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "청주",
+          "region": "청주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.simmtech.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 패키징용 PCB",
+      "products": "메모리 패키지 기판",
+      "salaryData": {
+        "low": 4900,
+        "high": 8500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.simmtech.com/"
+    },
+    {
+      "id": "extra36",
+      "name": "코리아써키트",
+      "subtitle": "PCB·패키지 기판 · 반도체 패키지 기판",
+      "segment": "기판·부품",
+      "logo": "코리",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: PCB·패키지 기판. 대표 제품·장비: 반도체 패키지 기판. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "안산",
+          "region": "안산",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.kcg.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "PCB·패키지 기판",
+      "products": "반도체 패키지 기판",
+      "salaryData": {
+        "low": 4900,
+        "high": 8500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.kcg.co.kr/"
+    },
+    {
+      "id": "extra37",
+      "name": "ISC",
+      "subtitle": "반도체 테스트 소켓 · 실리콘 러버 소켓",
+      "segment": "테스트부품",
+      "logo": "IS",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 테스트 소켓. 대표 제품·장비: 실리콘 러버 소켓. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "성남",
+          "region": "성남",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.isc21.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 테스트 소켓",
+      "products": "실리콘 러버 소켓",
+      "salaryData": {
+        "avg": 6300,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 2201.95,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.isc21.kr/"
+    },
+    {
+      "id": "extra38",
+      "name": "리노공업",
+      "subtitle": "테스트 핀·소켓 · 리노핀·IC 테스트 소켓",
+      "segment": "테스트부품",
+      "logo": "리노",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 테스트 핀·소켓. 대표 제품·장비: 리노핀·IC 테스트 소켓. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "부산",
+          "region": "부산",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.leeno.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "테스트 핀·소켓",
+      "products": "리노핀·IC 테스트 소켓",
+      "salaryData": {
+        "avg": 11707.31,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 3725.34,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.leeno.com/"
+    },
+    {
+      "id": "extra39",
+      "name": "티에스이",
+      "subtitle": "웨이퍼 검사 인터페이스 · 프로브카드·인터페이스보드",
+      "segment": "테스트부품",
+      "logo": "티에",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 웨이퍼 검사 인터페이스. 대표 제품·장비: 프로브카드·인터페이스보드. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "천안",
+          "region": "천안",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.tse21.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "웨이퍼 검사 인터페이스",
+      "products": "프로브카드·인터페이스보드",
+      "salaryData": {
+        "low": 5000,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.tse21.com/"
+    },
+    {
+      "id": "extra40",
+      "name": "마이크로투나노",
+      "subtitle": "프로브카드 · MEMS 프로브카드",
+      "segment": "테스트부품",
+      "logo": "마이",
+      "color": "#287a9f",
+      "description": "MEMS 기반 반도체 테스트용 프로브 카드와 미세 탐침·센서 제품 개발 및 제조. 공식 홈페이지로 확인된 본사는 용인 덕성산단.",
+      "locations": [
+        {
+          "name": "본사",
+          "region": "경기 용인 처인구 덕성산단2로50번길 43",
+          "type": "본사·제조 거점"
+        },
+        {
+          "name": "화성지점",
+          "region": "경기 화성 영천동",
+          "type": "지점"
+        }
+      ],
+      "sources": [
+        {
+          "label": "마이크로투나노 공식 홈페이지 — 제품·사업장",
+          "url": "https://www.micro2nano.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "MEMS · 반도체 검사용 Probe Card · 센서",
+      "products": "DRAM Probe Card · Microneedle · V-Groove · Pressure Sensor",
+      "salaryData": {
+        "low": 5000,
+        "high": 9600,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.micro2nano.com/"
+    },
+    {
+      "id": "extra41",
+      "name": "에프에스티",
+      "subtitle": "포토 공정 부품 · 펠리클·칠러",
+      "segment": "소재·부품",
+      "logo": "에프",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 포토 공정 부품. 대표 제품·장비: 펠리클·칠러. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.fstc.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "포토 공정 부품",
+      "products": "펠리클·칠러",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.fstc.co.kr/"
+    },
+    {
+      "id": "extra42",
+      "name": "에스앤에스텍",
+      "subtitle": "포토마스크 소재 · 블랭크 마스크",
+      "segment": "소재·부품",
+      "logo": "에스",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 포토마스크 소재. 대표 제품·장비: 블랭크 마스크. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "대구",
+          "region": "대구",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.snstech.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "포토마스크 소재",
+      "products": "블랭크 마스크",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.snstech.co.kr/"
+    },
+    {
+      "id": "extra43",
+      "name": "동진쎄미켐",
+      "subtitle": "포토레지스트·전자재료 · PR·현상액",
+      "segment": "소재·부품",
+      "logo": "동진",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 포토레지스트·전자재료. 대표 제품·장비: PR·현상액. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "인천",
+          "region": "인천",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.dongjin.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "포토레지스트·전자재료",
+      "products": "PR·현상액",
+      "salaryData": {
+        "avg": 8263.7,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 11941.45,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.dongjin.com/"
+    },
+    {
+      "id": "extra44",
+      "name": "솔브레인",
+      "subtitle": "반도체 케미컬 · 식각액·세정액",
+      "segment": "소재·부품",
+      "logo": "솔브",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 케미컬. 대표 제품·장비: 식각액·세정액. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "성남·공주",
+          "region": "성남·공주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+          "url": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.soulbrain.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        },
+        {
+          "label": "2023~2025 연말 직원수 · DART 2차 재구성",
+          "url": "https://www.flashmemory.co.kr/companies/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 케미컬",
+      "products": "식각액·세정액",
+      "salaryData": {
+        "avg": 9300,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 재구성 — Flash Memory (DART 원문 재확인 권장)",
+        "sourceUrl": "https://www.flashmemory.co.kr/companies/compare/?id=wonik-ips",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": 9233.82,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.soulbrain.co.kr/"
+    },
+    {
+      "id": "extra45",
+      "name": "SK실트론",
+      "subtitle": "반도체 웨이퍼 · 실리콘·SiC 웨이퍼",
+      "segment": "소재·부품",
+      "logo": "SK",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 웨이퍼. 대표 제품·장비: 실리콘·SiC 웨이퍼. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "구미",
+          "region": "구미",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "2025 사업보고서 직원 현황 재구성 — K-비즈인",
+          "url": "https://kbizin.com/company/00138020"
+        },
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.sksiltron.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 웨이퍼",
+      "products": "실리콘·SiC 웨이퍼",
+      "salaryData": {
+        "avg": 9299,
+        "type": "공시 요약",
+        "year": 2025,
+        "sourceLabel": "2025 사업보고서 직원 현황 재구성 — K-비즈인",
+        "sourceUrl": "https://kbizin.com/company/00138020",
+        "basis": "2025년 법인 전체 직원 평균 · 신입 초봉 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "일부 정량 검증",
+      "homepage": "https://www.sksiltron.com/"
+    },
+    {
+      "id": "extra46",
+      "name": "원익머트리얼즈",
+      "subtitle": "반도체 특수가스 · 공정용 가스",
+      "segment": "소재·부품",
+      "logo": "원익",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 특수가스. 대표 제품·장비: 공정용 가스. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "청주",
+          "region": "청주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.wonikmaterials.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 특수가스",
+      "products": "공정용 가스",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.wonikmaterials.com/"
+    },
+    {
+      "id": "extra47",
+      "name": "원익QnC",
+      "subtitle": "쿼츠·세라믹 부품 · Quartzware",
+      "segment": "소재·부품",
+      "logo": "원익",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 쿼츠·세라믹 부품. 대표 제품·장비: Quartzware. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "구미",
+          "region": "구미",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.wonikqnc.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "쿼츠·세라믹 부품",
+      "products": "Quartzware",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.wonikqnc.com/"
+    },
+    {
+      "id": "extra48",
+      "name": "하나머티리얼즈",
+      "subtitle": "실리콘 공정 부품 · Si Electrode·Ring",
+      "segment": "소재·부품",
+      "logo": "하나",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 실리콘 공정 부품. 대표 제품·장비: Si Electrode·Ring. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "천안",
+          "region": "천안",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.hanamts.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "실리콘 공정 부품",
+      "products": "Si Electrode·Ring",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.hanamts.com/"
+    },
+    {
+      "id": "extra49",
+      "name": "코미코",
+      "subtitle": "반도체 공정 부품 관리 · 세정·코팅",
+      "segment": "소재·부품",
+      "logo": "코미",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 공정 부품 관리. 대표 제품·장비: 세정·코팅. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "안성",
+          "region": "안성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.komico.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 공정 부품 관리",
+      "products": "세정·코팅",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.komico.com/"
+    },
+    {
+      "id": "extra50",
+      "name": "미코",
+      "subtitle": "세라믹 부품 · 세라믹 히터·부품",
+      "segment": "소재·부품",
+      "logo": "미코",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 세라믹 부품. 대표 제품·장비: 세라믹 히터·부품. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "안성",
+          "region": "안성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.mico.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "세라믹 부품",
+      "products": "세라믹 히터·부품",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.mico.kr/"
+    },
+    {
+      "id": "extra51",
+      "name": "한솔케미칼",
+      "subtitle": "반도체 화학 소재 · 과산화수소·전구체",
+      "segment": "소재·부품",
+      "logo": "한솔",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 화학 소재. 대표 제품·장비: 과산화수소·전구체. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "서울·전주",
+          "region": "서울·전주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.hansolchemical.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 화학 소재",
+      "products": "과산화수소·전구체",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.hansolchemical.com/"
+    },
+    {
+      "id": "extra52",
+      "name": "이엔에프테크놀로지",
+      "subtitle": "포토·식각 화학소재 · 신너·현상액",
+      "segment": "소재·부품",
+      "logo": "이엔",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 포토·식각 화학소재. 대표 제품·장비: 신너·현상액. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "용인",
+          "region": "용인",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.enftech.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "포토·식각 화학소재",
+      "products": "신너·현상액",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.enftech.com/"
+    },
+    {
+      "id": "extra53",
+      "name": "후성",
+      "subtitle": "특수가스·화학 소재 · 반도체 가스",
+      "segment": "소재·부품",
+      "logo": "후성",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 특수가스·화학 소재. 대표 제품·장비: 반도체 가스. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "화성",
+          "region": "화성",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.foosungchem.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "특수가스·화학 소재",
+      "products": "반도체 가스",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.foosungchem.com/"
+    },
+    {
+      "id": "extra54",
+      "name": "덕산테코피아",
+      "subtitle": "반도체 공정 소재 · 전구체",
+      "segment": "소재·부품",
+      "logo": "덕산",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 공정 소재. 대표 제품·장비: 전구체. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "천안",
+          "region": "천안",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.dstp.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 공정 소재",
+      "products": "전구체",
+      "salaryData": {
+        "low": 5200,
+        "high": 9200,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.dstp.co.kr/"
+    },
+    {
+      "id": "extra55",
+      "name": "텔레칩스",
+      "subtitle": "차량용 반도체 · 차량용 AP·인포테인먼트 SoC",
+      "segment": "팹리스",
+      "logo": "LX",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 차량용 반도체. 대표 제품·장비: 차량용 AP·인포테인먼트 SoC. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "성남",
+          "region": "성남",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.telechips.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "차량용 반도체",
+      "products": "차량용 AP·인포테인먼트 SoC",
+      "salaryData": {
+        "low": 5200,
+        "high": 9800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.telechips.com/"
+    },
+    {
+      "id": "extra56",
+      "name": "어보브반도체",
+      "subtitle": "마이크로컨트롤러 · MCU",
+      "segment": "팹리스",
+      "logo": "어보",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 마이크로컨트롤러. 대표 제품·장비: MCU. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "청주",
+          "region": "청주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.abov.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "마이크로컨트롤러",
+      "products": "MCU",
+      "salaryData": {
+        "low": 5200,
+        "high": 9800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.abov.co.kr/"
+    },
+    {
+      "id": "extra57",
+      "name": "제주반도체",
+      "subtitle": "저전력 메모리 · 모바일·IoT 메모리",
+      "segment": "팹리스",
+      "logo": "제주",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 저전력 메모리. 대표 제품·장비: 모바일·IoT 메모리. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "제주",
+          "region": "제주",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.jeju-semi.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "저전력 메모리",
+      "products": "모바일·IoT 메모리",
+      "salaryData": {
+        "low": 5200,
+        "high": 9800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.jeju-semi.com/"
+    },
+    {
+      "id": "extra58",
+      "name": "넥스트칩",
+      "subtitle": "차량용 영상 반도체 · ADAS 영상처리",
+      "segment": "팹리스",
+      "logo": "넥스",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 차량용 영상 반도체. 대표 제품·장비: ADAS 영상처리. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "성남",
+          "region": "성남",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.nextchip.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "차량용 영상 반도체",
+      "products": "ADAS 영상처리",
+      "salaryData": {
+        "low": 5200,
+        "high": 9800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.nextchip.com/"
+    },
+    {
+      "id": "extra59",
+      "name": "동운아나텍",
+      "subtitle": "아날로그 반도체 · AF 드라이버 IC",
+      "segment": "팹리스",
+      "logo": "동운",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 아날로그 반도체. 대표 제품·장비: AF 드라이버 IC. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "서울",
+          "region": "서울",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.dwanatech.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "아날로그 반도체",
+      "products": "AF 드라이버 IC",
+      "salaryData": {
+        "low": 5200,
+        "high": 9800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.dwanatech.com/"
+    },
+    {
+      "id": "extra60",
+      "name": "실리콘마이터스",
+      "subtitle": "전원 관리 반도체 · PMIC",
+      "segment": "팹리스",
+      "logo": "실리",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 전원 관리 반도체. 대표 제품·장비: PMIC. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "성남",
+          "region": "성남",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.siliconmitus.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "전원 관리 반도체",
+      "products": "PMIC",
+      "salaryData": {
+        "low": 5200,
+        "high": 9800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.siliconmitus.com/"
+    },
+    {
+      "id": "extra61",
+      "name": "리벨리온",
+      "subtitle": "AI 가속기 · NPU·AI 추론용 칩",
+      "segment": "팹리스",
+      "logo": "리벨",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: AI 가속기. 대표 제품·장비: NPU·AI 추론용 칩. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "성남",
+          "region": "성남",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://rebellions.ai/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "AI 가속기",
+      "products": "NPU·AI 추론용 칩",
+      "salaryData": {
+        "low": 5200,
+        "high": 9800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://rebellions.ai/"
+    },
+    {
+      "id": "extra62",
+      "name": "퓨리오사AI",
+      "subtitle": "AI 가속기 · 데이터센터 AI 칩",
+      "segment": "팹리스",
+      "logo": "퓨리",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: AI 가속기. 대표 제품·장비: 데이터센터 AI 칩. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "서울",
+          "region": "서울",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://furiosa.ai/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "AI 가속기",
+      "products": "데이터센터 AI 칩",
+      "salaryData": {
+        "low": 5200,
+        "high": 9800,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://furiosa.ai/"
+    },
+    {
+      "id": "extra63",
+      "name": "가온칩스",
+      "subtitle": "반도체 설계 서비스 · SoC 설계·검증",
+      "segment": "디자인하우스",
+      "logo": "가온",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 반도체 설계 서비스. 대표 제품·장비: SoC 설계·검증. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "성남",
+          "region": "성남",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.gaonchips.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "반도체 설계 서비스",
+      "products": "SoC 설계·검증",
+      "salaryData": {
+        "low": 4900,
+        "high": 9000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.gaonchips.com/"
+    },
+    {
+      "id": "extra64",
+      "name": "에이디테크놀로지",
+      "subtitle": "ASIC 설계·구현 · SoC 설계 서비스",
+      "segment": "디자인하우스",
+      "logo": "에이",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: ASIC 설계·구현. 대표 제품·장비: SoC 설계 서비스. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "수원",
+          "region": "수원",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.adtechnology.co.kr/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "ASIC 설계·구현",
+      "products": "SoC 설계 서비스",
+      "salaryData": {
+        "low": 4900,
+        "high": 9000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.adtechnology.co.kr/"
+    },
+    {
+      "id": "extra65",
+      "name": "코아시아세미",
+      "subtitle": "시스템반도체 설계 서비스 · ASIC 설계",
+      "segment": "디자인하우스",
+      "logo": "코아",
+      "color": "#287a9f",
+      "description": "한국 기업. 주력 분야: 시스템반도체 설계 서비스. 대표 제품·장비: ASIC 설계. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "서울",
+          "region": "서울",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.coasia.com/"
+        },
+        {
+          "label": "공시 원문 검색 — 금융감독원 DART",
+          "url": "https://dart.fss.or.kr/"
+        }
+      ],
+      "career": null,
+      "country": "한국",
+      "focus": "시스템반도체 설계 서비스",
+      "products": "ASIC 설계",
+      "salaryData": {
+        "low": 4900,
+        "high": 9000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "동종 업종을 가정한 넓은 참고 구간 · 해당 기업 연봉 조사 결과가 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.coasia.com/"
+    },
+    {
+      "id": "extra66",
+      "name": "TSMC",
+      "subtitle": "첨단 파운드리 · N3·N2 및 선단 공정",
+      "segment": "파운드리",
+      "logo": "TS",
+      "color": "#885cc2",
+      "description": "대만 기업. 주력 분야: 첨단 파운드리. 대표 제품·장비: N3·N2 및 선단 공정. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "대만 신주·타이난·가오슝 등",
+          "region": "대만 신주·타이난·가오슝 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.tsmc.com/"
+        }
+      ],
+      "career": "https://careers.tsmc.com/",
+      "country": "대만",
+      "focus": "첨단 파운드리",
+      "products": "N3·N2 및 선단 공정",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.tsmc.com/"
+    },
+    {
+      "id": "extra67",
+      "name": "UMC",
+      "subtitle": "특화·성숙 공정 파운드리 · 로직·RF·임베디드",
+      "segment": "파운드리",
+      "logo": "UM",
+      "color": "#885cc2",
+      "description": "대만 기업. 주력 분야: 특화·성숙 공정 파운드리. 대표 제품·장비: 로직·RF·임베디드. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "대만 신주·타이난",
+          "region": "대만 신주·타이난",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.umc.com/"
+        }
+      ],
+      "career": null,
+      "country": "대만",
+      "focus": "특화·성숙 공정 파운드리",
+      "products": "로직·RF·임베디드",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.umc.com/"
+    },
+    {
+      "id": "extra68",
+      "name": "GlobalFoundries",
+      "subtitle": "특화 공정 파운드리 · RF SOI·FD-SOI",
+      "segment": "파운드리",
+      "logo": "Gl",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 특화 공정 파운드리. 대표 제품·장비: RF SOI·FD-SOI. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 뉴욕·버몬트·싱가포르",
+          "region": "미국 뉴욕·버몬트·싱가포르",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://gf.com/"
+        }
+      ],
+      "career": "https://gf.com/careers/",
+      "country": "미국",
+      "focus": "특화 공정 파운드리",
+      "products": "RF SOI·FD-SOI",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://gf.com/"
+    },
+    {
+      "id": "extra69",
+      "name": "Intel",
+      "subtitle": "CPU·파운드리 · Core·Xeon·Intel Foundry",
+      "segment": "IDM",
+      "logo": "In",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: CPU·파운드리. 대표 제품·장비: Core·Xeon·Intel Foundry. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 오리건·애리조나·뉴멕시코 등",
+          "region": "미국 오리건·애리조나·뉴멕시코 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.intel.com/"
+        }
+      ],
+      "career": "https://jobs.intel.com/",
+      "country": "미국",
+      "focus": "CPU·파운드리",
+      "products": "Core·Xeon·Intel Foundry",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.intel.com/"
+    },
+    {
+      "id": "extra70",
+      "name": "Micron",
+      "subtitle": "DRAM·NAND·HBM · 메모리 반도체",
+      "segment": "메모리",
+      "logo": "Mi",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: DRAM·NAND·HBM. 대표 제품·장비: 메모리 반도체. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 아이다호·버지니아·일본·대만 등",
+          "region": "미국 아이다호·버지니아·일본·대만 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.micron.com/"
+        }
+      ],
+      "career": "https://careers.micron.com/",
+      "country": "미국",
+      "focus": "DRAM·NAND·HBM",
+      "products": "메모리 반도체",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.micron.com/"
+    },
+    {
+      "id": "extra71",
+      "name": "NVIDIA",
+      "subtitle": "AI GPU·가속기 · GPU·AI 컴퓨팅 시스템",
+      "segment": "팹리스",
+      "logo": "NV",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: AI GPU·가속기. 대표 제품·장비: GPU·AI 컴퓨팅 시스템. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 산타클라라(본사·설계)",
+          "region": "미국 산타클라라(본사·설계)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.nvidia.com/"
+        }
+      ],
+      "career": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "country": "미국",
+      "focus": "AI GPU·가속기",
+      "products": "GPU·AI 컴퓨팅 시스템",
+      "salaryData": {
+        "low": 6500,
+        "high": 12500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.nvidia.com/"
+    },
+    {
+      "id": "extra72",
+      "name": "AMD",
+      "subtitle": "CPU·GPU·AI 가속기 · EPYC·Ryzen·Instinct",
+      "segment": "팹리스",
+      "logo": "AM",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: CPU·GPU·AI 가속기. 대표 제품·장비: EPYC·Ryzen·Instinct. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 산타클라라(설계 중심)",
+          "region": "미국 산타클라라(설계 중심)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.amd.com/"
+        }
+      ],
+      "career": "https://careers.amd.com/",
+      "country": "미국",
+      "focus": "CPU·GPU·AI 가속기",
+      "products": "EPYC·Ryzen·Instinct",
+      "salaryData": {
+        "low": 6500,
+        "high": 12500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.amd.com/"
+    },
+    {
+      "id": "extra73",
+      "name": "Qualcomm",
+      "subtitle": "모바일·통신 SoC · Snapdragon·모뎀",
+      "segment": "팹리스",
+      "logo": "Qu",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 모바일·통신 SoC. 대표 제품·장비: Snapdragon·모뎀. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 샌디에이고(본사·설계)",
+          "region": "미국 샌디에이고(본사·설계)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.qualcomm.com/"
+        }
+      ],
+      "career": "https://careers.qualcomm.com/",
+      "country": "미국",
+      "focus": "모바일·통신 SoC",
+      "products": "Snapdragon·모뎀",
+      "salaryData": {
+        "low": 6500,
+        "high": 12500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.qualcomm.com/"
+    },
+    {
+      "id": "extra74",
+      "name": "Broadcom",
+      "subtitle": "네트워크·통신 반도체 · 스위치 ASIC·RF",
+      "segment": "팹리스",
+      "logo": "Br",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 네트워크·통신 반도체. 대표 제품·장비: 스위치 ASIC·RF. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 팔로알토(본사)",
+          "region": "미국 팔로알토(본사)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.broadcom.com/"
+        }
+      ],
+      "career": "https://careers.broadcom.com/",
+      "country": "미국",
+      "focus": "네트워크·통신 반도체",
+      "products": "스위치 ASIC·RF",
+      "salaryData": {
+        "low": 6500,
+        "high": 12500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.broadcom.com/"
+    },
+    {
+      "id": "extra75",
+      "name": "Marvell",
+      "subtitle": "데이터센터·네트워킹 반도체 · 광통신 DSP·커스텀 ASIC",
+      "segment": "팹리스",
+      "logo": "Ma",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 데이터센터·네트워킹 반도체. 대표 제품·장비: 광통신 DSP·커스텀 ASIC. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 산타클라라(본사)",
+          "region": "미국 산타클라라(본사)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.marvell.com/"
+        }
+      ],
+      "career": "https://www.marvell.com/company/careers.html",
+      "country": "미국",
+      "focus": "데이터센터·네트워킹 반도체",
+      "products": "광통신 DSP·커스텀 ASIC",
+      "salaryData": {
+        "low": 6500,
+        "high": 12500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.marvell.com/"
+    },
+    {
+      "id": "extra76",
+      "name": "Texas Instruments",
+      "subtitle": "아날로그·임베디드 · 전력 IC·MCU",
+      "segment": "IDM",
+      "logo": "Te",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 아날로그·임베디드. 대표 제품·장비: 전력 IC·MCU. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 텍사스·유타 등",
+          "region": "미국 텍사스·유타 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.ti.com/"
+        }
+      ],
+      "career": "https://careers.ti.com/",
+      "country": "미국",
+      "focus": "아날로그·임베디드",
+      "products": "전력 IC·MCU",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.ti.com/"
+    },
+    {
+      "id": "extra77",
+      "name": "Analog Devices",
+      "subtitle": "아날로그·센서·혼합신호 · ADC·DAC·전력관리",
+      "segment": "IDM",
+      "logo": "An",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 아날로그·센서·혼합신호. 대표 제품·장비: ADC·DAC·전력관리. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 매사추세츠·오리건 등",
+          "region": "미국 매사추세츠·오리건 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.analog.com/"
+        }
+      ],
+      "career": "https://www.analog.com/en/about-adi/careers.html",
+      "country": "미국",
+      "focus": "아날로그·센서·혼합신호",
+      "products": "ADC·DAC·전력관리",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.analog.com/"
+    },
+    {
+      "id": "extra78",
+      "name": "onsemi",
+      "subtitle": "전력반도체·센서 · SiC MOSFET·이미지센서",
+      "segment": "IDM",
+      "logo": "on",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 전력반도체·센서. 대표 제품·장비: SiC MOSFET·이미지센서. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국·한국 부천 등",
+          "region": "미국·한국 부천 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.onsemi.com/"
+        }
+      ],
+      "career": "https://www.onsemi.com/careers",
+      "country": "미국",
+      "focus": "전력반도체·센서",
+      "products": "SiC MOSFET·이미지센서",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.onsemi.com/"
+    },
+    {
+      "id": "extra79",
+      "name": "Infineon",
+      "subtitle": "전력·차량용 반도체 · SiC·IGBT·MCU",
+      "segment": "IDM",
+      "logo": "In",
+      "color": "#885cc2",
+      "description": "독일 기업. 주력 분야: 전력·차량용 반도체. 대표 제품·장비: SiC·IGBT·MCU. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "독일 드레스덴·오스트리아 필라흐 등",
+          "region": "독일 드레스덴·오스트리아 필라흐 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.infineon.com/"
+        }
+      ],
+      "career": "https://www.infineon.com/cms/en/careers/",
+      "country": "독일",
+      "focus": "전력·차량용 반도체",
+      "products": "SiC·IGBT·MCU",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.infineon.com/"
+    },
+    {
+      "id": "extra80",
+      "name": "NXP",
+      "subtitle": "차량용·산업용 반도체 · 차량용 MCU·보안칩",
+      "segment": "IDM",
+      "logo": "NX",
+      "color": "#885cc2",
+      "description": "네덜란드 기업. 주력 분야: 차량용·산업용 반도체. 대표 제품·장비: 차량용 MCU·보안칩. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "네덜란드·미국·동남아 등",
+          "region": "네덜란드·미국·동남아 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.nxp.com/"
+        }
+      ],
+      "career": "https://www.nxp.com/company/about-nxp/careers:CAREERS",
+      "country": "네덜란드",
+      "focus": "차량용·산업용 반도체",
+      "products": "차량용 MCU·보안칩",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.nxp.com/"
+    },
+    {
+      "id": "extra81",
+      "name": "STMicroelectronics",
+      "subtitle": "MCU·센서·전력 · STM32·SiC",
+      "segment": "IDM",
+      "logo": "ST",
+      "color": "#885cc2",
+      "description": "네덜란드 기업. 주력 분야: MCU·센서·전력. 대표 제품·장비: STM32·SiC. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "프랑스·이탈리아 등",
+          "region": "프랑스·이탈리아 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.st.com/"
+        }
+      ],
+      "career": "https://www.st.com/content/st_com/en/about/careers.html",
+      "country": "네덜란드",
+      "focus": "MCU·센서·전력",
+      "products": "STM32·SiC",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.st.com/"
+    },
+    {
+      "id": "extra82",
+      "name": "Renesas",
+      "subtitle": "차량용 MCU·아날로그 · RA·RH850 MCU",
+      "segment": "IDM",
+      "logo": "Re",
+      "color": "#885cc2",
+      "description": "일본 기업. 주력 분야: 차량용 MCU·아날로그. 대표 제품·장비: RA·RH850 MCU. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "일본 나카·구마모토 등",
+          "region": "일본 나카·구마모토 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.renesas.com/"
+        }
+      ],
+      "career": "https://www.renesas.com/us/en/about/careers",
+      "country": "일본",
+      "focus": "차량용 MCU·아날로그",
+      "products": "RA·RH850 MCU",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.renesas.com/"
+    },
+    {
+      "id": "extra83",
+      "name": "Sony Semiconductor",
+      "subtitle": "이미지 센서 · CMOS 이미지센서",
+      "segment": "IDM",
+      "logo": "So",
+      "color": "#885cc2",
+      "description": "일본 기업. 주력 분야: 이미지 센서. 대표 제품·장비: CMOS 이미지센서. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "일본 구마모토·나가사키 등",
+          "region": "일본 구마모토·나가사키 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.sony-semicon.com/"
+        }
+      ],
+      "career": null,
+      "country": "일본",
+      "focus": "이미지 센서",
+      "products": "CMOS 이미지센서",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.sony-semicon.com/"
+    },
+    {
+      "id": "extra84",
+      "name": "Kioxia",
+      "subtitle": "NAND 플래시 · 3D NAND",
+      "segment": "메모리",
+      "logo": "Ki",
+      "color": "#885cc2",
+      "description": "일본 기업. 주력 분야: NAND 플래시. 대표 제품·장비: 3D NAND. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "일본 욧카이치·기타카미",
+          "region": "일본 욧카이치·기타카미",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.kioxia.com/"
+        }
+      ],
+      "career": null,
+      "country": "일본",
+      "focus": "NAND 플래시",
+      "products": "3D NAND",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.kioxia.com/"
+    },
+    {
+      "id": "extra85",
+      "name": "MediaTek",
+      "subtitle": "모바일·통신 SoC · Dimensity",
+      "segment": "팹리스",
+      "logo": "Me",
+      "color": "#885cc2",
+      "description": "대만 기업. 주력 분야: 모바일·통신 SoC. 대표 제품·장비: Dimensity. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "대만 신주(설계 중심)",
+          "region": "대만 신주(설계 중심)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.mediatek.com/"
+        }
+      ],
+      "career": "https://careers.mediatek.com/",
+      "country": "대만",
+      "focus": "모바일·통신 SoC",
+      "products": "Dimensity",
+      "salaryData": {
+        "low": 6500,
+        "high": 12500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.mediatek.com/"
+    },
+    {
+      "id": "extra86",
+      "name": "ASML",
+      "subtitle": "노광 · EUV·DUV 노광 장비",
+      "segment": "장비",
+      "logo": "AS",
+      "color": "#885cc2",
+      "description": "네덜란드 기업. 주력 분야: 노광. 대표 제품·장비: EUV·DUV 노광 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "네덜란드 벨트호번·한국 화성(지원)",
+          "region": "네덜란드 벨트호번·한국 화성(지원)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.asml.com/"
+        }
+      ],
+      "career": "https://www.asml.com/en/careers",
+      "country": "네덜란드",
+      "focus": "노광",
+      "products": "EUV·DUV 노광 장비",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.asml.com/"
+    },
+    {
+      "id": "extra87",
+      "name": "Applied Materials",
+      "subtitle": "증착·CMP·이온주입 등 · PVD·CVD·CMP",
+      "segment": "장비",
+      "logo": "Ap",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 증착·CMP·이온주입 등. 대표 제품·장비: PVD·CVD·CMP. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 산타클라라·한국 사업장",
+          "region": "미국 산타클라라·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.appliedmaterials.com/"
+        }
+      ],
+      "career": "https://www.appliedmaterials.com/us/en/careers.html",
+      "country": "미국",
+      "focus": "증착·CMP·이온주입 등",
+      "products": "PVD·CVD·CMP",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.appliedmaterials.com/"
+    },
+    {
+      "id": "extra88",
+      "name": "Lam Research",
+      "subtitle": "식각·증착·세정 · Etch·Deposition 장비",
+      "segment": "장비",
+      "logo": "La",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 식각·증착·세정. 대표 제품·장비: Etch·Deposition 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 프리몬트·한국 사업장",
+          "region": "미국 프리몬트·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.lamresearch.com/"
+        }
+      ],
+      "career": "https://careers.lamresearch.com/",
+      "country": "미국",
+      "focus": "식각·증착·세정",
+      "products": "Etch·Deposition 장비",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.lamresearch.com/"
+    },
+    {
+      "id": "extra89",
+      "name": "KLA",
+      "subtitle": "계측·검사 · 결함검사·오버레이 계측",
+      "segment": "장비",
+      "logo": "KL",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 계측·검사. 대표 제품·장비: 결함검사·오버레이 계측. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 밀피타스·한국 사업장",
+          "region": "미국 밀피타스·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.kla.com/"
+        }
+      ],
+      "career": "https://www.kla.com/careers",
+      "country": "미국",
+      "focus": "계측·검사",
+      "products": "결함검사·오버레이 계측",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.kla.com/"
+    },
+    {
+      "id": "extra90",
+      "name": "Tokyo Electron",
+      "subtitle": "식각·증착·코터/디벨로퍼 · Coater/Developer·Etch",
+      "segment": "장비",
+      "logo": "To",
+      "color": "#885cc2",
+      "description": "일본 기업. 주력 분야: 식각·증착·코터/디벨로퍼. 대표 제품·장비: Coater/Developer·Etch. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "일본 도쿄·한국 사업장",
+          "region": "일본 도쿄·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.tel.com/"
+        }
+      ],
+      "career": "https://www.tel.com/careers/",
+      "country": "일본",
+      "focus": "식각·증착·코터/디벨로퍼",
+      "products": "Coater/Developer·Etch",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.tel.com/"
+    },
+    {
+      "id": "extra91",
+      "name": "Advantest",
+      "subtitle": "반도체 자동 테스트 · ATE 테스트 시스템",
+      "segment": "장비",
+      "logo": "Ad",
+      "color": "#885cc2",
+      "description": "일본 기업. 주력 분야: 반도체 자동 테스트. 대표 제품·장비: ATE 테스트 시스템. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "일본 도쿄·한국 사업장",
+          "region": "일본 도쿄·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.advantest.com/"
+        }
+      ],
+      "career": "https://www.advantest.com/careers/",
+      "country": "일본",
+      "focus": "반도체 자동 테스트",
+      "products": "ATE 테스트 시스템",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.advantest.com/"
+    },
+    {
+      "id": "extra92",
+      "name": "Teradyne",
+      "subtitle": "반도체 테스트 · 자동 테스트 시스템",
+      "segment": "장비",
+      "logo": "Te",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 반도체 테스트. 대표 제품·장비: 자동 테스트 시스템. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 매사추세츠·한국 사업장",
+          "region": "미국 매사추세츠·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.teradyne.com/"
+        }
+      ],
+      "career": "https://www.teradyne.com/careers/",
+      "country": "미국",
+      "focus": "반도체 테스트",
+      "products": "자동 테스트 시스템",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.teradyne.com/"
+    },
+    {
+      "id": "extra93",
+      "name": "DISCO",
+      "subtitle": "웨이퍼 절단·연삭 · Dicing·Grinding 장비",
+      "segment": "장비",
+      "logo": "DI",
+      "color": "#885cc2",
+      "description": "일본 기업. 주력 분야: 웨이퍼 절단·연삭. 대표 제품·장비: Dicing·Grinding 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "일본 히로시마·한국 사업장",
+          "region": "일본 히로시마·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.disco.co.jp/"
+        }
+      ],
+      "career": null,
+      "country": "일본",
+      "focus": "웨이퍼 절단·연삭",
+      "products": "Dicing·Grinding 장비",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.disco.co.jp/"
+    },
+    {
+      "id": "extra94",
+      "name": "SCREEN Semiconductor Solutions",
+      "subtitle": "웨이퍼 세정 · Wet Cleaning 장비",
+      "segment": "장비",
+      "logo": "SC",
+      "color": "#885cc2",
+      "description": "일본 기업. 주력 분야: 웨이퍼 세정. 대표 제품·장비: Wet Cleaning 장비. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "일본 교토·한국 사업장",
+          "region": "일본 교토·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.screen.co.jp/spe/"
+        }
+      ],
+      "career": null,
+      "country": "일본",
+      "focus": "웨이퍼 세정",
+      "products": "Wet Cleaning 장비",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.screen.co.jp/spe/"
+    },
+    {
+      "id": "extra95",
+      "name": "ASM International",
+      "subtitle": "원자층 증착 · ALD·Epitaxy",
+      "segment": "장비",
+      "logo": "AS",
+      "color": "#885cc2",
+      "description": "네덜란드 기업. 주력 분야: 원자층 증착. 대표 제품·장비: ALD·Epitaxy. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "네덜란드 알메르·한국 사업장",
+          "region": "네덜란드 알메르·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.asm.com/"
+        }
+      ],
+      "career": "https://www.asm.com/careers",
+      "country": "네덜란드",
+      "focus": "원자층 증착",
+      "products": "ALD·Epitaxy",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.asm.com/"
+    },
+    {
+      "id": "extra96",
+      "name": "Kokusai Electric",
+      "subtitle": "배치 박막 공정 · Batch CVD·ALD",
+      "segment": "장비",
+      "logo": "Ko",
+      "color": "#885cc2",
+      "description": "일본 기업. 주력 분야: 배치 박막 공정. 대표 제품·장비: Batch CVD·ALD. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "일본 도야마·한국 사업장",
+          "region": "일본 도야마·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.kokusai-electric.com/"
+        }
+      ],
+      "career": null,
+      "country": "일본",
+      "focus": "배치 박막 공정",
+      "products": "Batch CVD·ALD",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.kokusai-electric.com/"
+    },
+    {
+      "id": "extra97",
+      "name": "Hitachi High-Tech",
+      "subtitle": "계측·검사·식각 · CD-SEM·Etch",
+      "segment": "장비",
+      "logo": "Hi",
+      "color": "#885cc2",
+      "description": "일본 기업. 주력 분야: 계측·검사·식각. 대표 제품·장비: CD-SEM·Etch. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "일본 도쿄·한국 사업장",
+          "region": "일본 도쿄·한국 사업장",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.hitachi-hightech.com/"
+        }
+      ],
+      "career": null,
+      "country": "일본",
+      "focus": "계측·검사·식각",
+      "products": "CD-SEM·Etch",
+      "salaryData": {
+        "low": 6000,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.hitachi-hightech.com/"
+    },
+    {
+      "id": "extra98",
+      "name": "Synopsys",
+      "subtitle": "반도체 설계 자동화 · EDA 툴·반도체 IP",
+      "segment": "EDA·IP",
+      "logo": "Sy",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 반도체 설계 자동화. 대표 제품·장비: EDA 툴·반도체 IP. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 서니베일(본사)",
+          "region": "미국 서니베일(본사)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.synopsys.com/"
+        }
+      ],
+      "career": "https://www.synopsys.com/careers.html",
+      "country": "미국",
+      "focus": "반도체 설계 자동화",
+      "products": "EDA 툴·반도체 IP",
+      "salaryData": {
+        "low": 6500,
+        "high": 12500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.synopsys.com/"
+    },
+    {
+      "id": "extra99",
+      "name": "Cadence",
+      "subtitle": "반도체 설계 자동화 · Virtuoso·Allegro·검증 툴",
+      "segment": "EDA·IP",
+      "logo": "Ca",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 반도체 설계 자동화. 대표 제품·장비: Virtuoso·Allegro·검증 툴. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 산호세(본사)",
+          "region": "미국 산호세(본사)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.cadence.com/"
+        }
+      ],
+      "career": "https://www.cadence.com/en_US/home/company/careers.html",
+      "country": "미국",
+      "focus": "반도체 설계 자동화",
+      "products": "Virtuoso·Allegro·검증 툴",
+      "salaryData": {
+        "low": 6500,
+        "high": 12500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.cadence.com/"
+    },
+    {
+      "id": "extra100",
+      "name": "Arm",
+      "subtitle": "CPU 아키텍처·IP · Arm CPU IP·시스템 IP",
+      "segment": "EDA·IP",
+      "logo": "Ar",
+      "color": "#885cc2",
+      "description": "영국 기업. 주력 분야: CPU 아키텍처·IP. 대표 제품·장비: Arm CPU IP·시스템 IP. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "영국 케임브리지(설계)",
+          "region": "영국 케임브리지(설계)",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.arm.com/"
+        }
+      ],
+      "career": "https://careers.arm.com/",
+      "country": "영국",
+      "focus": "CPU 아키텍처·IP",
+      "products": "Arm CPU IP·시스템 IP",
+      "salaryData": {
+        "low": 6500,
+        "high": 12500,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.arm.com/"
+    },
+    {
+      "id": "extra101",
+      "name": "ASE Technology",
+      "subtitle": "패키징·테스트 · Advanced Packaging·OSAT",
+      "segment": "후공정",
+      "logo": "AS",
+      "color": "#885cc2",
+      "description": "대만 기업. 주력 분야: 패키징·테스트. 대표 제품·장비: Advanced Packaging·OSAT. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "대만 가오슝·글로벌 거점",
+          "region": "대만 가오슝·글로벌 거점",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.aseglobal.com/"
+        }
+      ],
+      "career": null,
+      "country": "대만",
+      "focus": "패키징·테스트",
+      "products": "Advanced Packaging·OSAT",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.aseglobal.com/"
+    },
+    {
+      "id": "extra102",
+      "name": "Amkor Technology",
+      "subtitle": "패키징·테스트 · Advanced Packaging·OSAT",
+      "segment": "후공정",
+      "logo": "Am",
+      "color": "#885cc2",
+      "description": "미국 기업. 주력 분야: 패키징·테스트. 대표 제품·장비: Advanced Packaging·OSAT. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "미국 애리조나·한국·베트남 등",
+          "region": "미국 애리조나·한국·베트남 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://amkor.com/"
+        }
+      ],
+      "career": "https://amkor.com/careers/",
+      "country": "미국",
+      "focus": "패키징·테스트",
+      "products": "Advanced Packaging·OSAT",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://amkor.com/"
+    },
+    {
+      "id": "extra103",
+      "name": "JCET",
+      "subtitle": "첨단 패키징·테스트 · OSAT·SiP",
+      "segment": "후공정",
+      "logo": "JC",
+      "color": "#885cc2",
+      "description": "중국 기업. 주력 분야: 첨단 패키징·테스트. 대표 제품·장비: OSAT·SiP. 위치는 대표 거점의 개략적 예시이며 모든 공장 목록이 아닙니다.",
+      "locations": [
+        {
+          "name": "중국 장인·상하이 등",
+          "region": "중국 장인·상하이 등",
+          "type": "대표 사무소·사업장(공장 여부 별도 확인)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 홈페이지 (제품·사업 소개)",
+          "url": "https://www.jcetglobal.com/"
+        }
+      ],
+      "career": null,
+      "country": "중국",
+      "focus": "첨단 패키징·테스트",
+      "products": "OSAT·SiP",
+      "salaryData": {
+        "low": 5500,
+        "high": 11000,
+        "type": "업종 모형 추정",
+        "year": 2026,
+        "sourceLabel": "업종별 참고 모형 · 잡코리아 국내 직급별 통계",
+        "sourceUrl": "https://www.jobkorea.co.kr/Salary/",
+        "basis": "한국 근무를 가정한 업종별 참고 구간 · 해당 해외기업의 공개 급여 아님"
+      },
+      "revenueEok": null,
+      "sourceState": "사업 내용 초안 · 사업장 확인 필요",
+      "homepage": "https://www.jcetglobal.com/"
+    }
+  ]
+}

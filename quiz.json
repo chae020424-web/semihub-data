@@ -1,0 +1,187 @@
+{
+  "questions": [
+    {
+      "text": "새로운 공정 조건을 실험하고 원인을 분석하는 일이 흥미롭다.",
+      "weights": {
+        "process": 3,
+        "device": 1
+      }
+    },
+    {
+      "text": "회로와 전자기학을 활용한 시뮬레이션 문제를 오래 고민할 수 있다.",
+      "weights": {
+        "design": 2,
+        "packaging": 3
+      }
+    },
+    {
+      "text": "장비를 직접 만지고 고장을 찾는 일이 즐겁다.",
+      "weights": {
+        "equipment": 4,
+        "process": 1
+      }
+    },
+    {
+      "text": "사람보다 데이터와 코드로 문제를 푸는 편이 좋다.",
+      "weights": {
+        "data": 4,
+        "analysis": 1
+      }
+    },
+    {
+      "text": "불량을 발견했을 때 원인을 끝까지 추적하는 편이다.",
+      "weights": {
+        "analysis": 4,
+        "process": 1
+      }
+    },
+    {
+      "text": "물질의 화학·물리적 특성을 실험하는 일이 재밌다.",
+      "weights": {
+        "materials": 4,
+        "device": 1
+      }
+    },
+    {
+      "text": "규칙적인 주간 근무와 집중 연구 시간을 중요하게 생각한다.",
+      "weights": {
+        "design": 2,
+        "device": 2,
+        "data": 2,
+        "packaging": 1
+      }
+    },
+    {
+      "text": "교대근무나 야간 대응 가능성이 있어도 현장 업무를 할 의향이 있다.",
+      "weights": {
+        "equipment": 3,
+        "process": 2,
+        "analysis": 1
+      }
+    },
+    {
+      "text": "고객사 방문·출장과 타 부서 협업을 즐길 수 있다.",
+      "weights": {
+        "equipment": 3,
+        "packaging": 1,
+        "materials": 2
+      }
+    },
+    {
+      "text": "작은 회로의 성능·전력·타이밍을 개선하는 일에 몰입한다.",
+      "weights": {
+        "design": 4,
+        "packaging": 1
+      }
+    },
+    {
+      "text": "다양한 칩을 연결하고 패키지 구조를 설계하는 데 관심이 있다.",
+      "weights": {
+        "packaging": 4,
+        "device": 1
+      }
+    },
+    {
+      "text": "한 가지 공정을 반복 측정하며 수율을 개선하는 일을 잘할 수 있다.",
+      "weights": {
+        "process": 3,
+        "analysis": 2
+      }
+    },
+    {
+      "text": "미세한 불량을 계측·분석 장비로 확인하는 일이 흥미롭다.",
+      "weights": {
+        "analysis": 4,
+        "materials": 1
+      }
+    },
+    {
+      "text": "전자기학·열·기계 구조 문제를 통합적으로 다루고 싶다.",
+      "weights": {
+        "packaging": 4,
+        "equipment": 1
+      }
+    },
+    {
+      "text": "통계적 실험 설계나 공정 데이터 분석에 자신이 있다.",
+      "weights": {
+        "data": 3,
+        "process": 2,
+        "analysis": 1
+      }
+    },
+    {
+      "text": "트랜지스터 구조와 소자 물리를 깊게 배우고 싶다.",
+      "weights": {
+        "device": 4,
+        "process": 1
+      }
+    },
+    {
+      "text": "압박이 있는 현장에서 빠르게 문제를 해결하는 편이다.",
+      "weights": {
+        "equipment": 3,
+        "process": 2,
+        "analysis": 1
+      }
+    },
+    {
+      "text": "Verilog·Python 등 코드를 직접 작성하는 것이 즐겁다.",
+      "weights": {
+        "design": 3,
+        "data": 3
+      }
+    },
+    {
+      "text": "재료·공정·장비 업체와 기술 협업하는 업무에 관심이 많다.",
+      "weights": {
+        "materials": 3,
+        "equipment": 2,
+        "packaging": 1
+      }
+    },
+    {
+      "text": "제품 양산 품질을 보장하기 위한 검증 과정이 보람 있다.",
+      "weights": {
+        "analysis": 4,
+        "packaging": 1,
+        "process": 1
+      }
+    }
+  ],
+  "tracks": {
+    "process": {
+      "name": "공정기술·공정개발",
+      "category": "공정"
+    },
+    "device": {
+      "name": "공정설계·소자",
+      "category": "공정설계·소자"
+    },
+    "equipment": {
+      "name": "장비사·설비기술",
+      "category": "장비사·설비"
+    },
+    "packaging": {
+      "name": "패키징·SI/PI",
+      "category": "패키징"
+    },
+    "design": {
+      "name": "회로·디지털 설계",
+      "category": "설계"
+    },
+    "analysis": {
+      "name": "TEST·품질·분석",
+      "category": "시험·분석·품질"
+    },
+    "data": {
+      "name": "데이터·SW",
+      "category": "데이터·SW"
+    },
+    "materials": {
+      "name": "소재·인프라",
+      "category": "소재·인프라"
+    }
+  },
+  "notice": "참고용 자기탐색 검사이며 검증된 심리검사·채용 평가·합격 가능성을 뜻하지 않습니다. 점수는 선택한 선호도와 문항별 가중치를 계산한 상대적 성향 일치도입니다."
+}

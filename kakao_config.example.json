@@ -1,0 +1,4 @@
+{
+  "rest_api_key": "여기에_REST_API_키를_붙여넣기",
+  "redirect_uri": "http://localhost:5000/callback"
+}
