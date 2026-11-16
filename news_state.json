@@ -619,11 +619,13 @@
   ],
   "totalBackfillTasks": 616,
   "remainingBackfillTasks": 0,
-  "lastAttempt": "2026-11-17T01:38:39+09:00",
-  "lastSuccess": "2026-11-17T01:38:39+09:00",
-  "articleCount": 10536,
-  "newArticles": 80,
-  "errors": [],
+  "lastAttempt": "2026-11-17T06:45:25+09:00",
+  "lastSuccess": "2026-11-17T06:45:25+09:00",
+  "articleCount": 10573,
+  "newArticles": 37,
+  "errors": [
+    "fresh-en-topic-4: HTTPError"
+  ],
   "ai": {
     "ai": 0,
     "reason": "무료 AI 키 미설정 — 모든 기사에 규칙 기반 기초 기술 설명 적용"
