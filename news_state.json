@@ -619,12 +619,12 @@
   ],
   "totalBackfillTasks": 616,
   "remainingBackfillTasks": 0,
-  "lastAttempt": "2026-11-17T06:45:25+09:00",
-  "lastSuccess": "2026-11-17T06:45:25+09:00",
-  "articleCount": 10573,
-  "newArticles": 37,
+  "lastAttempt": "2026-11-17T12:50:58+09:00",
+  "lastSuccess": "2026-11-17T12:50:58+09:00",
+  "articleCount": 10659,
+  "newArticles": 86,
   "errors": [
-    "fresh-en-topic-4: HTTPError"
+    "fresh-pub-newsroom.intel.com: HTTPError"
   ],
   "ai": {
     "ai": 0,
