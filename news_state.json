@@ -619,10 +619,10 @@
   ],
   "totalBackfillTasks": 616,
   "remainingBackfillTasks": 0,
-  "lastAttempt": "2026-11-23T00:41:14+09:00",
-  "lastSuccess": "2026-11-23T00:41:14+09:00",
+  "lastAttempt": "2026-11-23T06:38:40+09:00",
+  "lastSuccess": "2026-11-23T06:38:40+09:00",
   "articleCount": 12000,
-  "newArticles": 43,
+  "newArticles": 28,
   "errors": [],
   "ai": {
     "ai": 0,
