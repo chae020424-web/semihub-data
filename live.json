@@ -1,13 +1,97 @@
 {
   "status": "partial",
-  "lastSuccess": "2026-11-24T01:03:08+09:00",
+  "lastSuccess": "2026-11-24T06:56:40+09:00",
   "news": [
     {
+      "title": "젠슨 황 복귀에 SK하이닉스 ADR 19%↑…K반도체 반등 시험대 - 일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mX0lEOXBJNEZrZk0yQ2l1M093RGxRRl95eWNaTDBURXZ2YVBIdS1Gb2xHNk1nRHM4TmRMcWI3TERDMmJJTEVWbDBYT2lyWjlCZlBvelFRS3lOVTFwTE9kUjFFa1lhRW9kdVFB?oc=5",
+      "date": "2026-11-24 06:38",
+      "company": "SK하이닉스",
+      "source": "일간투데이"
+    },
+    {
+      "title": "[단독]반도체 공장 지을 26만명 어디서…국토부, 삼성·SK와 양성책 짠다 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54LUZSYVVDWHp5NDUtNERiRFZ3RWxGb1h2WVUxUGI1N19yMWhNV0lGOHQ5N0g0cE9JOHFmbm5CcmVqTzhZVWF1b2VZX3ZQRm5zMThxd0pJb19IeFM0STk0b3kydkY2dmd0alHSAW9BVV95cUxOTTJFR2FWRFFWOVJSdGxqYTR1UDNDWGJrQjdzTzBXemVKbWEyYVlkbHU1UkxvRHZtNUVWZUtZM1AtajFaU1hTRXd5STI3T3daWW1jS21SZXo3ZllxVDlTRV9EX1R4eXNYLTlFSVkzSWc?oc=5",
+      "date": "2026-11-24 06:34",
+      "company": "",
+      "source": "머니투데이"
+    },
+    {
+      "title": "\"반도체 끌고 中 매각 밀었다\"…동진쎄미켐, 3분기 호실적 [실적why] - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNQW15eEtXLXNidEttRjk3N29HVURjMGg0ejJOOC1DME9SZTVGazZ0QXdPNmJSeW85RWoyMHE1LUxOLWQwQXBtb3VrVDU1NWh6WlZnT0NDZ3owVlo2?oc=5",
+      "date": "2026-11-24 06:15",
+      "company": "동진쎄미켐",
+      "source": "뉴스1"
+    },
+    {
+      "title": "삼성전자 후속 임원인사 '초읽기'…\"반도체 호황, 승진 규모에도 반영될까\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IZFloOU9QNFFwWlFxWG1QdnB6UWFITEwwd2tVMjFQRU9ZZVlyZWwzYlk5ZmY1bFhwT1FLNEQyZ0Z1YjNXWXJDbEw5bTMtMGl4WlZHUHlweTFDay03bVkyNNIBeEFVX3lxTE9ON2pkVlhXUTJGWmpiaTNVWW1FXzlvVlI4ZFY1VVhGa1JENzFQY21IeE1EdWhQS1lYajY2TmlGZDJadFZXQjdlNWJYNlNjeVlldU1zbUJQQTJxc0ZnRTFDSWdpYm5FcjdEYWZGaXd1TWcyczBzVE5fZw?oc=5",
+      "date": "2026-11-24 05:30",
+      "company": "삼성전자",
+      "source": "뉴시스"
+    },
+    {
+      "title": "“AI 추론 가성비 시대”…리벨리온·패러세일, 효율 경쟁에 승부수 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52WkRwVmNVZHRvckRKeEFBajRSRkg5dG1VT3Jzb2hNSXg1dk9ONzk2X2RndERDTm9pRGRXNUczUXM0QXhJdHF1S2NVaURwT1NkYVHSAVNBVV95cUxPczZMdkZReDVubWJOY245Z0FwSVRYNUtiU083NVdYQTBkem8zM3lZUjRKVUVWY3Y3LUpReDJZeGVTXzFGcjN6NV9ScGVhUW91WVhnTQ?oc=5",
+      "date": "2026-11-24 05:30",
+      "company": "리벨리온",
+      "source": "서울경제"
+    },
+    {
+      "title": "삼성전자 반도체 증설 투자, 아산 지역 건설업계 일감·일자리로 잇는다 - 아산포커스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOaGZnc1lOQ0VuZVE3M0Zod1o5X0V0NkdKU1otZ3paN2gtd2JwMkh6blJiTmo2YXNxSXY3NjRjc3N6OWJVdU5WY1liOExDS3h3Z3pjaG9JZWY1ZllRSXRLeWRaQ1RzMnBOa3NjWGZB?oc=5",
+      "date": "2026-11-24 05:21",
+      "company": "삼성전자",
+      "source": "아산포커스"
+    },
+    {
+      "title": "Lam Research Corp (LRCX) 주식 움직였습니다 상승 14.19%에 11월23일: 변동을 뒷받침하는 사실 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRndoSDU4YTRBY0JKNUZyV1JLNnlRdThkRUpCOUxOUXY0M0tMSHJOSFFHR0dSZ3hVaFhwUktKLUhXR3pabmhvRGlTSEUwNkRoQzJQRlU1MTNnUmlac084LXBvbGdmNkdTbzgxUF9oejFhVTRXbTRyYUsxM0taZ25UVE9GalhMVUJkRXZTRnk3aw?oc=5",
+      "date": "2026-11-24 04:17",
+      "company": "Lam Research",
+      "source": "TradingKey"
+    },
+    {
+      "title": "Ken Fisher and 11 Other Big Funds Bought KLA Last Quarter. Brad Gerstner and 11 Others Sold. Who’s Right? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczdSVkZNb0pwSWRPRUFLVHhJa08xY003djN2dHFJa1NZSWZtaDhJa2ZNbFpjUGZReGtFbFVabXM3NlZjbWJGM2FkUXBLRkxfb3hZQlFzdGFXQmZXUE9ZYXJOd1FYQmNabjViamc3dXZjU3VYVDJNdTZFR0g3VHF5bTJCU3l4VlZkTUZzdjRSYXJaZ2pLT2dOUUlWYjhra29PUUdndHdCOUpraTZwTG9FYktIdG1acGVXUkprOHVBLU9KX1hTTmVVUEduYw?oc=5",
+      "date": "2026-11-24 03:22",
+      "company": "KLA",
+      "source": "TIKR.com"
+    },
+    {
+      "title": "Texas Instruments, Cantor Fitzgerald 업그레이드와 반도체 랠리에 10% 급등 - Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MbFNzb05nUEE1dWFqN3RISDBrUU9XeXZBQTRCZ3VDRnVLU2pPcVc4bmdyeTJJaFRQMW5jREx4WE5JOVhlTGZXVDNiUG1Nc3JxcHkxYnhtWWdKeEQ3dXFxb1lEYThLT0ZJTjh2a0FQVXo?oc=5",
+      "date": "2026-11-24 02:12",
+      "company": "Texas Instruments",
+      "source": "Investing.com 한국어"
+    },
+    {
+      "title": "한미반도체, 24일 기관 IR서 HBM4·HBM4E TC본더 전략 설명 - 비건뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwa1BFSTBKVG5Ob2lHeGgzSmUyR0NINm9aV2tpNEc1OGVlWFVpazB4OFkwVHlqdnhKdTU3RmdzbG1XTW8xZDNXNUI4UEtJckZtRnJ5a0ZGbFp1dVM4d0t0Q0QtY0Nndw?oc=5",
+      "date": "2026-11-24 01:18",
+      "company": "한미반도체",
+      "source": "비건뉴스"
+    },
+    {
+      "title": "‘AI 버블’ 공포가 최고 실적을 삼켰다… 반도체 투톱, 주가 반토막 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0hCQkN2ZVZKWE1zWHc5TUxVYjNOT185UE5qSUVILXV6UW5BNEQzYUc5cThHR0VEYjItUXl0VGdYaTdMWk01SUo0cUVhV3hobDRoeUpYeFR6SXBaSF9adXpHRlZkeWh6SFltQTNFY2l5UXlrbG9MTHNSSmgwcDJqR2VGZw?oc=5",
+      "date": "2026-11-24 00:48",
+      "company": "",
+      "source": "조선일보"
+    },
+    {
       "title": "Arm Soars 13% as CEO Haas Stays Through 2033, Says He’s “Never Been More Confident” - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3pvX2xDZ3MwbTNJMVdSbVlHSy1WWExNa2RNSHFiRENDejNReEszN1NGc1RzWDJxSzBDUzZsX2dtV01qRWxFS2pXc3NRb0RPb21mc05OMl83RWdORFh1c1BOcE1vNEx1N2tiSE92R3kxcElpdkVSM1A5REUzVUlnQUlsaTRhV3pENFR4ZnZsb09sTl9fTDUxRzBIRjVoZ2I2a2t1Z1p0bjdGWnpL?oc=5",
-      "date": "2026-11-24 00:24",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjRVNk5DQU1jb2U2cWc3SmNtTzZISTdIVlBMSndpYXR2c2s4dTlzdjZkUk1rM1F5cWNreW9UZ1F5YWNrTld1bmxoeEJmLVRCWWl6cHZGQlBON0lVOTBDSWZMakRlS1dWRm1FV25fb3pCMTN4SzU4SmQ5NkNQU2VXZnBOejZ5YU9XQlVuV2t3cXhKZWV5bmhGMXRfM2hVaTVRaEN0cWR4MFc2UV9NT0gtQzhrMHRLWDJ4Tzl5VA?oc=5",
+      "date": "2026-11-24 00:27",
       "company": "Arm",
       "source": "TIKR.com"
+    },
+    {
+      "title": "엔비디아, 젠슨 황 전격 복귀에 주가 33% 폭등…AMD·마이크론 등 AI주 동반 강세 - 중앙이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oNFphYzR0emVfODU4d1BlYjZJX1hBM2VYa3o5ZlFpWHdaTWdzZkZoTGVxQzVqcXNJZzUtdFNJeWtBa0FRMk9INEhqU3VoVUYwaDJ6VzMwT2RMN3Q5dExRLTg3TGNhczM0SmpsVEY2NTZZUQ?oc=5",
+      "date": "2026-11-24 00:00",
+      "company": "AMD",
+      "source": "중앙이코노미뉴스"
     },
     {
       "title": "엔비디아 차기 CEO 1순위 하스, 2033년까지 ARM 잔류 계약 - 파이낸셜뉴스",
@@ -15,6 +99,27 @@
       "date": "2026-11-23 22:55",
       "company": "Arm",
       "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "젠슨 황 후임 거론 르네 하스, Arm과 2033년까지 재계약 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3pLUnZPZDA2dGRpQUc1aXFqTUV6eU5HSkI2emV3Z1dkNkJpQ19iOS1pUTFQY09WNlV1WEJpQ2hxclZlMDhvelgyWEJPMmRDOWw3Rk9jRU80WGJaeHVJVTNWTEpiNTQ0MnVQanRjRksyVzh4aXkxYVlmeWttRm8wamFGLV9mOGRQ?oc=5",
+      "date": "2026-11-23 22:35",
+      "company": "Arm",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "전남광주반도체포럼 공식 출범…“반도체 클러스터, 지역 백년대계로” - 일등방송",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE41cm9RN19BODVFXzFUdjZ4V3lmQ2NvWlBZU1h5UEZWYW5zdGgwUmFfNWpURUpnQmFoVnBlVkpZYl9ndThE?oc=5",
+      "date": "2026-11-23 21:58",
+      "company": "",
+      "source": "일등방송"
+    },
+    {
+      "title": "Arm CEO, 2033년까지 경영 연장 결정…소프트뱅크 부회장도 취임 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zQkI3YlZBMENuRXRXQWtoVzBocVl4WVpVMW1LZWVibHBHTk1KbHNoUmZUOG1WRzFDdmR6TUpvT3kxMnZjZ3ctQ2JkRWJ2bWdIUFHSAVNBVV95cUxQQmppdDBjbGt0YmZvcm50R2NoUmYtVFBLNDZ3QTVhdUhSMGtDTXB6SmY0d0xUNVQ1bmlmbnRWYlM4ZlExaDc3bThBRFBzYWl4WWFIZw?oc=5",
+      "date": "2026-11-23 21:56",
+      "company": "Arm",
+      "source": "서울경제"
     },
     {
       "title": "글로벌 IB 잇단 반도체 경고…삼성전자·하이닉스 목표가 줄하향 - 한스경제",
@@ -38,11 +143,39 @@
       "source": "서울파이낸스"
     },
     {
+      "title": "성수석 이천시장, 기업투자 ‘행정 속도전’…유진테크 초고속 착공 이끌었다 - 경기연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Vk5OaWVsZEJmeUVGRHdwWWQ1Q2hxZEEwSEltMDB6cFB6Y3otbW5OZUJhYUZjWmdoaHdienFKZDZHMXZ2aTY2eGE0RVQzNXVjLW5VaG5sbjRBdGdJZHE4TGJmb3otWjTSAWdBVV95cUxPdVZOTmllbGRCZnlFRkR3cFlkNUNocWRBMEhJbTAwenBQemN6LW1uTmVCYWFGY1pnaGh3YnpxSmQ2RzF2dmk2NnhhNEVUMzV1Yy1uVWhubG40QXRnSWRxOExiZm96LVo0?oc=5",
+      "date": "2026-11-23 20:10",
+      "company": "유진테크",
+      "source": "경기연합뉴스"
+    },
+    {
+      "title": "AI·HBM 투자 확대 기대…테스·SFA반도체 강세에 장비주도 들썩 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LbnBzMlNNcV9PTHlvMndoNkhiempMRzkwXy1GUnd3YnRxanFkWDUxZ3VnVVdNYTRlbERwdmtocXVNUXNtN2s0Nlh6OHc3eFY0RzJmak9NOG1kNUpIdjQ5QkJhQ1MzNktIVU9IODNSRkZwZldDTVhB0gF3QVVfeXFMTktucHMyU01xX09MeW8yd2g2SGJ6akxHOTBfLUZSd3didHFqcWRYNTFndWdVV01hNGVsRHB2a2hxdU1Rc203azQ2WHo4dzd4VjRHMmZqT004bWQ1Skh2NDlCQmFDUzM2S0hVT0g4M1JGRnBmV0NNWEE?oc=5",
+      "date": "2026-11-23 19:40",
+      "company": "SFA반도체",
+      "source": "핀포인트뉴스"
+    },
+    {
       "title": "‘부신암’ 반도체 노동자 산재 인정까지 5년…근로복지공단은 의학적 입증 책임 떠넘겨 - 한겨레",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yOGNIUk1rNzdYbW82d1YtWEhlVHNKU3dld0tETkpiTzYzN2x2SjlWbFlDWGtxRWptNVJreWktcC1LWnFZUVFKZWlORXpUMVZxT3F1QThYRzJCMkpCcE5OSDFKNEM?oc=5",
       "date": "2026-11-23 19:37",
       "company": "",
       "source": "한겨레"
+    },
+    {
+      "title": "윤풍영 SK하이닉스 사장, 16억 규모 자사주 1500주 매입 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CR2x0R1ZJUzEwd2RBa0oxUkxiRVByLUtfaDZndG1RdkdDbHFjaFY3YjM1YU5XVDdfNnRIYVpYTUR5NUtOeHFvVXRyeFVlenpkVGw4TGRtamhLS3QtdjBpY1JWS1JadnNTc2tLdDdCSm3SAXRBVV95cUxPWjI1N2RiN0lZZmpTZ0xrNTFHdmhRMzc5YmdIektyaENUZTJiVXM4SGwzckhwLVpIaVdUa1prQXJVZGhodldoYmd2TXRyekQzU1JJTWdQLWlrTE92VTlQVlFUREtjeTZodFJlSmFoSEx5SGRITw?oc=5",
+      "date": "2026-11-23 19:35",
+      "company": "SK하이닉스",
+      "source": "IT조선"
+    },
+    {
+      "title": "성수석 이천시장, 유진테크 공장 증설 현장 방문…기업 투자 지원 논의 - 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjNm54cTVVMG9BdjZrVURadXJuT1JEdjdQWDlxR25XT3c3dnFwNks0bXBNT3dIZ0ZOV3BjZDMtcVNpOUJ0VXNIb2ZtdERIbnh0WW1KSzZOT2pkbEl1dFk3SXlpa3U2cU04aENXbEdR?oc=5",
+      "date": "2026-11-23 19:35",
+      "company": "유진테크",
+      "source": "국제뉴스"
     },
     {
       "title": "AI·HBM 투자 확대 기대…테스·SFA반도체 강세에 장비주도 들썩 - 핀포인트뉴스",
@@ -57,13 +190,6 @@
       "date": "2026-11-23 18:00",
       "company": "TSMC",
       "source": "티타임즈"
-    },
-    {
-      "title": "전남광주반도체포럼 출범… 삼성·SK 공장 유치 지원 - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84MGFFZ2NQMThUSXJSeWJabHRzMjdNMnJoTFV3ZUNIVmFUcjd0cUVaV2RpVG5WLUY0ejBaZ2g3alhyZERiS0xmblVpczF3VmxVRS16Zl8xY3NIemJSWXJyLVY3bHpvVDFiZHc?oc=5",
-      "date": "2026-11-23 17:59",
-      "company": "",
-      "source": "천지일보"
     },
     {
       "title": "ASML($ASML) 20일 하루 6.63% 하락…매출 전망 하단 상향 - 토큰포스트",
@@ -108,6 +234,13 @@
       "source": "핀포인트뉴스"
     },
     {
+      "title": "두산, 국민성장펀드서 5000억 조달 추진…AI 소재 생산 확대 - 메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53c25BTDBLTTBDMUZidWEzUzRiaFA1dkpDajBVbHBoZjBycVdHdmk3SWdxd1lzdGt3UkJXNFZUZG5DRGUzVk1jVjlVRU9aWDdZYnp5Y21Yb2MwRFBWU2xzdHZJWURzck51MUVzeA?oc=5",
+      "date": "2026-11-23 17:21",
+      "company": "",
+      "source": "메디컬투데이"
+    },
+    {
       "title": "“전남광주 반도체 클러스터 성공” 범시민 결집 - 광주드림",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vZTE0TmlCMjd6SW5IdVpDZzVTNDlXcnpWV3lvQ3pqajhmdDc1TFFzMERyYkRrNWRQRkp2bUF4ampXSzBUbzNqMEEtcEdFdGV5enpjV1RxNXhjRldsbmhFRXEwS1BHdE5ueWc?oc=5",
       "date": "2026-11-23 17:17",
@@ -129,10 +262,10 @@
       "source": "디일렉"
     },
     {
-      "title": "유럽 증시, 급락 이후 소폭 반등 - Investing.com 한국어",
+      "title": "유럽 증시, Nvidia의 젠슨 황 CEO 복귀에 기술주 급등 - Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44SXFabGJ5QVd0cmdub1BiaGI4Ml9PQzc5VlFkUElZVUYybnI5NkFuQ0k2SzhXQnMtVl96Z3BSblk3TUx2Y0RGMi1qMGNyX3ZxWUFUN2Y1SEdzMWFsUDktLWFNS3JZZzVjbWlpLXl0UEY?oc=5",
       "date": "2026-11-23 17:07",
-      "company": "",
+      "company": "NVIDIA",
       "source": "Investing.com 한국어"
     },
     {
@@ -171,6 +304,20 @@
       "source": "핀포인트뉴스"
     },
     {
+      "title": "반도체 소부장, 2027년부터 'AI 실적 랠리' 본격화 - 데일리메이커",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sR2pKanNhMUhycTRDSk9YNkhTMjlBMXJiZkFTVkJ5bWV6Zi1EMmQ1MXoySzFITE5UNV9YN2VHY0hSeWtKM3g4clg1ZVJVRUFOYkxSLTdnaUhySkJCVzFBME5zazNfbG8?oc=5",
+      "date": "2026-11-23 16:19",
+      "company": "",
+      "source": "데일리메이커"
+    },
+    {
+      "title": "성수석 이천시장, 인허가 파격 지원… ㈜유진테크 증설 현장 방문 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5dlJEbElnX0dnRlV1bmVNVE91QWFKaFpEQ3l0c056b3Bac1daUUxzS3lGYzdocjdyMlFwdmdCcHBDOGdFQ0xzbmszblBMVkpXMEZfOXpNRjJhZjhOc3F5ZUFiczJEbkJIQzNB?oc=5",
+      "date": "2026-11-23 16:17",
+      "company": "유진테크",
+      "source": "서울뉴스통신"
+    },
+    {
       "title": "성수석 이천시장, ‘패스트트랙 1호’ ㈜유진테크 공장증설 현장 방문… 전방위 기업 지원 행보 - 시사매거진",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fQjlidllWRWs4UnR2RUVqVXBKMmlLVEVrZUQwQm5QT1JZUkg2VVNMVHFOM1VBeWR0V2RaRTA2cUxnZzVMdnNLdHB2TlgwNFpybjJSaG9nSjRlb2tJZGhUZUdn?oc=5",
       "date": "2026-11-23 16:03",
@@ -183,6 +330,13 @@
       "date": "2026-11-23 16:00",
       "company": "제주반도체",
       "source": "아시아뉴스통신"
+    },
+    {
+      "title": "[코스닥 외국인] 안랩·디앤디파마텍 담고 로봇주는 레인보우로보틱스대량 매도 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94aXZzRUN5XzlqTEdJWGNxb24xbmZlSDhEdldIeTlwQWJwbDR5WUNhUGhwdmJ2akZ6RU5mUTVCbXFXUUFYV1djZG8tTEgyVk5MUndxUWdLTjJuYk9tVUd4ZEdka3hHaDJUdEFOb0luWEFSeVVaTkVV0gF3QVVfeXFMT3hpdnNFQ3lfOWpMR0lYY3FvbjFuZmVIOER2V0h5OXBBYnBsNHlZQ2FQaHB2YnZqRnpFTmZRNUJtcVdRQVhXV2Nkby1MSDJWTkxSd3FRZ0tOMm5iT21VR3hkR2RreEdoMlR0QU5vSW5YQVJ5VVpORVU?oc=5",
+      "date": "2026-11-23 15:56",
+      "company": "",
+      "source": "핀포인트뉴스"
     },
     {
       "title": "[코스닥 기관] 장바구니에 알테오젠·지투지바이오 담겼다…바이오주도 선별 매수 - 핀포인트뉴스",
@@ -234,11 +388,11 @@
       "source": "핀포인트뉴스"
     },
     {
-      "title": "SFA반도체 10.36% 올라…매출 급증에도 영업손실 189억원 - 잡포스트",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BMGhDUmZsTTJWck9DRnlWRDlISE9vZTJ5ZDdtSmtsZnlHUVJ0c0FDd2FrMEZtb09seWYwTjFlaUhwLTQ5TUNzU3NZZ25kZkpiZEkwVmZzT1k3YVd4ajZ3M19nYTVOdGJlWi0xbFdn0gFyQVVfeXFMTXRKQVZSbTlOc01KMmtCYWRpZGhZcF9ybTMzc2ZnU2F1QllwN21BREdYWWE0RTVRVjZSUmh0V3BTRXRpVFlMcVg5b2o4bEJPZnQyQ3VQNy1HYjIteThadWpPSG9oYUVXOGYtQ1Y3MnFMU3d3?oc=5",
-      "date": "2026-11-23 15:43",
-      "company": "SFA반도체",
-      "source": "잡포스트"
+      "title": "오산대 AI반도체계열·반도체장비과 4명, 글로벌 기업 ‘램리서치’ 조기 취업 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DYjlpcFZPTEJtVVhmNVJWWWZBbE9lUGRXWUhXdWFHVExFbi14alJjdndJVkMwNXZPaEJ4aFg0YkwyVjEzX0ZRMjV6bWdDMndUUXRTYm5XQlVQQmVaNS05YXdB?oc=5",
+      "date": "2026-11-23 15:40",
+      "company": "",
+      "source": "경기신문"
     },
     {
       "title": "매출 25%를 R&D에…텔레칩스, 4개 분기 연속 흑자 ‘실적 청신호’ - 문화일보",
@@ -283,11 +437,25 @@
       "source": "네이버 프리미엄콘텐츠"
     },
     {
+      "title": "반도체·반도체장비 | 2027년 대규모 증설에도 메모리 공급 부족 지속 전망 - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODZxUkx0ckxadU56NXhUZnVNSUpaZEpwVGZ5M3J2dnVZaXp3QlJHMkhGMGM2eDA5SDR5dHdUcUJ3RFBseGpORjMwUmhxZWdzem1NNFhleWZPSm1abFNvSjdNeGkwQ3VhVy1fbW5hdVVTZlZ5dnRtNkpaeXdadlRqWWx2WllCMnhO?oc=5",
+      "date": "2026-11-23 15:16",
+      "company": "",
+      "source": "네이버 프리미엄콘텐츠"
+    },
+    {
       "title": "삼성전자·SK하이닉스 하락에도 SFA반도체 12% 급등…엇갈린 시스템반도체주 무슨일? - 핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfZGZNdzVGRkRQM0pqaGtSSlMtSmxwcHRhTE1raUpTcnhTNGo0aTI5ZTNaWWZ0NHctZ0NPTmZYemQ0WVRVRTg2UHJ5Y3NtSWctenM5ZzZzckllSi0ta240NzFsUUkzcEdwTFJBQ1JnT0gybDNwV1ZV0gF3QVVfeXFMUF9kZk13NUZGRFAzSmpoa1JKUy1KbHBwdGFMTWtpSlNyeFM0ajRpMjllM1pZZnQ0dy1nQ09OZlh6ZDRZVFVFODZQcnljc21JZy16czlnNnNySWVKLS1rbjQ3MWxRSTNwR3BMUkFDUmdPSDJsM3BXVlU?oc=5",
       "date": "2026-11-23 15:08",
       "company": "SK하이닉스",
       "source": "핀포인트뉴스"
+    },
+    {
+      "title": "이천시, 패스트트랙 첫 가동… 유진테크 공장 증설 초고속 착공 - 경기타임스 e",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NLXAwejVGbW9Eajk4RjVwcHBmSGktZ1ZJbTNseFRBLVB3SEdpY0djbGNVLUd3RXJWRnh5Y2hIY3FEYkhNVUNpaEJDV21HSUF2ejJNbXZpN1QtN2JBWk41a0VEUWxPcEx2WmVlNQ?oc=5",
+      "date": "2026-11-23 15:07",
+      "company": "유진테크",
+      "source": "경기타임스 e"
     },
     {
       "title": "AI 병목 풀 '빛의 반도체'…삼성·SK하이닉스, CPO 선점 경쟁 - 데일리한국",
@@ -302,6 +470,13 @@
       "date": "2026-11-23 15:03",
       "company": "유진테크",
       "source": "주간한국"
+    },
+    {
+      "title": "성수석 이천시장, 유진테크 공장 증설 현장 방문…기업 애로사항 청취 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HY3Qyczdjb09ENjJST3FzeEhaRVBic3ExcGx2OGJGSjVQbEVFQkhZUVNxQTAtY0FqTFI4Z0F0T1RJcU1SRUFybjEtMHRkWXZjanpXSk16M1B4bFE?oc=5",
+      "date": "2026-11-23 15:03",
+      "company": "유진테크",
+      "source": "경기일보"
     },
     {
       "title": "삼성, 美 특허소송 2년 연속 최다 피소…기술사용료 충당부채 3조 육박 - 뉴스핌",
@@ -346,6 +521,13 @@
       "source": "데일리안"
     },
     {
+      "title": "[재계] 韓 최태원 日 손정의가 양대주주로?···SK하이닉스 디커플링 구상 - 여성경제신문",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DVzRwdXFSckpiSnZNMFBaN2N2ZWExOHRrM3BSNEJEMVNJZDRCXzVqNG9xS2lRUV9QMHc1dm9QV3cxMFJNZjVUYjNLMnV1Q0d0OUR5bmpnSnNzUnFsRTZUcFM5N2Q2djBZcnhGSTVFbXFCVmPSAXdBVV95cUxNTDJVTGNMcUloU2YwT1hJSFlsMzRFXzVTS3gwcGhkLW1TV25LMzF4RVBGWEt4WXM3OHpmQVZ5V2tkRnlwYm1uMXduM3hwMzMwT2RhMUdWbENDSFFFYm1yRm1JYnpRYmRLQ29oM2h4N0xHVkRDTHFlcw?oc=5",
+      "date": "2026-11-23 14:19",
+      "company": "SK하이닉스",
+      "source": "여성경제신문"
+    },
+    {
       "title": "이천시, 유진테크 공장 증설 현장 점검..\"인허가 신속 처리\" - 일간경기",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14dl9jTFFGZ3ZZSG1ENG5sS2h5NVJuaUZ6cjVtN0FDUXlqVEptVWFScUlXYU9xWnlPVVJBbGF4QndkSHVDZmJaMkhpSk5OR0pCWXRwMXJldkNIbGI5WnM1LVpjbFBhVVIz?oc=5",
       "date": "2026-11-23 14:11",
@@ -358,20 +540,6 @@
       "date": "2026-11-23 14:11",
       "company": "",
       "source": "IndexBox"
-    },
-    {
-      "title": "[기획] '삼전닉스' 등 4분기 개인 매수 상위 10개 종목 전부 마이너스 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80bW5lNTJOb19TTmNVLXFSdndwUWs1T1VBbkdad2wzcWI5Qzh0RFdTbnhfNy1BNkM1ZF9uVFBZU0x4OGV6RlQ1dDMwczN6Y3BtMkw3MUd3UDFkVjZ0SW9kQnQwU2M?oc=5",
-      "date": "2026-11-23 14:07",
-      "company": "",
-      "source": "매일일보"
-    },
-    {
-      "title": "[단독]반도체 공장 지을 26만명 어디서…국토부, 삼성·SK와 양성책 짠다 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54LUZSYVVDWHp5NDUtNERiRFZ3RWxGb1h2WVUxUGI1N19yMWhNV0lGOHQ5N0g0cE9JOHFmbm5CcmVqTzhZVWF1b2VZX3ZQRm5zMThxd0pJb19IeFM0STk0b3kydkY2dmd0alHSAW9BVV95cUxOTTJFR2FWRFFWOVJSdGxqYTR1UDNDWGJrQjdzTzBXemVKbWEyYVlkbHU1UkxvRHZtNUVWZUtZM1AtajFaU1hTRXd5STI3T3daWW1jS21SZXo3ZllxVDlTRV9EX1R4eXNYLTlFSVkzSWc?oc=5",
-      "date": "2026-11-23 14:00",
-      "company": "",
-      "source": "머니투데이"
     },
     {
       "title": "한미반도체 15만원대 약세…HBM 장비 수요와 수주 가시성 주목 - 잡포스트",
@@ -416,18 +584,18 @@
       "source": "핀포인트뉴스"
     },
     {
+      "title": "반도체 훈풍 탄 원익그룹, 2200억 딥테크펀드 키운다 - 공공뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MS1RmbmttM1JSTHZkS0hpSUdsdWZ3anVlRGdhdDdjYnoxNjMtTXpldkVydUQ2MjAtR244ZXpUSlduanJtc0w5V0JoeTZYWURnRnBkZjlsLW1ZOEpHVnVJLTlBR3dwQjRTeUpQS2t30gFuQVVfeXFMTUxLVGZua20zUlJMdmRLSGlJR2x1ZndqdWVEZ2F0N2NiejE2My1NemV2RXJ1RDYyMC1HbjhlelRKV25qcm1zTDlXQmh5NlhZRGdGcGRmOWwtbVk4SkdWdUktOUFHd3BCNFN5SlBLa3c?oc=5",
+      "date": "2026-11-23 12:40",
+      "company": "",
+      "source": "공공뉴스"
+    },
+    {
       "title": "이천시장, 유진테크 공장 증설 현장 방문…인허가 신속 지원 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04ZWtZSzBCeTVJQnFxOTQzcjRhdjlBTDYzY2ZXaDB3ZzA0Tm9QNTRKdS16VUNoUDcyeEhnSFpwR0ZyVE1FT2lJY2c3OGptbzBMYjNUeGZ0Y0hyOFRRQUQ3ZkRUM2k?oc=5",
       "date": "2026-11-23 12:31",
       "company": "유진테크",
       "source": "매일일보"
-    },
-    {
-      "title": "반도체 훈풍 탄 원익그룹, 2200억 딥테크펀드 키운다 - 공공뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uT2ZKcUJBWGFrQlAtMmhaQ2FLMUx3N0VnMm10Tldpb1ZRejQyZlVIanh0bFQ3SV9jcmZ6dURabXEtZGg3bWlMS2dXUHZ2NFhnVkl3bXJJXzJMOFdjZFRITnluSzFwT2tOdExJ0gFuQVVfeXFMTUxLVGZua20zUlJMdmRLSGlJR2x1ZndqdWVEZ2F0N2NiejE2My1NemV2RXJ1RDYyMC1HbjhlelRKV25qcm1zTDlXQmh5NlhZRGdGcGRmOWwtbVk4SkdWdUktOUFHd3BCNFN5SlBLa3c?oc=5",
-      "date": "2026-11-23 11:50",
-      "company": "",
-      "source": "공공뉴스"
     },
     {
       "title": "AI 데이터서버 가격 높아져도 수요 강력, 삼성전자 SK하이닉스 호황 지속 청신호 - 비즈니스포스트",
@@ -437,11 +605,11 @@
       "source": "비즈니스포스트"
     },
     {
-      "title": "[SK] 美 특허청, SK하이닉스 다층 반도체 소자 기술 특허 등록 - www.ebn.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1NW5Ld3FnU2NPeW9raTBEMzRNLUpMYjdPcnRnUFZzcGR0QXNOWURuOTBxMWpHamxzdFVvbURFdHZJOTAyTjY2aTV0YzI2Yzl4SXJqazJmNS14UzBnT1Zfd0N4YkFXZENT?oc=5",
-      "date": "2026-11-23 10:55",
-      "company": "SK하이닉스",
-      "source": "www.ebn.co.kr"
+      "title": "삼전하닉 급락…美 반도체 11% 폭락, 무슨 악재 겹쳤나 [칩칩폭폭] - 조세일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Md2MtTFowbHhuN0RrX3RCQUVhbk5WcmFNa2hKVkxub0VhN1FYbWN3Yy05eGQ1WmpybmgwWWJSZUlhOVNMU2pkTkJoZ2RIanRwcnQyR0FfRDVDeWI1cjNFMkNOa0p1S2RtM1JxaTByQkdwbzFl?oc=5",
+      "date": "2026-11-23 11:01",
+      "company": "",
+      "source": "조세일보"
     },
     {
       "title": "AI반도체, 빅테크와 협력 확대…'부품난' 그림자 - 경제투데이",
@@ -465,32 +633,11 @@
       "source": "뉴스인"
     },
     {
-      "title": "[산업썰전] SK하이닉스 현금 114조 쌓았지만 투자계획은 1100조…반도체 불황 오면 버틸 수 있나 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yX0F6cExYNUY3S3BJejlIVTJFSnFQSmlZckxxbzF2T1ZKRUh2TmxBNkphUjIzM2h5UHE1SzJXaXN4VUJKb3Y3d0pCVy13MWwtc0YxT0VmQTIxM0RZNEtqcU5MSngtZXllT0NuWlRhamZtM0XSAXdBVV95cUxOLXpXQl9WcHpraXlEOEFJUTZfazZ5eFhKMVM0NmJCd2tJQXJNRTNzRkRnTTVQY0g0UEEzOVRUOUJXUVdOT0ZRRHJmTWQybllCVTBvZUtkVXE2YkwtRlpoU2pjTjBLaUhHTC1xYUN1X2hpMjBTVFJiaw?oc=5",
-      "date": "2026-11-23 10:25",
-      "company": "SK하이닉스",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "[장중수급포착] 심텍홀딩스, 기관 8일 연속 순매수행진... 주가 +1.59% - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JTW03R2JCUUVDakdRQjBkdUYwcE9NREdjSUtqbTBocTRDN21NZFZOQ09hMVVJcHhtVHZKRUl4MTVLaDNIQ2FnVlItWlF5RVR3SkI0RGdLYnBGQV9O?oc=5",
-      "date": "2026-11-23 10:15",
-      "company": "",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "AI 기판 성장 기대에도 차익실현…이수페타시스·삼성전기 '휘청' - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OS2NZbEp3TG42c1BxSk1uMk5tcmI1bXhIcTBtR2tMMnh6WGFvb2w2dEpzeGxtdzlnN3NWdGVkVEhydXNUZ0IyUWIzUDdtbDV4ZmFRZERGZXRPNU1jTWFucFM3N2twbmZpdGM3Y3dWLVA4ZzV0VTFN0gF3QVVfeXFMT05LY1lsSndMbjZzUHFKTW4yTm1yYjVteEhxMG1Ha0wyeHpYYW9vbDZ0SnN4bG13OWc3c1Z0ZWRUSHJ1c1RnQjJRYjNQN21sNXhmYVFkREZldE81TWNNYW5wUzc3a3BuZml0Yzdjd1YtUDhnNXRVMU0?oc=5",
-      "date": "2026-11-23 10:12",
-      "company": "삼성전기",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "삼성전자 수십조원 반도체 성과급, 내년 3월 주총이 마지막 관문 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZWG1iMjUycGRUNklVQXdGQVVBUUtGYU5qclpGS0FMWWdtLWhqRmlOU3FVNmJsUkNXMmdwX1ZZMFpfQXNPMTdzTlp4LTR1a3VKU1RRNG5abVNKb3lpSzQ5WTJraUZCNmt2Q3lhQ3IyamZNR2vSAXdBVV95cUxQaUo2LVZvQ3dyWlhQczcybFNXdGI0aU5mNGl1ekdvSW5WTS11TlBpNkhVd1d0dDYzbmxnVlFfODJma2FCMHZRUmVRTU8xOFpiNVByY2NhdzRXUTdHX1c1VzJNUXNCZkZoSHRUU25QcUY3SlRVWUdiaw?oc=5",
-      "date": "2026-11-23 10:10",
-      "company": "삼성전자",
-      "source": "핀포인트뉴스"
+      "title": "성수석 이천시장, 유진테크 증설 현장서 기업 애로 청취 - 디스커버리뉴스(DISCOVERYNEWS)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IMG9TVU9NUFY3NXFOTE4tYllja25ZOTJxOWVWTWdvR0JNaHJPbE9mUUM1SC1pWWpCLXl4alFNcDBYVklwbTFyTmhhc2hyOXRhLXVxWFVydnhaUUpKRDhBVVVXdVBOcnk2LTliaVlOejVwZw?oc=5",
+      "date": "2026-11-23 10:23",
+      "company": "DISCO",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)"
     },
     {
       "title": "한미반도체 주가, 11월 23일 장중 153,100원 0.46% 하락 - 중앙이코노미뉴스",
@@ -535,18 +682,18 @@
       "source": "핀포인트뉴스"
     },
     {
-      "title": "LED 장비 시장 판 커지는데 주가는 엇갈려…티에스이 선방 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RS1IbnV1NmhubDd0UHh4Umt5WnRSVDB1aDB4UEx1Mll4bHg1ZXVJVWdqUUVlWTUxeUx6VHYxUk15UE1QTDVqRUxRQnZPSkd4QWRpZGdaVVZBcDV2UVlKUy1UYm5MMS1jUm80bktoNlQ3MzdaQUhJ0gF3QVVfeXFMUDRFLUhudXU2aG5sN3RQeHhSa3ladFJUMHVoMHhQTHUyWXhseDVldUlVZ2pRRWVZNTF5THpUdjFSTXlQTVBMNWpFTFFCdk9KR3hBZGlkZ1pVVkFwNXZRWUpTLVRibkwxLWNSbzRuS2g2VDczN1pBSEk?oc=5",
-      "date": "2026-11-23 09:27",
-      "company": "티에스이",
-      "source": "핀포인트뉴스"
-    },
-    {
       "title": "[특징주] 미국發 반도체 쇼크⋯삼성전자·SK하이닉스 3%대 급락 - 아이뉴스24",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56WFVZN3BNVkdIVk9oTjUxdDlBckdSR1F1QWdLQkRQMzB6V2s0cm1GdDhTLW04Y25Ba3JGdEdBdTBienNvQXNDN3BoNA?oc=5",
       "date": "2026-11-23 09:24",
       "company": "SK하이닉스",
       "source": "아이뉴스24"
+    },
+    {
+      "title": "LED 장비 시장 판 커지는데 주가는 엇갈려…티에스이 선방 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJdWlIR0JScXhsS0h6WS1XNGdneHpVMWRpcHVFRkZURGZ2NlVGNUVNYUZoem5DQXRGMElIM0hqS0lYVzhVT0RzR1AzSl9DM2dSRU1BVnJBMXRnVXpNMU80RmtYcWNJYTZhdE10VktpYWU2OVHSAXdBVV95cUxQNEUtSG51dTZobmw3dFB4eFJreVp0UlQwdWgweFBMdTJZeGx4NWV1SVVnalFFZVk1MXlMelR2MVJNeVBNUEw1akVMUUJ2T0pHeEFkaWRnWlVWQXA1dlFZSlMtVGJuTDEtY1JvNG5LaDZUNzM3WkFISQ?oc=5",
+      "date": "2026-11-23 09:23",
+      "company": "티에스이",
+      "source": "핀포인트뉴스"
     },
     {
       "title": "美 반도체지수 10% 급락…삼성전자 3%·SK하이닉스 2%↓[핫종목] - 뉴스1",
@@ -724,6 +871,13 @@
       "source": "IT조선"
     },
     {
+      "title": "현금 흐름 전망을 고려할 때 KLA(KLAC) 주가는 35% 과대평가되었을 수 있다 - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUlMeGhRVnBRbGN2VXpETkZLc2pTcDZLdzZrV0JHVlR6Y18tVkxHTEhoeFhQUmlBaE9fSjRkWHJwUzNKRy1Jbjh2a1JPOEhKOWVWRTZOanZnY1EtcEtxcHNmdHhvQ28wX2l3ckFZR0Y3U0VIUDNkcXAxbFNYZTlyMFNqZWFNNWMtaEpmazRweWF4TWFDaXfSAZYBQVVfeXFMTnFJTHhoUVZwUWxjdlV6RE5GS3NqU3A2S3c2a1dCR1ZUemNfLVZMR0xIaHhYUFJpQWhPX0o0ZFhycFMzSkctSW44dmtSTzhISjllVkU2Tmp2Z2NRLXBLcXBzZnR4b0NvMF9pd3JBWUdGN1NFSFAzZHFwMWxTWGU5cjBTamVhTTVjLWhKZms0cHlheE1hQ2l3?oc=5",
+      "date": "2026-11-23 06:08",
+      "company": "KLA",
+      "source": "Simply Wall St"
+    },
+    {
       "title": "CEO 장기 유임 확인에 Arm 11% 급등, 그러나 100달러까지 하락은 피하지 못할 수도 - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXlHbVo0WlZDMExBOGZwcGdDZEtkMk51MGR1ZXFsQXdHcF9MelpuaEcxbERranp2eWU4MldjTWhWMXM2QU9uRlZOS3JsaWwzQ1JiakVWbE8zT3Y5ek54bEV3LWN4OGxrOWxjeXBMcW10YUUwei1lbGRBQjFwZlF4emhUVXVIeUhUdjFOYXRwWU9iWVlhS1JXZExocllVMmMzSUFIcG5IeGRiNzBV?oc=5",
       "date": "2026-11-23 05:22",
@@ -750,13 +904,6 @@
       "date": "2026-11-23 02:04",
       "company": "AMD",
       "source": "제민일보"
-    },
-    {
-      "title": "무디스, 삼성전자·SK하이닉스 내년에도 웃는다? 반도체 실적 전망과 주가 영향 확인하세요 > 뉴스 - 진해신문",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnSWMxS2VpcXR5SHB0ODlHSG1iRWh0T25QaEVjTVlFUGk0TThrdlFqYjBmZ3Zhc0Z1SkdhWTRVRmFmd3Zmakwyd3JSbzFTbWNUMFZ3LXVLZ3o5S2Y2MHZVN0FwdEl0aVlyZ2VraGNxdDhnU1FHUzdYYWVxVWI?oc=5",
-      "date": "2026-11-23 01:09",
-      "company": "SK하이닉스",
-      "source": "진해신문"
     },
     {
       "title": "월가 거물 드러켄밀러, 반도체 투자 대폭 축소…금광주·스페이스X로 자금 이동 - 제민일보",
@@ -815,6 +962,13 @@
       "source": "핀포인트뉴스"
     },
     {
+      "title": "청주시의회 “국가 반도체 클러스터 청주 지정해야” - 중부매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VRWZveWQtaHlrMnpvZ0FHXzdGZDJ5YWRXZDliUkVFcklZYXpIaERLalFkNElIcm51bzFDVmU1b2tSUzFQRmg3RUk2WGs3blJnVHJDd0VxU1BEcEtaYXViMkxjS0ppVGJYSF9oU2h30gFuQVVfeXFMT1VFZm95ZC1oeWsyem9nQUdfN0ZkMnlhZFdkOWJSRUVySVlhekhoREtqUWQ0SUhybnVvMUNWZTVva1JTMVBGaDdFSTZYazduUmdUckN3RXFTUERwS1phdWIyTGNLSmlUYlhIX2hTaHc?oc=5",
+      "date": "2026-11-22 15:41",
+      "company": "",
+      "source": "중부매일"
+    },
+    {
       "title": "‘SK하이닉스 1조달러 인수’ 손정의의 빅베팅, 왜 멈췄나 - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzdDR3NwZlh0a1h5RUZyT2FzX2dTUFhQZmc1ZG0xMlFVQ0JVMVlnLWJlRnBSU0w4cUVWOElVT0MxaVV5QzJkZUdTbjZQSUZfSU1tQ2U2WC1HYk8zQ1NHTUwwMXliTzRiNkU4UmNxZnRTeXF2SXZrWEF5eXh1NHFxdWVR0gGWAUFVX3lxTFB6V2Q0TGxMb0YwcWF4aWZ5bkU2MHRRWkhQNHJFRXpJbFltTkc2T2xnUW94WW9Nb2dhb2RTRk13TDBzeWZ5WEt3WDBHUDlzUmsxOGVFSC1ZY3QxVU5BSkJYQnB1NHNMNHFHSnM1NUhLU09DUkUwMzVoZ1U1SGJzdUN5RjNfUTVHbGg4aGxtUDJqVVhZUl9sZw?oc=5",
       "date": "2026-11-22 15:32",
@@ -862,6 +1016,20 @@
       "date": "2026-11-22 13:00",
       "company": "",
       "source": "한국경제"
+    },
+    {
+      "title": "제주 수출 10억달러 눈앞… 반도체 73% '쏠림' - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tbnZWcjJVU2NaU0xvZE5QM1I0MDVhTlY5SVZnMTZxOWkyZ05aR3d1OHNZcHAtVExXVWlkNnE2WXkzNWt0U3RnelhfWkdkNmZZNTE2ZTQ4WTNLUQ?oc=5",
+      "date": "2026-11-22 12:23",
+      "company": "",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "통합특별시의회, SK하이닉스 방문…반도체 클러스터 조성 방안 모색 - 대로미디어",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xN0ZPQ0hNRktmVU1PczI1ekRuQmdzVVAyV0VpZjRyQnJmbXN0V19jak5LRzRVUHhqNFRfWFFEWVR6dEJqckVCc21xdS1od3B6MlNwbEdIN1Fab3BWNzhpcDZQdkNvSW0xa0l3?oc=5",
+      "date": "2026-11-22 11:29",
+      "company": "SK하이닉스",
+      "source": "대로미디어"
     },
     {
       "title": "삼성전자·SK하이닉스, 반도체 호황에 배당 확대…주주환원 가속 - 산경투데이",
@@ -941,11 +1109,11 @@
       "source": "핀포인트뉴스"
     },
     {
-      "title": "AI 반도체 호황에도 SK하이닉스 기부금 120억 감소 : 기업·산업 - 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wN2tISGttbnNmQkVDaXB6bzZJVkE4RmRJS0YxM3NkcXhSd2FQSVNMLXdvZzVHdTNDRFNIMU1LRU00M3dTb0ZaUlZVYw?oc=5",
-      "date": "2026-11-22 06:24",
-      "company": "SK하이닉스",
-      "source": "재경일보"
+      "title": "오늘의 KLA Corp(KLAC) 주식 뉴스 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxTnFHMGhmWm5wbjdraW9MSWY3a0M2czFKa3NTREM1YzRPazdzUTNpWDRqNUUtNXUzTWZDZUFYQTRqa0J1SjV1X0xGX1FQZnIzNTZxMTVWQTdpRk16dkNDXzQ0Zk1zWjAzX3pGMlFpeXlhTVRYUmJYSg?oc=5",
+      "date": "2026-11-22 04:10",
+      "company": "KLA",
+      "source": "TradingKey"
     },
     {
       "title": "[반도체 패권 노린 소프트뱅크] \"SK하이닉스 1,346조 원에 통째로 사려 했다\"… 월가 금융기관에 자금 조달 타진한 손정의 - CBC뉴스",
@@ -969,11 +1137,25 @@
       "source": "세계일보"
     },
     {
+      "title": "홍순철 청주시의원,“청주 반도체 클러스터 국가 지정 촉구 건의” - 뉴스체크",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50dTVKemZHZnhsQ0RjZ05LV1FQdkctOFdQWmFjZEpfc3ZQWmxYMllVTzlWekRVMzJEaFNxYVJ2U3RkWDFUejRPTEVmdjFKcVBiU0ZWeGdKa0c1a0VKbE1tYl9vMG54ck1lSE9Xel9n0gFwQVVfeXFMTVVua1RpdTdhZ19lZDR0Q3ZjT0dYZWZ1NW0xb1BaZEY3RC1WSFhpLUt5NVRJaUtURk5rZDdjbngteGtMeURRT0xtcklCQzE0Zl9xLUNzVWl6SVJvazdfTGtVWklkRUZuTVd3ZjdPclgwcA?oc=5",
+      "date": "2026-11-21 21:19",
+      "company": "",
+      "source": "뉴스체크"
+    },
+    {
       "title": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy? - TIKR.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHo4eUZacEszSmgtTTltOS1RSFhGNDI4YkN4WHJmVU9aSXVkNkVmRzY4NXhSckVNSUN6NGg4RDMxeFVfamJLNk5BTFdlVkZFaElITWpYcGU0cWZNbUZYWmlZaXVqNGRkc1VaT1ZBYWJINEQ5WlE0RGxMVjVxTTZLWGQ2d1lINklHcTlkcXhhV1ZGQ1FpSHp0bUpWUkR2akdpdDlMUTZfSi02ZlREcnZyRWd4UFY?oc=5",
       "date": "2026-11-21 19:45",
       "company": "NVIDIA",
       "source": "TIKR.com"
+    },
+    {
+      "title": "하나머티리얼즈 투자분석 2026. 11. 21 - 주달",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSdlRzaFFEOGR1Qm9xQWtKSVMwdWxLa0hBbzRTZGZrc09QY296Tms1S2E5aEZMd2N0b095YWRkdWFlVkpvdGYyNjZWTDlERUpscGFoczF0cWR0RFc3aXVDR1Nud0F3alFtWk9XbUhBWDRGNzg?oc=5",
+      "date": "2026-11-21 18:04",
+      "company": "하나머티리얼즈",
+      "source": "주달"
     },
     {
       "title": "240만원 찍고 66% 폭락했는데 목표가 280만원?…삼성전기, ‘엔비디아 효과’에 다시 날까 [투자360] - 헤럴드경제",
@@ -998,8 +1180,8 @@
     },
     {
       "title": "한솔케미칼, 환율에 발목 잡혔지만…SK하이닉스 M15X가 버팀목 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMN2h6SUlyNHNPUEpfQ1FCemh1MHZCbzJzUm9xcXRMQzN3U0ZNcXZHdmxBRUVGcEpVQWdfbGxWXzNxeHBKbXVKZV9aQ0E0MjUtOFZEcEd6NV9zVEhjVmU1UUx1VnlnNnNVaWxNdWJPQVZjTFXSAXdBVV95cUxNVmpmeGVKSE5kUUJDdzdJb1J5bVpOS2FSXzMzcHVGc2lyNGUxTUJuUGFwR1l2eTFxY3h0NEN0LXpCZzEtTjg5WmY4UnJnM240UkdZRmRKOVowOHExdWdIdGVZTlFXNkJrWHZsYTJPV3FmdnQ1b295RQ?oc=5",
-      "date": "2026-11-21 15:26",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WamZ4ZUpITmRRQkN3N0lvUnltWk5LYVJfMzNwdUZzaXI0ZTFNQm5QYXBHWXZ5MXFjeHQ0Q3QtekJnMS1OODlaZjhScmczbjRSR1lGZEo5WjA4cTF1Z0h0ZVlOUVc2QmtYdmxhMk9XcWZ2dDVvb3lF0gF3QVVfeXFMTVZqZnhlSkhOZFFCQ3c3SW9SeW1aTkthUl8zM3B1RnNpcjRlMU1CblBhcEdZdnkxcWN4dDRDdC16QmcxLU44OVpmOFJyZzNuNFJHWUZkSjlaMDhxMXVnSHRlWU5RVzZCa1h2bGEyT1dxZnZ0NW9veUU?oc=5",
+      "date": "2026-11-21 15:40",
       "company": "SK하이닉스",
       "source": "핀포인트뉴스"
     },
@@ -1030,6 +1212,20 @@
       "date": "2026-11-21 13:17",
       "company": "HPSP",
       "source": "핀포인트뉴스"
+    },
+    {
+      "title": "[소부장 테크페어]테스, SiC·GaN 에피 장비 글로벌 3강 우뚝…“12인치 선제 대응해야” - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nZ1lOZW9UcnlUTmVtZU5ENG1GZEE1MmJuOFFBSHNRS1lLX3hYaFhDU2dGdUNaMEtzNVpBY3FjVWNJMk1kUFlucml6U1Vwdw?oc=5",
+      "date": "2026-11-21 12:00",
+      "company": "",
+      "source": "전자신문"
+    },
+    {
+      "title": "[그린 칼럼] '수출 1조 달러'는 출발선 ··· '외발자전거' 반도체 이후를 향해 - 그린포스트코리아",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1bjZsUWpUdkxyY1BGRFMzdDlBTnMwd3J0ZjZpc2JuVGJKOElMM3Z6U1AxMDBXeGxscmx2TUVsQ0pmdlhFUFJIemUzMG9FWm5PdWg1eEZGU3F1OHY5UnVRWlQ4emdCcC1hSnY1Qm5YT0NPRnA2akHSAXpBVV95cUxNOUstYUxsTjRwLVZCSHFPdDRhdHI2ajFxLTFZSWI4SGdYN0pwUW9jWGpWV2p6VmYyVWhrN3RiSGFSSzV4cDNzSy1Ya0d2OEVCUHBpN1JScmxjM2JQNjRzOUo0MmRmdDcxdFBLcTRXWjdYRS1WSG94bFRvUQ?oc=5",
+      "date": "2026-11-21 11:19",
+      "company": "",
+      "source": "그린포스트코리아"
     },
     {
       "title": "11월 3주차 한미반도체 주가 15만원 선으로 하락 - 중앙이코노미뉴스",
@@ -1067,6 +1263,27 @@
       "source": "핀포인트뉴스"
     },
     {
+      "title": "미국증시?... 반도체ETF '대폭락', 나스닥 '폭락', 공포지수 '대폭등' - 초이스경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EeEJTLUtETTJEVG0wYmZhRjZxMDlsUmlwa2dQNzdUQlpzblprODJLSThJT1hodHFlU0VBMnBQYXFBeTR1Ny13LVZBYjRQQzF5TnZ1VTg5SUdhNzRzaVpOZGhlaEJjY3RXSU00bW1na2xPenPSAXNBVV95cUxNRHhCUy1LRE0yRFRtMGJmYUY2cTA5bFJpcGtnUDc3VEJac25aazgyS0k4SU9YaHRxZVNFQTJwUGFxQXk0dTctdy1WQWI0UEMxeU52dVU4OUlHYTc0c2laTmRoZWhCY2N0V0lNNG1tZ2tsT3pz?oc=5",
+      "date": "2026-11-21 07:24",
+      "company": "",
+      "source": "초이스경제"
+    },
+    {
+      "title": "램리서치 9.91% 하락 마감 183달러선 기록 : 기업주식정보 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yU0RjUDdCbFR4aTJ1dTBjbERxLVVETkZGNmwzbmp4bG5kUjZnUk1RNmJZeFNEX2dWUXpOcHVRU29rRzBBdy1NWmFCaw?oc=5",
+      "date": "2026-11-21 06:41",
+      "company": "",
+      "source": "재경일보"
+    },
+    {
+      "title": "KLA 10% 급락 마감 반도체 계측 장비주 약세 : 기업주식정보 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnN2hid1dDSGYwN1B6aGsyRUFyRndCUTBwei04Zi1GeGZnZFlsdDVueEY4d2lzN193RUZtQjZ4RWUtMVZpYV80UGwtZw?oc=5",
+      "date": "2026-11-21 06:36",
+      "company": "KLA",
+      "source": "재경일보"
+    },
+    {
       "title": "Analog Devices Inc (ADI) 주식 마감했습니다 하락 8.17%에 11월20일: 변동을 뒷받침하는 사실 - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHIzRC1hZzJqRmlCZHkzTDJrOVQ4RDdNaEFYaWhqVU9PX2MwaXQyWU5NMklmczlhRGFSWW9mR25FTHJBeXp2SE9scHB0NjR3V2xtRXJSc2lCVXV5V1ZreHk5Y0U3VmRBVkt5ZGg0eHNCQ3hDajQ3LWw5RDZQOS1IemRJWWtncmxZd2NzNFVB?oc=5",
       "date": "2026-11-21 06:17",
@@ -1079,6 +1296,13 @@
       "date": "2026-11-21 06:17",
       "company": "KLA",
       "source": "TradingKey"
+    },
+    {
+      "title": "[美증시] 반도체, 앤트로픽 급락 쇼크에 '초토화'...엔비디아·메모리 대폭락 - 미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EMk1zeXRDek93b254UTFJOTJHbEgyc2FpQ1VhcjVJN09sblpTUWIxNFVtaEZ5Z1ZBX0dnT2VuVENWRHdjQlZ1ZkYtVmhNWXRYbFJ5LdIBWEFVX3lxTE9PMlBCcDJCUW9EVlZDYXg3Zk9EUzZXTGd5ZTZQV01xSW4wVzBPYXFRVXJjOHAxcW04RldGcks5S0ZKUE1IT3ZOZF94cjVucUxJM0JzZTQ0SWY?oc=5",
+      "date": "2026-11-21 04:43",
+      "company": "",
+      "source": "미디어펜"
     },
     {
       "title": "Lam Research Corp (LRCX) 주식 움직였습니다 하락 9.03%에 11월20일: 변동을 뒷받침하는 사실 - TradingKey",
@@ -1165,18 +1389,11 @@
       "source": "그린포스트코리아"
     },
     {
-      "title": "美 대중 반도체 규제에 반도체株 조정…반등 버팀목은 'AI 수요' - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uSElBZ19uMDJWeTk0aUp2WlJxN212OEZuQkZTNTQ3QTVTT0JVN29uQjZIRkh1LWs1a2tGeVBOZTVzcElJOThQMjQ3dTRnSzRRRl9aSVk5Z2hubllKQ21R?oc=5",
-      "date": "2026-11-20 18:01",
+      "title": "코스피 5% 급락한 날 나온 ‘7000 전망’··· 자문사 CEO 3명 중 2명 예상 - 그린포스트코리아",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GaFRTWWhvR2JlY1o3YktVTjJRWWZkR0pZRkF4bDduVUdmV2lGLTZoM1U2bXNZbmtOaUswZllKWlRrN0gxcmtBdGVLdzRGbldicmVra2Q2RzloMXZFeEVwVUt1VWxqMVRlOWVtUXR5Vml3TV9ZUEHSAXpBVV95cUxOdTRxemVYTjdrbVJGMGR0S1c0X1pZeUhaTWwxVC05S0tWYUpoU1h1NDZfNHRjcHpCbXFqZHE0M0xfQ3pYU3JwSmtnNFdBcXNPcXc0M2hIY0dNWWwtZ2t1ekt5SnhTdnd0VHlGLVhHNl9hZG5RRnEweVFGdw?oc=5",
+      "date": "2026-11-20 18:07",
       "company": "",
-      "source": "뉴스1"
-    },
-    {
-      "title": "충북도, AI·반도체 산업현장 찾아 미래 성장전략 모색 - 모빅경제",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VM2lQS2Y1Q1RlZjRoQ3dmYkhJYU1KWF9xNWR6eHltTlctWlY0MDNadEkybHZLYTdhRFJ1N09nVGFxMzVtczNyankwa3hUazNCQ0w3U1daU1lZWnFrNHA1M1BxLTlvcnppZ0NlSDU5dFA?oc=5",
-      "date": "2026-11-20 17:53",
-      "company": "",
-      "source": "모빅경제"
+      "source": "그린포스트코리아"
     },
     {
       "title": "AMD 기술유입 의혹에 주가 급락…중국 제재 기업의 펌웨어 갱신 정황 제기 - 매일일보",
@@ -1191,13 +1408,6 @@
       "date": "2026-11-20 17:23",
       "company": "제주반도체",
       "source": "디지털투데이"
-    },
-    {
-      "title": "제주반도체, H.O.A. Semiconduct… 주식 260억원어치 취득… 지분 65% - CEO Economy",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYcl9hM0Npb2hITWEwcmphdnRRR1N3V19BdGpITV92TnBkbHBZcG9BZE9XTXVjcG1pdW1RekFILVo1eXhRVlAwb2FDaVhNYk9sbnd4ZEcydjk4N25lM2g3XzhpdEJFX2JFMTRaeA?oc=5",
-      "date": "2026-11-20 17:12",
-      "company": "제주반도체",
-      "source": "CEO Economy"
     },
     {
       "title": "엔비디아 이어 AMD도 中 사업 논란…삼성·TSMC는 칩 출하 보류 : 네이버 블로그 - Naver Blog",
@@ -1221,11 +1431,11 @@
       "source": "파이낸셜뉴스"
     },
     {
-      "title": "대한민국 대표 가치투자포털 - 아이투자",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QdmtFZjN0NUpsNjRHWUpnWGpGb1o2WlJucnA4WFdyTEpSYUVfVkVTTVB0X1ltM2dxM1dnTXktMUk4VHhqU2JB?oc=5",
+      "title": "앤스로픽 “AMD 칩 전환 수개월서 며칠로 단축 가능” - 초이스스탁US",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mRE1oS1RHeHNEVVZodTR3R1BlNXYzdW1nVlJpRl9kSEtnbkw3M29EVkJPYzliaTFUZW96VDRCMl84Vlc5R1lpS2lsVWJLYjh6ZzZzMTFZQWtvQWhGQWd4dUZZZmVEM28?oc=5",
       "date": "2026-11-20 17:00",
-      "company": "",
-      "source": "아이투자"
+      "company": "AMD",
+      "source": "초이스스탁US"
     },
     {
       "title": "ASML Holding NV (ASML) 주가, 시세, 뉴스 및 이력 - Benzinga",
@@ -1305,6 +1515,13 @@
       "source": "CBC뉴스"
     },
     {
+      "title": "\"약사 옆에 AI 조수\"…셀빅·퓨리오사AI·메가랩, 약국 혁신 맞손 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80UGQzSmdSVHd0Q1JtSGVZSEhMdGphTWZHbVpBaVFzX2JNeE5EMkdjS0diS2FvWkhYclNPa21KcHhqVC1WVnJ6TGkwVzVEUUNWaE1LRG1Hb0cxZVY5WVJNVGVNZ2U5cFZBeWfSAW9BVV95cUxQbkgyOGR4R0ZhSXVNZ1J6eS1ZS09sQUJoc2ZOX3NBZkd3VTFmbXN3Sk5GUE03WHdiRi1WZzEwMjFKa29ZYllGVlh0dnU0U2pGbmVkNUNSOTYzVS1VQ3oxdDVoaGMwakxHc09Ba29QN1U?oc=5",
+      "date": "2026-11-20 16:30",
+      "company": "퓨리오사AI",
+      "source": "머니투데이"
+    },
+    {
       "title": "中 반도체 공급망 흔든 美 규제…삼성·TSMC 일부 출하 중단 - 시사저널",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tYkxLaUFEQ0xqU2lLNTU4dHNBTXVnQmJYMGp5LTUzUUZ0XzlzMHEtU3BBTG5PNUJ1U1RHUVBmaHVEampUeEM3RmlhSW9qQUZYbWpObWtMYTUtXzZYY3N5ODZ5eFMydldoQkw4RHdOd9IBc0FVX3lxTE9kaFN3VVlTWjdkbkxaNjBDQ3RGcEFqNEIxWTJQbkFEa2J6YnI2VDF5R1ZrVlEyYnpPTkVSYVI5Zks5QUZuTVdtQmt0VW9zLXpKOTEwcEZ0eDZCUEEza3EzWTdUa3ZHbC1xbzRKNDNoZjlwcUk?oc=5",
       "date": "2026-11-20 16:26",
@@ -1317,6 +1534,13 @@
       "date": "2026-11-20 16:18",
       "company": "AMD",
       "source": "뉴스토마토"
+    },
+    {
+      "title": "청주시의회 '청주 반도체 클러스터' 정부에 지정 촉구 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aY2tROGRSdUEzSkNoUk9seWRNODhJRC1HNTM5UDR3LU5zYkhDX1J4LVg5ZWxhZ0Rpb0NZVzV4ZnNaMjdJS19RNFZhYUw0UTB6SjRLdFgxdXA0NkNIVGFxStIBeEFVX3lxTE52TU9tWGw1Q3JxLVNPNGZ1V0tMUDh2U2VuTzdkV2drc2k2MnBlNDJ2NmNtcldWWlpldUNfalMtMlRFbDh3SVNmMlBvUENrSVJkU09tTW55WlZJb0wzVXdNY3pqNFlJZHZ4U1JwRVRjODRBSDgySUJHeA?oc=5",
+      "date": "2026-11-20 16:14",
+      "company": "",
+      "source": "뉴시스"
     },
     {
       "title": "[증시-마감] 코스피 AMD發 반도체 불안에 5.2%↓…10개월 만에 최저 - 연합인포맥스",
@@ -1338,6 +1562,13 @@
       "date": "2026-11-20 16:10",
       "company": "TSMC",
       "source": "매일경제"
+    },
+    {
+      "title": "미국 중국의 반도체 우회 조달 통로 막자 삼성전자·TSMC 일부 출하 중단 : AI 넘어 스마트폰용 칩에도 영향 - 허프포스트코리아",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XMjhNUEZmN2hRNlJPcVFtdVNscVpnSlFyQUlMSFpGWEJDekdBQTlaSF9qMFlOSW1NSmtaMzhkYk1qRDdUWEpkUno1VExCcFdUOVFBYk5SMA?oc=5",
+      "date": "2026-11-20 16:05",
+      "company": "삼성전자",
+      "source": "허프포스트코리아"
     },
     {
       "title": "[코스닥 기관] 심텍·원익IPS 팔고 에스엠·알테오젠 담았다 - 핀포인트뉴스",
@@ -1382,20 +1613,6 @@
       "source": "스페셜타임스"
     },
     {
-      "title": "[마감분석] 심텍 11% 넘게 하락하며 9만9700원에 마감 : 기업주식정보 - 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93N2VXSExBalBONHlpTVJQeFpIS21ONVFlTjc4MjE5aXVnMVp0eEtKb1VxQ2pFM2FaREVCSVdKYmJUNGI1N2RuTHRQTQ?oc=5",
-      "date": "2026-11-20 15:51",
-      "company": "",
-      "source": "재경일보"
-    },
-    {
-      "title": "[특징주] AI 투심 위축 지속…코스닥 반도체소부장 급락(종합) - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBUi1mbVpscXVzaTJHTllNekxDTHNIb2VIRjZ2YWRTQXZuRENhaENzLUJaTjZlc1R4T1VqMWJrc2NWbUZicWhTWlc4WHFZcmE5ajA3RmM1UjBUMHfSAWBBVV95cUxNTzBMV1Z0dHNmSmdUMXFidWxBMzdmcUh0YnUtYU5kSm5BcDIzbm9iZjRUZTRDd1ZFYjM1a1RyamIzeUw0S3pUN3JPaVE1SnlKVnlaNFNtbl9jdWpqTm9paEQ?oc=5",
-      "date": "2026-11-20 15:47",
-      "company": "",
-      "source": "연합뉴스"
-    },
-    {
       "title": "제주반도체, 실적 급증 뒤 11.11% 급락 - 잡포스트",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KSjlFM2F5WEJRSENJYVRkWEYtazhwR2RKUW0zcG5tSkw2dFJEc19TcXRPbGk4aFFIZjFQeFplcmQxNVhIdWZ2N0ktaXZtczJuTUZCYWJQSnd5V3R0ajNLLWFNcjhLR09kVFYwTHlR0gFyQVVfeXFMTWxXNG92UWdJZWpkT1E4bHR1d0hqV3RRQUFWY2kzdW5VcmlDVnVySXIybm1IeTNZVVUwdWZBajV3QUxvZVk5OWhkZ2pTb3d2cHdZNkN3QzFFU0VScEFVMDJOaDRJMFVVM3AwcjlicmhXVERR?oc=5",
       "date": "2026-11-20 15:41",
@@ -1404,7 +1621,7 @@
     },
     {
       "title": "한미반도체 주가 18,600원 하락 후 장마감 - 아시아뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tQ0dNUHNsTWR6VGhJVEpxdnJsS01VZmhXeWdtOVNqM0dvTTFUblhmbEh6eTlLUEhDV29OVWRKWVFnWnlfalF1N3VqYkRzTXY2ZGF2OV9XQ2ZISE80WXJUaDBIUEZmcEREUm1NcXNHSVhBZHp3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BeWtHbDRxWFcwVmtXNlRWTi1xM2VOQVV1OFZuZk1BeTFPelZ3aUlEZ0lNZEM4NGNrWkxVUTRoYUtheGctNHlZZkJxYkk3aFVCZW1LSVJGZWlIRS11QzNKb2tn?oc=5",
       "date": "2026-11-20 15:40",
       "company": "한미반도체",
       "source": "아시아뉴스통신"
@@ -1417,11 +1634,11 @@
       "source": "문화일보"
     },
     {
-      "title": "\"약사 옆에 AI 조수\"…셀빅·퓨리오사AI·메가랩, 약국 혁신 맞손 - 유니콘팩토리",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NMzVmMnZJU1kzTjloX1N3SFZOZmdpRVQ0S1V3TUZFb0dSd2tXUmtwT2JXVnpFX1pnRmVfUGJKMmpobjg0QWJrcElZSkhVaW5jRlN4ZWtRQUZMOXl1c0xPbHQxbE9saUFZWHc0bw?oc=5",
-      "date": "2026-11-20 15:30",
-      "company": "퓨리오사AI",
-      "source": "유니콘팩토리"
+      "title": "아이에스티이, 앰코 美 애리조나에 풉 인스펙션 복합장비 공급 - 데이터넷",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLeHZScUtTbTlRVU1zM0JMUE5VTGdFWF9zTjFjUUl5V08wY3VxVG5qaFNQOXBOLTFMSW01WGlMYkgwQklPMkoxdThsbG5QZHhpaXVKN2tjMHNUd0VrNVRzT0pvNGZsbDVYNUxIVw?oc=5",
+      "date": "2026-11-20 15:20",
+      "company": "",
+      "source": "데이터넷"
     },
     {
       "title": "[이엔에프테크놀로지] 이엔에프테크놀로지, HBM4·DDR5 수요 확대에 반도체 소재 매출 17% 증가…성장 지속될까?(2026년_3Q) - 네이버 프리미엄콘텐츠",
@@ -1436,6 +1653,13 @@
       "date": "2026-11-20 14:59",
       "company": "한미반도체",
       "source": "잡포스트"
+    },
+    {
+      "title": "아이에스티이, 앰코 美 본사에 반도체 수율 향상 ‘FOUP 복합장비’ 공급 - SR타임스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14S2Q5ZUpUVHhmT2ctU1RMQUQ3eUtEMHFMWU5hUUhudDdfblNzeUN6OWxUX1VaWXNHb1pHU0VZRkpFTEZRd3djTVhJd1BEQ25EbHFZVmp0SEZ2S2ZkYjBRR0R5RW5MSWNoSE9r0gFrQVVfeXFMTXhLZDllSlRUeGZPZy1TVExBRDd5S0QwcUxZTmFRSG50N19uU3N5Q3o5bFRfVVpZc0dvWkdTRVlGSkVMRlF3d2NNWEl3UERDbkRscVlWanRIRnZLZmRiMFFHRHlFbkxJY2hIT2s?oc=5",
+      "date": "2026-11-20 14:58",
+      "company": "",
+      "source": "SR타임스"
     },
     {
       "title": "[종합] 美, APEC 끝나자 대중국 반도체 수출통제 강화…엔비디아 조사도 개시 - 아주경제",
@@ -1466,11 +1690,25 @@
       "source": "시사저널e"
     },
     {
+      "title": "제주 수출 10억달러 …반도체 선두 주자 - 제주매일",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rSG5tbWl2R2UxQkZyVXJxWUh4TWhKZTh6Qk4xbU9QNXZ4M0hnWHJERmtkdDB5UUNTU3RwYTJIZ3czT2RKTFlXWDdQLVgxVm11SmMyRGh1VVprOWRrNHhYY253ZGVZLWc3cmF3Tw?oc=5",
+      "date": "2026-11-20 14:21",
+      "company": "",
+      "source": "제주매일"
+    },
+    {
       "title": "원익IPS 장중 6만6900원, 반도체 소부장 약세 - 비건뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5meW14T19mTlVkNkNGUnhtNmtHUlJ6VUZKTHFfRGo4Qy0yWml1WF9aYnR3b0dKZXJTd0hQYUQwSjBiS1NMVHNjRHdjakN6bWo0Z0kteko4bkZFRkdlZlBTRkNraWFMUQ?oc=5",
       "date": "2026-11-20 14:16",
       "company": "원익IPS",
       "source": "비건뉴스"
+    },
+    {
+      "title": "반도체 수출액 4배 뛴 제주, 연간 수출액 10억달러 눈앞 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fd1YzQ0s0WTRmeWxKMDhyNnA4eWxuWVo4ZVVvOG9uQ0xtSjBXLWFiVzJmX3FfR0FHbi1DSzlBSTRxaW1SaWJ0OEZmVUp2RXRF?oc=5",
+      "date": "2026-11-20 14:13",
+      "company": "",
+      "source": "뉴스1"
     },
     {
       "title": "SFA | 반도체 수주 비중 57%로 확대, 4분기 발주 전환이 2027년 실적의 관건 - 네이버 프리미엄콘텐츠",
@@ -1485,6 +1723,27 @@
       "date": "2026-11-20 14:12",
       "company": "AMD",
       "source": "디일렉"
+    },
+    {
+      "title": "아이에스티이, 앰코테크놀로지 美 애리조나 법인에 반도체 복합장비 공급 - 파이낸스스코프",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HbERsdnFZQUF1R1Z6UUlpdWdJbDBDQkFxRXhRbU13UlVNbU5jRnpKdWg1VEJOeF9UeE1LY2c3R0JuN2Zka2VqakI5Z2w3ZXBQNF9kQ2ZOZ0x1clM1djVvMkNBcEtmb1VUZmc?oc=5",
+      "date": "2026-11-20 13:58",
+      "company": "",
+      "source": "파이낸스스코프"
+    },
+    {
+      "title": "아이에스티이, 앰코테크놀로지 美 애리조나 법인에 반도체 복합장비 공급 - 파이낸스스코프",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Qm9xX3lxdWFsWlVtYlBHRi1DeE51a25MTEFDdXFMOE04dXF0S0JBNXJqZGlBRVRtSlZOdkozdWZveTJWR3g3cTdaQWgxRHBuVVJramRyeXdkS0NlVGdLZ21yYmJITnJUMmlV?oc=5",
+      "date": "2026-11-20 13:58",
+      "company": "",
+      "source": "파이낸스스코프"
+    },
+    {
+      "title": "청주시의회 ‘청주 반도체 클러스터 유치’ 건의 - 굿모닝충청",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1paFQ4UFl0cVhnTWNhOHlHRlZtVVpWTjM0a2cxMENuY3B2NktqTENheWhsTXYwamFpem5Yb3N0VnluT0dYRmhORlE1bDltdVhlUDNGSkRhSndlaHFFWUgwekFDdEdBYngtaWY0djFEU0JzZw?oc=5",
+      "date": "2026-11-20 13:58",
+      "company": "",
+      "source": "굿모닝충청"
     },
     {
       "title": "엔비디아 이어 AMD도 휘청? 공매도 리포트 내용 뭐길래 - 오피니언뉴스",
@@ -1557,13 +1816,6 @@
       "source": "AI타임스"
     },
     {
-      "title": "AMD도 중국 수출 규제 의혹…주가 7.7% 급락 - 스페셜경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BeHoxd201V1FKN01ad3FSUWpqQi1JWWE3TzVLWGNTMGRWNEplUGdZdmlxN19YQVpWckg4Nk10RzY4c1loV3RNeXd2bkR2b1hhb1VaZ1NxN1Atczd2amVvcGNrVTJsS0JWYjl5Wg?oc=5",
-      "date": "2026-11-20 11:32",
-      "company": "AMD",
-      "source": "스페셜경제"
-    },
-    {
       "title": "앤트로픽·AMD發 악재 겹친 코스피…4%대 급락 지속 - KB Think",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GN3N0YktJbUlOVWh1UlBWQ0VVcTA2R2VTWmtJYkJpYnVHWGh1MWowSDZhVzJ2TTJMazF0QW95WHJEVFZOVlBhRzFmVTR3Z1pMWktYX1RPdHdpVUxFS0Q1T2FXYVU5YnRFWnNXcXN6em5UQQ?oc=5",
       "date": "2026-11-20 11:30",
@@ -1634,25 +1886,18 @@
       "source": "이슈밸리"
     },
     {
+      "title": "반도체 최대 실적 이끈 주역들 사장 승진…삼성전자 '성과주의' 인사(종합) - 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlMXlPUnUxN0IxV0I2TmZnZHNpaXpIc2toOG1NVDhaQUFCanMzLUt6cmNaOERvUzVjb2xoNk01aUR6Y3ZWd1JtYUlhanR6NWg2YjJEOWdVTXI1SkRNTkxfYmJxZjRxcjhQTGtuWlUxSk5mMFk?oc=5",
+      "date": "2026-11-20 10:52",
+      "company": "삼성전자",
+      "source": "마켓인"
+    },
+    {
       "title": "삼성전자, 반도체 사장 3명 승진…전영현·노태문 체제 유지 - 뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1idUx4eGhHVkwydUZuOVh3aFFBemNWSnJ2ckV1cHliOWFHZVB0YldZSDV3QWxIcU1VeHNGRy0wVXpnMnBmVGFlOWpKWHg2akVsTjNqc0xkOE0zaVBGV2kxSQ?oc=5",
       "date": "2026-11-20 10:51",
       "company": "삼성전자",
       "source": "뉴스토마토"
-    },
-    {
-      "title": "황상준 삼성전자 반도체부문 메모리사업부장 - 마켓인",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0a1FCTXRZdDYwRWtlX0pnYjVOUHJzNnM5Szh1MHBkamhPLWlaa01FLWR0ZlVuUWZSWDRLQXBQUjFsMGk2M05PZjdFbk1Wa19iRWJMbGlHelhWeHh4V0ozZzBtTGt3U3lMS1hnRUMyRUpwVFU?oc=5",
-      "date": "2026-11-20 10:44",
-      "company": "삼성전자",
-      "source": "마켓인"
-    },
-    {
-      "title": "[프로필]이종명 삼성전자 DS부문 CTO 사장 겸 반도체연구소장 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2WG5nUGR6TVdjUy03RHNlX2k0NGMtWEVUV0hheWRCdXJVZ01wcm13WnRSOHlOT1VlTEtaNUI0cHA4V1d3ajEyLUQ4czRMdV9pZVNhY3ZFd09OOUdtTzFRRnFZLTRERkUycnhCY1RSeEt1Z9IBckFVX3lxTFA2WG5nUGR6TVdjUy03RHNlX2k0NGMtWEVUV0hheWRCdXJVZ01wcm13WnRSOHlOT1VlTEtaNUI0cHA4V1d3ajEyLUQ4czRMdV9pZVNhY3ZFd09OOUdtTzFRRnFZLTRERkUycnhCY1RSeEt1Zw?oc=5",
-      "date": "2026-11-20 10:44",
-      "company": "삼성전자",
-      "source": "머니투데이"
     },
     {
       "title": "삼성전자 사장 승진 모두 반도체…기존 투톱에 성과·기술 방점 - 연합뉴스",
@@ -1669,13 +1914,6 @@
       "source": "한국경제"
     },
     {
-      "title": "AMD·나스닥 흔드는 반도체 루머, 또 반복됐다 - https://www.kmjournal.net/",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oRDlpLW9BOURoMFlwc1hQb2VBeDFtMFdzVnVUNE15VTBNNkRyMGN1aE5rRDlwTVo0aXZzelhjUHVRcDhkcFFfR1VLdFpQZXZGVF9kU1hiTzVEeHZJaGVHdUtXOXhVUUxxblpj?oc=5",
-      "date": "2026-11-20 10:34",
-      "company": "AMD",
-      "source": "https://www.kmjournal.net/"
-    },
-    {
       "title": "삼성전자, 안정 속 성과보상...최대 실적 낸 반도체서만 사장 승진 - 머니투데이 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KQzlNVkNrS25uNjZfVWxXN0ZxYmJmT0RLTzl1UC13eW12MHoyaEN5VHJhNjhXVGs4d1JfaElYS0EwRUFGT0V2UHZQRkhEZzZycjRkM0Z2U2R6TVVWeWRZMlc5eElla3VVdWFzODVkWkN6Z9IBckFVX3lxTE5KQzlNVkNrS25uNjZfVWxXN0ZxYmJmT0RLTzl1UC13eW12MHoyaEN5VHJhNjhXVGs4d1JfaElYS0EwRUFGT0V2UHZQRkhEZzZycjRkM0Z2U2R6TVVWeWRZMlc5eElla3VVdWFzODVkWkN6Zw?oc=5",
       "date": "2026-11-20 10:26",
@@ -1688,13 +1926,6 @@
       "date": "2026-11-20 10:25",
       "company": "SK하이닉스",
       "source": "비즈니스포스트"
-    },
-    {
-      "title": "[특징주] 리노공업 장중 11%대 급락세 4만7000원대 거래 : 기업주식정보 - 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrblUxamZxNVM4eTNTWVl2ODZyZmFBeWNWNzJ0TXl2c2lMQUlsZVNRLWU3NUFjSkxXQ0lWMzNIMGF0bGl1MGJKMzQwQQ?oc=5",
-      "date": "2026-11-20 10:24",
-      "company": "리노공업",
-      "source": "재경일보"
     },
     {
       "title": "삼성전자, 반도체 최대 실적에 전영현 유임…기술 리더십 강화 - 연합인포맥스",
@@ -1914,13 +2145,6 @@
       "source": "중앙이코노미뉴스"
     },
     {
-      "title": "충북도, AI·반도체 산업현장 찾아 성장전략 모색 - 충청도민일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tSy1Tb3ZmUDRvekNUNDhpT3UxbldraWV6aUd4RHRuNkdBeV9BcXdZRjZ0T3lLZm5hWEd3c1dIZ2Q0MXJlckhFcmc1cC00Q0p5M1pvUUtjNE00SVljMnRadlJBd3dDRmJSbHRaZw?oc=5",
-      "date": "2026-11-20 08:59",
-      "company": "",
-      "source": "충청도민일보"
-    },
-    {
       "title": "트럼프 정부, 6개월간 엔비디아·AMD 반도체 88만개 中수출 승인 - 뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MSGNEWkFWakNKLU8tOWdUc0NRZzVGMXFBV3U2SUZ0TEhqdmNNOVZCSHR3TU1uRHRpZXV3ekxJd2l0UFp1SkF1TlBEZ1E3c2pVb0RTZW5kVHU?oc=5",
       "date": "2026-11-20 08:58",
@@ -1933,13 +2157,6 @@
       "date": "2026-11-20 08:55",
       "company": "삼성전자",
       "source": "타임뉴스"
-    },
-    {
-      "title": "AMD 펌웨어, 중국 블랙리스트 업체 서버에 들어갔나…엔비디아 이어 AMD까지..미 반도체 중국 리스크 확산 - 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81STNpRUVjXzZNbHpfX0dnekMxQUJPb2xkMXJ2a3VHSzNlVFc2Z2lJVWZrY3p1YzVJdHNxalBKUFQxUGVNcGhIUndOSQ?oc=5",
-      "date": "2026-11-20 08:54",
-      "company": "디아이",
-      "source": "재경일보"
     },
     {
       "title": "삼성전자·TSMC, 중국행 일부 칩 출하 중단…美 허가 대기 - 매일일보",
@@ -1985,7 +2202,7 @@
     },
     {
       "title": "[서치 e종목] HPSP, 전 응용처에서 신규 수주 증가로 내년 매출액 4000억 돌파? - 데일리인베스트",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlcHhEWElRRmxzYW92XzAzZlhGX2dmRVZxaTdKU1hWdHpiejF5VGJfZjNubVZ4STQ3OTBodEJFUGZON2NnQXlOcU5PV3p2cVlXRHFkU2FwcjR4V2g4U3diVlRwOWUtOHd5X3RqWdIBb0FVX3lxTE0yOV95d1FYYVRfa2JKR3lqMG14RjlKTTNlcGlEMGw0YWZlcno1dWhpUTljSVlpbnZHT1F2bDJ4SWk1ckNmNFd3OThOVTRac2luWWx2TGx0cG02QkNsOFBZbTlPdkU4Sk5oWmV2enlpSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zYUZPSmJEYTJRXy1wZnM1NE1wRl9IeWhaQTJGSmg5NUZyMm1keHREYmlYMmU1ekNXcDFpb1N0VkZlaEs2N2Z4RHluakhBZ3BsZjRNaWVZZUtLOGp1c0lITHFIMWNCQXh3b0g40gFvQVVfeXFMTTI5X3l3UVhhVF9rYkpHeWowbXhGOUpNM2VwaUQwbDRhZmVyejV1aGlROWNJWWludkdPUXZsMnhJaTVyQ2Y0V3c5OE5VNFpzaW5ZbHZMbHRwbTZCQ2w4UFltOU92RThKTmhaZXZ6eWlJ?oc=5",
       "date": "2026-11-20 08:25",
       "company": "HPSP",
       "source": "데일리인베스트"
@@ -2010,13 +2227,6 @@
       "date": "2026-11-20 08:09",
       "company": "AMD",
       "source": "글로벌이코노믹"
-    },
-    {
-      "title": "[모닝 리포트] \"리노공업, 4분기 기대치 하회에도 AI 추론칩 수요 견조\" - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mRDZrWFB4UmZVbTRqc1l2bURQZE5LNVJpT2FkLUF5SFBUM3RoOHVjS1ByVDk2V2hWVmhrcDFpQV9RRV9pMXlNNVkzcnhod3VPWHZER2h3bHFKZ3Jl?oc=5",
-      "date": "2026-11-20 08:08",
-      "company": "리노공업",
-      "source": "뉴스핌"
     },
     {
       "title": "엔비디아 이어 AMD도 '中 스캔들'…수출 규제 위반 의혹에 주가 7.7%↓ - 뉴시스",
@@ -2075,11 +2285,11 @@
       "source": "뉴시스"
     },
     {
-      "title": "엔비디아(NVDA.O) 이사회, ARM 르네 하스 접촉…차기 CEO 인선 본격화 - 메디컬투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uaXJzWWgyeXVsaTZoc0pGMk8wOXRZRmdTdk9TOUkyY18yZGFfNDVxMWxhYkhLLTdRbXFjMUVSQ29lWFZ6SV95S1FDWmdiR2t0MnhRUjNoOG82R0ZBWmxuYjNHQ05jekVWdkV6RQ?oc=5",
+      "title": "엔비디아(NVDA.O) 이사회, ARM 르네 하스 접촉…차기 CEO 인선 본격화 - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoNm50V0JPVmZwQVZXTzB0U2ljRkk4bFJWQmRXR3VaMmdIN3dROUVKUUM4ZFFONDJxNnhjTUVkbmNTcllJX2FqOWRaQlhjQ1dHR194Q2dQUW5DS1FJc2hiOHlyaGszLXFheTNxUFVR?oc=5",
       "date": "2026-11-20 07:24",
       "company": "Arm",
-      "source": "메디컬투데이"
+      "source": "알파경제"
     },
     {
       "title": "중국, SK하이닉스 HBM 기술까지 베끼나...반도체 장비 수입 4배 폭증 [Pick코노미] - 서울경제",
@@ -2118,7 +2328,7 @@
     },
     {
       "title": "앤트로픽 상장 뒤 기술주 매도…사이버보안주는 실적·수요 기대에 강세-[美증시 특징주] - 한국경제TV",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NX3NmcVJCeFI5d0w0Tm54U0tzQUZJa2JxY0stTExLM1djbUEyMFUzUFgzWWkwdDlLbmlGY0lxdXNFX3p3aFdMYURfVGpWdVpobmZYYmdSZUVHSUpwN2ZtUUxBanJFY20wS0M1WkhoSG84OEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PbXo3YU5JZ1hrNm9yVFNZZTNtam1ici1XQ2h0aU1USkEzTFBZYjAwVHFHOWxrOW9nVDhXU2hNNWQ5RDNCMExEdmtIai1yWmlUNTRvZW8zNVdURFo2REl5dmFKRlgzVTF3dzVuRXpwODhVRnhMSHZR?oc=5",
       "date": "2026-11-20 07:07",
       "company": "",
       "source": "한국경제TV"
@@ -2138,18 +2348,18 @@
       "source": "이투데이"
     },
     {
-      "title": "중국에 발목 잡힌 AMD…하나마이크론·네패스 수혜 가능성 주목 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94TFByNEo5ZHNaMjIyb2R6RnN5VUtBUEJmNWxBbExzZ0stYmtvNVF3Zl9Zc0s0Y2s3cWhRYzRHNXVyeUI3QmswV0dLYTV5SkswWUJDNWMwS2NhR2REeU5rbGxTekd6VjlwMXJ1Z1VuRW1sWnRnTGdj0gF3QVVfeXFMT3hMUHI0Sjlkc1oyMjJvZHpGc3lVS0FQQmY1bEFsTHNnSy1ia281UXdmX1lzSzRjazdxaFFjNEc1dXJ5QjdCazBXR0thNXlKSzBZQkM1YzBLY2FHZER5TmtsbFN6R3pWOXAxcnVnVW5FbWxadGdMZ2M?oc=5",
-      "date": "2026-11-20 06:36",
-      "company": "하나마이크론",
-      "source": "핀포인트뉴스"
-    },
-    {
       "title": "AMD, 중국 반도체 수출규제 위반 의혹…\"제재 기업에 최신 펌웨어 유입\" - 포쓰저널",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzbTlSM1Q4aHVRMVVJTl9nbXFNWjdNbXJlUUJLaUtabUp5b05VeTU2bUZ2LVRuaHk1bnFfbmx4WnFDRG11Q05xNjhFRkNSUzJEejhMMHhFRy0tSlhFSG4xc01mT00?oc=5",
       "date": "2026-11-20 06:36",
       "company": "AMD",
       "source": "포쓰저널"
+    },
+    {
+      "title": "중국에 발목 잡힌 AMD…하나마이크론·네패스 수혜 가능성 주목 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sWkd6U2JmTFpjWmw0SjNUQjRId0RaNXNtQ3AxU1EzQ1BEOW1rOXVjTWZyUUpRSUkyYTRpZU9IYl9GbzBMMXdLc1hGMGRXQ2Vtc3EyZHZNVE03czZ1T3MzWWFYb0tKVWpSNkZQb2hPSWNCWmPSAXdBVV95cUxPeExQcjRKOWRzWjIyMm9kekZzeVVLQVBCZjVsQWxMc2dLLWJrbzVRd2ZfWXNLNGNrN3FoUWM0RzV1cnlCN0JrMFdHS2E1eUpLMFlCQzVjMEtjYUdkRHlOa2xsU3pHelY5cDFydWdVbkVtbFp0Z0xnYw?oc=5",
+      "date": "2026-11-20 06:29",
+      "company": "하나마이크론",
+      "source": "핀포인트뉴스"
     },
     {
       "title": "삼성전자·TSMC, 中 반도체 공급 일부 중단⋯美 수출규제 강화 - 엠투데이",
@@ -2159,11 +2369,11 @@
       "source": "엠투데이"
     },
     {
-      "title": "AMD도 中 제재 기업과 연계 의혹…주가 8% 급락 - 이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcXVsTk5qU3ZQRndoRkFwVmJJRGx4TUpZbGJNMnZvc3ZkUkQ2LVEzVURsZnNReG1Vel9sdzdtVVdQYXBWNDNzNTRsZXlpbVNyTlBMbFNCSkJnQ2RXSjdnWEVQNDdxaFhVbWtSUFIwRlJOejFuU3picW5XbU9nbjFyTQ?oc=5",
+      "title": "AMD도 中 제재 기업과 연계 의혹…주가 8% 급락 - 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IaTFVWmxhNVJjSHllZy1UR2tEdjM1eDRvWmZGaWFCc09seFpDeFJITU5pTEpfWWxFZ3VZSkFNeTExMU94VV9FUTktcU5YWHY1NkVrRl91TnM3ZDNTT3hNamVCSGJsRWp3RnF3aG1JM0NncTg?oc=5",
       "date": "2026-11-20 06:29",
       "company": "AMD",
-      "source": "이데일리"
+      "source": "마켓인"
     },
     {
       "title": "뉴욕증시 마감 직전...반도체ETF·엔비디아·AMD·AMAT '급락' - 초이스경제",
@@ -2222,6 +2432,13 @@
       "source": "TradingKey"
     },
     {
+      "title": "후성 주가 3분기 어닝 서프라이즈에도 60% 폭락한 진짜 이유 - 블로그차트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kX0tkQXJqODhMNGVMZzJROGhlX01BbGlRaDRBaDNLYzZGUXp4Y0VfU2g0czFNUzl6WXhtdklOSWxQSzhkSlZQNTRrVjF3ZWZlSXNj?oc=5",
+      "date": "2026-11-20 05:01",
+      "company": "",
+      "source": "블로그차트"
+    },
+    {
       "title": "FT 삼성전자·TSMC, 中 고객사에 반도체 출하 중단 통보 - SBS Biz",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sdkdoNDdCT01HVlNkaFFMSUYzZVVPazk4N3BGTkhnMWVkS0xTOWNvRXlXYkl2RUd0cGZRbXFBSG42ZHVPUjRiMnBkUVV5VFJrcUpJ0gFYQVVfeXFMTkNLT0JLd3VlQ0RNbHNnWXpmS2pJMHlsNDNMemkwSWNIWV96aGRGMDdWbk53T0xxNVc2QW0wMGNOeU1wNkpSYUpDWEM2VmM4T3V6UHlwUk52dA?oc=5",
       "date": "2026-11-20 04:46",
@@ -2234,223 +2451,6 @@
       "date": "2026-11-20 04:38",
       "company": "AMD",
       "source": "SBS Biz"
-    },
-    {
-      "title": "씽크풀 : 제주반도체(080220)눌릴때마다 물량 모아둘 기회로 보이며 이후 전망 및 대응전략. - ThinkPool",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RTjZ4ZU5FQ3NLMGdDd2lybzE5SHJhSm0waEFtVDc4VG5tM2RmSk1ZckEwVzZuSUNoNDdqUjlLNzE3MmZyS0V4Q1hTSVpVVUJEVks3RU5XaU02VjJK?oc=5",
-      "date": "2026-11-20 04:23",
-      "company": "제주반도체",
-      "source": "ThinkPool"
-    },
-    {
-      "title": "젠슨 황 선 그으며… 결속 다지는 엔비디아 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TRktaOFBIemtNb3YxYjlTd1NSSG5TSXZiRlphc0t4TFJ1TkhkNXF6Qi15LWZtd3JmbmpHdHE0QTRBM1dGTmQtOXZMcC1ibi04VXRTOUd4ajJkN1JzOHdZLVNEU3B3T2c1NXFoRkp30gFuQVVfeXFMTlNGS1o4UEh6a01vdjFiOVN3U1JIblNJdmJGWmFzS3hMUnVOSGQ1cXpCLXktZm13cmZuakd0cTRBNEEzV0ZOZC05dkxwLWJuLThVdFM5R3hqMmQ3UnM4d1ktU0RTcHdPZzU1cWhGSnc?oc=5",
-      "date": "2026-11-20 04:00",
-      "company": "",
-      "source": "머니투데이"
-    },
-    {
-      "title": "美 반도체업계 '중국 리스크' 확산…AMD 9% 급락 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5b2puS3VnM2dYbEN2S0x2RDl5eHlBaWxWdVRyM0JWQzF0bTkwVWJOOVRqVHhhejF4LXFIYTNhNHp4UUxXaFh3MGtnQ3lqcUpqdVBwSHlIM0o3UQ?oc=5",
-      "date": "2026-11-20 03:31",
-      "company": "AMD",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "삼성전자·TSMC 중국 공급 중단…미국 규제 여파 : 기업·산업 - 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GSWsycVRhZUZ0ajB0eldQYkt2aE1UVmhfVE5iWW1saDl6NnJ3MnJWSkdVVWJiWU1RdDJZV094aElMb2dUNUZVZ05ZTQ?oc=5",
-      "date": "2026-11-20 02:51",
-      "company": "삼성전자",
-      "source": "재경일보"
-    },
-    {
-      "title": "AMD 겨냥한 공매도 공세…중국 반도체 거래 의혹에 월가 긴장 - 제민일보",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIYXdVU1BELUV6dDlDbThfdmRFdVBOcWEycm1FdUhZZEZjYlFOak1HYXdkRHozekpCbllkNjRuMFI0TFBpbnc5V05VeGZ1b1NodnFYRFJ4blp1MnlDdXlkblFLY25Hb0U?oc=5",
-      "date": "2026-11-20 01:05",
-      "company": "AMD",
-      "source": "제민일보"
-    },
-    {
-      "title": "KLA Corporation 주가, 오늘 상승하는 이유는? - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LcTZkN0dLd3Iya21YcEswcHZ1ZWt3SGNGY0NkZzBRVGVkYk5OTG0yck5mUVJuclMwMzczUDl0bTZyaVNfdFI2NXk4VTdSOFNNRjVlSWt3cl8wNFVPRXlITzRRYjZpVUZEbUlQbkFBaTVZYXBFMHZF?oc=5",
-      "date": "2026-11-20 00:19",
-      "company": "KLA",
-      "source": "Investing.com 한국어"
-    },
-    {
-      "title": "FT \"삼성전자·TSMC, 중국에 반도체 일부 출하 중단\" - 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PTnVDMHg3WW5NMm1HODJDbmZhRTl4bUtjSnVxZ0Zicjk1TkZfZlloWV9mRkhLbHQyUU1KWEhvbUtOQTZYS3dOZVNZc1M0WmVLUEtVN0FUZ3dZNFpKRi0wdXJuZnhaUlFRd1RMQWNR0gFzQVVfeXFMTUVYVlJaRnhVR2VWTkxPaENKWXZQanFISlJSZUkxWXZQTnpHa1FsMkswSXVwME1OdmdhMFd0Xzl2Z2FZX0tjN1pNVmItR0dVd0pGdExjMXdDSnBzdnlDUG5GQzBMdVkxUk9vbUN4SU9sUnZ1NA?oc=5",
-      "date": "2026-11-20 00:07",
-      "company": "삼성전자",
-      "source": "한국일보"
-    },
-    {
-      "title": "FT\"삼성전자·TSMC, 중국 고객사에 반도체 출하 중단 통보\" - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KTkpOdDJiT1hBY09BMkJPV2NEdnNZOS1kUlJIamROTnhjUTNrdTg1bmEzOGVZdFlndlZSRldwUk8ybGg3Tk5ZV3kyQ1p3ZFhMNEJrQkhuSV80cUJMTEdEUGgzNC03ZEp20gFuQVVfeXFMT2VfSU1Wc1labXVrbTZVT2gyNnRHbUxlamRNSXIyZHV3RFMycDVPWnVyeExhWmFlanJJRlFQNENkUnJfal90VlhEWmVBOGJMZkFhZWFRRXlDWnpwb01wWmIxcXBIdXJ0aFotZm5aVWc?oc=5",
-      "date": "2026-11-19 23:04",
-      "company": "삼성전자",
-      "source": "머니투데이"
-    },
-    {
-      "title": "\"삼성전자·TSMC, 중국 고객사에 일부 반도체 출하 중단 통보\" - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJMFZ4UGtHQ0tRZnk0UE93aUE0WUlkNWdiclhiZkVoR2hKLVBSNGxkOC1aUzQwYnpBUDdkdWExOEVkT0V0cmxXeDBPZ2pKNW1LV09SUy01TEM2Zk5rZnc?oc=5",
-      "date": "2026-11-19 22:19",
-      "company": "삼성전자",
-      "source": "뉴스1"
-    },
-    {
-      "title": "NXP 세미컨덕터스, 4분기 주당 1.014달러 중간 배당 결의 - 데이터투자",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mVkRacjF1Zi1MejZyQW5qN2FrYy1vck5FUzlpSTlFVk1fMFM1VHF0SjRHMVU1cm5BNFZQNGFhYm9aTThuQzFPYnZSSFhRVW5qVVB6U21jOTh4TnAyOVhtaHgyZzBHZ1dXVHYzZUZkOVZNd1E?oc=5",
-      "date": "2026-11-19 22:14",
-      "company": "NXP",
-      "source": "데이터투자"
-    },
-    {
-      "title": "ASM International NV 주가, 오늘 급등한 이유는? - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKWVRacFgwQ08zQXpKMDVxQWhNWmRhNGJHaS1CM1pGemJ2UElQLXBaLXNLVG5Ub1F0MzNZNUszLUlYNk9GSlNXTjBPZjJmUVE1Ym5SUWZYOFoxZmFFZmVKQW43OXJlcFhIb3I2WVc4cEdGRzV5WGlz?oc=5",
-      "date": "2026-11-19 20:44",
-      "company": "ASM International",
-      "source": "Investing.com 한국어"
-    },
-    {
-      "title": "삼성전자·TSMC, 중국에 일부 반도체 공급 중단 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FRlB2VFNfQU9DeHFNeHZuYy03SE1VLWV6cF8xTW13SVdaOFI3NWpUQVQxa3IwUjZfb0ktbEY3N0otSFlwVnhYWnJZT2lVVE9Lc0t2OHZVblVYdllNUEhDZTdKMDdSUTZGTnZjYWIyOUnSAXRBVV95cUxOZEl0LWtodm5tazQ2dmVIWjlycUVMVkdUQmE3NVk5ZEVqTk1hdzl3THNCS1NXLXVqRUE2aVRtV3VjWjdWMWhoc0IwSmx0UVFzVF8yckVqWV9IaGdnNzhBRnJxZzhJUUgtRnlPSHlMck9GckZyaQ?oc=5",
-      "date": "2026-11-19 20:38",
-      "company": "삼성전자",
-      "source": "IT조선"
-    },
-    {
-      "title": "반도체 훈풍에 수출 '1조 달러' 달성‥이 시각 SK하이닉스 - MBC 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CaDJhOXZrWmpVRnBTWlYwQmcyb3lwNUFOcmtBdjVxTkR5N2F1TVB4N1VCdTFaeVRzUnMzbWRJbGZjZExLeEw0UEhHUFZHeGcwcmhDVXlUY180Vk5hYU42Tmw5MElWbEkzS3dqaGVDNzVVX1NyZ3Y0Qw?oc=5",
-      "date": "2026-11-19 20:36",
-      "company": "SK하이닉스",
-      "source": "MBC 뉴스"
-    },
-    {
-      "title": "FT \"TSMC·삼성전자, 일부 중국 고객사에 반도체 출하 중단…美 수출 규제 여파\" - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LbUFWYW9VMEF1Vlgwd1R1NGpEUXAwWlhnZlByaGgyUmhLclhxbGxwaEFfNGd1LXU2ZE9MbGlZcFlHUTAzTEpqMHJPUEZEZFNSWndXenlGS01jLXRw?oc=5",
-      "date": "2026-11-19 20:03",
-      "company": "삼성전자",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "삼성전자·TSMC, 중국향 반도체 공급 일부 중단 - 포쓰저널",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xZ3lVOWlhM1Vka01sU2NfTFhyb0FLUldnMzEwSFJKRFVUbWxuY0RjZng4Qi1jRXRDVU10d2FBX0JsUkp3c0dTcXNvNG42VXZ6ODlhT0M4UldTQnNNTFBob1B2OA?oc=5",
-      "date": "2026-11-19 20:01",
-      "company": "삼성전자",
-      "source": "포쓰저널"
-    },
-    {
-      "title": "Anthropic 사상 최대 IPO, 글로벌 반도체 주식 랠리 견인 - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zQk95MHMyVk1LbDZjeUd4ZUhCcDlTalhnYTl1QkFnMnBmdUgzTzRrNTFtM3c3dGVLMTVQcjVFa0J1N251UjJYbVd4cF8tQlpwNjQ0dEtVclQ0dzNFa0Noc2prcHc2cVJVMjA4NnViczY?oc=5",
-      "date": "2026-11-19 19:57",
-      "company": "",
-      "source": "Investing.com 한국어"
-    },
-    {
-      "title": "주성엔지니어링, 흑자전환 분기 수주잔고 급증…매출 전환 관건 [실적why] - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jY2JGY2g0dGVJZHV4YUo2YzBUbVpKby1zdGxXSVhsdEVrRTUzcU5MVk9mMHdrczRvLWduT0RXQl9KX212cGlxQ3NfTDBwUEV0Y1NWQ1BPZWRQaktU?oc=5",
-      "date": "2026-11-19 19:01",
-      "company": "주성엔지니어링",
-      "source": "뉴스1"
-    },
-    {
-      "title": "충북도 AI·반도체 현장 방문…산업 경쟁력 강화 방안 논의 - 한국사회복지저널",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qX1RyX1JkNFBQSllmc3daTFFuMWtha1ZQZFdySWd2RXVUQ0JFVWlHUXE5aVN3eGMtaEtCLTBKbGRWLXdsanB4dkdxMzYxUm1rVmpjSFpCYTRrTmJqcVhKXzMwSVlzR1h5cklVWQ?oc=5",
-      "date": "2026-11-19 19:01",
-      "company": "",
-      "source": "한국사회복지저널"
-    },
-    {
-      "title": "AP시스템, 넥스틴 지분 확대…반도체 사업 가속 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LT25Nd25XYm1oWnVwRk9NODBNbE5zNkEzR1V0ejNZajhlYkM4TjlpOU9INmNlSkFGVDZmNmQxWTBfek42UkdRTDlCRVVURWZHSHBUZFRYQThVSHNP?oc=5",
-      "date": "2026-11-19 18:00",
-      "company": "넥스틴",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "AP시스템, 넥스틴 지분 16.3%로 확대 - 데일리바이트(DAILY BYTE)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFlmQUtSc2lfc2xoY2RxcVY3VUxldUZ3RTRNMXI3dVdSZk52cERhWHc0UmNHUkV4V0ZEVDNfSmFfMVNNZUdYN2RabHpDckpfWTRvS01wZVdHaUFNZktRcFhwTVlmUWx5TElLVmxTMml1VEZJZGVMdWdNQUw5em5DcmhZcmJrVFFXX1dDV21oMlYyMFVfdVE?oc=5",
-      "date": "2026-11-19 18:00",
-      "company": "넥스틴",
-      "source": "데일리바이트(DAILY BYTE)"
-    },
-    {
-      "title": "[공매도 브리핑] 한미반도체 428억·60% 급증…기관 공매도 확대 - 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ZG9OSEhQNkh0UVZ2SkdGLVQ1ZUNHZ2tlaWI0RzZvS2ZaY1FmdUNER3VuYjl0bVV3b3JjVkc4OW9QYlRXa1AyTTVkSzViVkF4XzJBVmxEWXZhUDZ2ZWVfNFZsQ2F2em5PV29WaTdlZ0JVUQ?oc=5",
-      "date": "2026-11-19 17:58",
-      "company": "한미반도체",
-      "source": "톱스타뉴스"
-    },
-    {
-      "title": "[기자수첩] 리노공업 이채윤 회장의 183일 뚝심…거센 노사갈등 속에 밝힌 '경영의 등대' - 위키트리",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VQlBCSzNYNmx0TDdILVlIRnE3a3lxSkFUS3NyUi1laVhaN1pxQlNQODJ4Y3dCMFZTVm5XM3ZEYkt2UVpaTFhER2Z1R1A3TkVHRkp1ZXdn?oc=5",
-      "date": "2026-11-19 17:38",
-      "company": "리노공업",
-      "source": "위키트리"
-    },
-    {
-      "title": "AP시스템 \"계열사 넥스틴 주식 173억원에 추가취득\" - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nVXk5U0RzRDdnNFVJMjFPSE9MdjhnRkxmVkJ3TjhBN1JIaFZzbFhIZXI1bkFDT2x3b2g3WHMyZjRQQ09xUGJJa3B5QjFfWHFDN0RLOEZfR1BFQkXSAWBBVV95cUxQdW5lTjZHMERveE1fQjFOcDlFbFI4RVczbk1TWTBTRmNObVRNcjJyNVJPT2dBeW9VZUtVdGg5VjZjQ1dsQXZ0bDBvMDF4MWdXSS0wNGdTWGFuMHNvaEJ4Mk8?oc=5",
-      "date": "2026-11-19 17:21",
-      "company": "넥스틴",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "[코스닥 기관] 레인보우로보틱스 HPSP 로보티즈 주성엔지니어링 러브콜 쏟아졌다 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56bGRTT2pJY1BHejBRaE50X3RyajJlR0pkd0Y3S0hhcjByckt6Z2RXSTBNLWNTa0s0eXlkYk1fQ2s3WUZIN1Y5UGNkalJBNVJaZDgwR1QyaWhSSkpnYUQwWmVwb1lHdUtLa0dCbUpjMkJMU1N0anIw0gF3QVVfeXFMTnpsZFNPakljUEd6MFFoTnRfdHJqMmVHSmR3RjdLSGFyMHJyS3pnZFdJME0tY1NrSzR5eWRiTV9DazdZRkg3VjlQY2RqUkE1UlpkODBHVDJpaFJKSmdhRDBaZXBvWUd1S0trR0JtSmMyQkxTU3RqcjA?oc=5",
-      "date": "2026-11-19 17:08",
-      "company": "주성엔지니어링",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "[마감시황] 반도체 오후 반등에 코스피 5100선 회복… 삼성전기 9%↑ - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Zb05TLTNVTXc0bWxhZEVoOFR6aXdjVWw1RG1hdUdIQU5jb05mVTE5VzNkZWtZRzRkbDR1ZXlyUHRMNTh1MWVlbVVQODlzbFlZNU1UaXJ1emhJZw?oc=5",
-      "date": "2026-11-19 17:05",
-      "company": "삼성전기",
-      "source": "한국경제"
-    },
-    {
-      "title": "한미반도체 주가 4,700원 상승 후 장마감 - 아시아뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tQ3Y4WnZFQ0VOWkVvVFNnbjR1OW55RGZ6NjNUR1VOd2M1S01EQ3VkQVJaLXJsTWprR3B6eGlvVWo2MklfQThYY3pqakt6Y3ZFLUxJMEl1WHZ6b1pFenZpSW10U2ZqejZpSTFIczcwZld2Tm9p?oc=5",
-      "date": "2026-11-19 17:01",
-      "company": "한미반도체",
-      "source": "아시아뉴스통신"
-    },
-    {
-      "title": "[심층분석] SK텔레콤·엔비디아·리벨리온, GPU·NPU 결합 승부수…한국형 소버린 AI 인프라 구축 본격화 - 뉴스밸류",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93aTh6eDJSc1NqMmMzVmtWU2dDWWQ3d3E1MlZWTmF0dW01WUVRTG1JSU0xZUZMWFlBTm1scXN3SHpPRkJvQ3lncGVSVjZPc3lSeHNXRnA3ZGF6OEhOM0VMZEFXMFVfNUNNakE?oc=5",
-      "date": "2026-11-19 17:00",
-      "company": "리벨리온",
-      "source": "뉴스밸류"
-    },
-    {
-      "title": "오픈AI, AMD 손잡고 AI 인프라 다변화···美, 제3국 통한 中 반도체 접근 차단 - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qTktDTUVfclFUbWswNU9ySHkyYmQ0bFlMemdjTERjWG5pQXg0Mi02RjhhNGQxVjhNTXQ4dng2UGlGRlc5b1pCbEc1LTMtU1A2OTJiQmstMVlELXpZWTRnSDh0ZkFSMC1tS1E?oc=5",
-      "date": "2026-11-19 17:00",
-      "company": "AMD",
-      "source": "헬로디디"
-    },
-    {
-      "title": "APS, 계열사 넥스틴 주식 173억원 처분 결정 - 데이터투자",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xVy1uTGFzT1FMVk5tX2pFVnd2amRpM2FpWXM0X1A4SEFidUtvYndZMlBDY2xxeFZfTzNfTFp6Y3BMX3QxSkw3dHA5S2RUYmltZi1SUnJUd3dwMWtZR0NPbFVRN1BZODRSTHg5OTN6a3NubVk?oc=5",
-      "date": "2026-11-19 16:58",
-      "company": "넥스틴",
-      "source": "데이터투자"
-    },
-    {
-      "title": "\"수출 1조 달러 주역, K-반도체 생태계\"…SK하이닉스, 소부장 협력 강화 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51bng2eVdXSjMxRmRmQWExNGJxblprZUh0TjlLSDdvc2lwUE5DRi1MZkcyMVpmdFhOTzRtSE81MmlrX3ZyWUM2U3lmZUJQZUs2LXI5N3dn?oc=5",
-      "date": "2026-11-19 16:46",
-      "company": "SK하이닉스",
-      "source": "지디넷코리아"
-    },
-    {
-      "title": "삼성전자·SK하이닉스보다 더 올랐다…GST 20%·테스 15% 급등, 반도체 장비주 동반 강세 - 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaMEtGeUFCM3BlTDd3elFnc2g3T2tMYWdMaFduM19DNlBFN2dRMTZWdnNrMC1qZ1JzT0lUNjBad2JpUV9jSS1MakZzWTFNakpMd2MxTXg1UGUtMWR4WVJZVEJDY2pUSnlJeWFzUHRPby1WUQ?oc=5",
-      "date": "2026-11-19 16:40",
-      "company": "SK하이닉스",
-      "source": "톱스타뉴스"
     }
   ],
   "jobs": [
@@ -2664,25 +2664,6 @@
       "date": "2026-11-12"
     },
     {
-      "id": "asml-J-00354264",
-      "collector": "asml",
-      "company": "ASML 코리아",
-      "title": "Regional Lead Asia, Accounts Receivable & Cash performance",
-      "url": "https://www.asml.com/en/careers/find-your-job/regional-lead-asia-accounts-receivable-cash-performance-j00354264",
-      "deadline": "",
-      "postedDate": "2026-11-11",
-      "applyStart": "",
-      "level": "경력",
-      "category": "Finance",
-      "location": "Hwasung, Korea",
-      "rolling": true,
-      "note": "경력 요건 10-15 years · 마감일 미표시",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-11-11"
-    },
-    {
       "id": "asml-J-00347976",
       "collector": "asml",
       "company": "ASML 코리아",
@@ -2699,6 +2680,25 @@
       "source": "기업 공식 채용 공고",
       "dateBasis": "공고 등록일",
       "firstSeen": "2026-11-11",
+      "date": "2026-11-11"
+    },
+    {
+      "id": "asml-J-00354264",
+      "collector": "asml",
+      "company": "ASML 코리아",
+      "title": "Regional Lead Asia, Accounts Receivable & Cash performance",
+      "url": "https://www.asml.com/en/careers/find-your-job/regional-lead-asia-accounts-receivable-cash-performance-j00354264",
+      "deadline": "",
+      "postedDate": "2026-11-11",
+      "applyStart": "",
+      "level": "경력",
+      "category": "Finance",
+      "location": "Hwasung, Korea",
+      "rolling": true,
+      "note": "경력 요건 10-15 years · 마감일 미표시",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
       "date": "2026-11-11"
     },
     {
@@ -3975,6 +3975,25 @@
       "date": "2025-11-17"
     },
     {
+      "id": "amat-790319664111",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "AIx Field Service Engineer (PDC(Metrology and Inspection)/ETCH)",
+      "url": "https://careers.appliedmaterials.com/careers/job/790319664111",
+      "deadline": "",
+      "postedDate": "2026-11-23",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "AIx Engineering",
+      "location": "Icheon-Gwango,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-23",
+      "date": "2026-11-23"
+    },
+    {
       "id": "amat-790319377917",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4070,25 +4089,6 @@
       "date": "2026-11-23"
     },
     {
-      "id": "amat-790319664111",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "AIx Field Service Engineer (PDC(Metrology and Inspection)/ETCH)",
-      "url": "https://careers.appliedmaterials.com/careers/job/790319664111",
-      "deadline": "",
-      "postedDate": "2026-11-23",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "AIx Engineering",
-      "location": "Icheon-Gwango,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-23",
-      "date": "2026-11-23"
-    },
-    {
       "id": "amat-790319529999",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4127,25 +4127,6 @@
       "date": "2026-11-18"
     },
     {
-      "id": "amat-790319539672",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "ETCH Module Process Engineer (Fab Consulting)",
-      "url": "https://careers.appliedmaterials.com/careers/job/790319539672",
-      "deadline": "",
-      "postedDate": "2026-11-17",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Engineering",
-      "location": "Hwaseong-Lucestar,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-17",
-      "date": "2026-11-17"
-    },
-    {
       "id": "amat-790319539592",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4165,17 +4146,36 @@
       "date": "2026-11-17"
     },
     {
-      "id": "amat-790319512357",
+      "id": "amat-790319539672",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
-      "title": "Technical Product Support(TPS) Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790319512357",
+      "title": "ETCH Module Process Engineer (Fab Consulting)",
+      "url": "https://careers.appliedmaterials.com/careers/job/790319539672",
+      "deadline": "",
+      "postedDate": "2026-11-17",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Engineering",
+      "location": "Hwaseong-Lucestar,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-17",
+      "date": "2026-11-17"
+    },
+    {
+      "id": "amat-790319500641",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "Data Scientist",
+      "url": "https://careers.appliedmaterials.com/careers/job/790319500641",
       "deadline": "",
       "postedDate": "2026-11-16",
       "applyStart": "",
       "level": "미분류",
       "category": "Engineering",
-      "location": "Icheon-Gwango,KOR",
+      "location": "Hwaseong-Lucestar,KOR, Pyeongtaek-NF Summit,KOR",
       "rolling": true,
       "note": "마감일 미표시(상시 모집)",
       "source": "기업 공식 채용 공고",
@@ -4203,17 +4203,17 @@
       "date": "2026-11-16"
     },
     {
-      "id": "amat-790319500641",
+      "id": "amat-790319512357",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
-      "title": "Data Scientist",
-      "url": "https://careers.appliedmaterials.com/careers/job/790319500641",
+      "title": "Technical Product Support(TPS) Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790319512357",
       "deadline": "",
       "postedDate": "2026-11-16",
       "applyStart": "",
       "level": "미분류",
       "category": "Engineering",
-      "location": "Hwaseong-Lucestar,KOR, Pyeongtaek-NF Summit,KOR",
+      "location": "Icheon-Gwango,KOR",
       "rolling": true,
       "note": "마감일 미표시(상시 모집)",
       "source": "기업 공식 채용 공고",
@@ -4298,25 +4298,6 @@
       "date": "2026-11-10"
     },
     {
-      "id": "amat-790319411546",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "PDC(PROVision) Process Support Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790319411546",
-      "deadline": "",
-      "postedDate": "2026-11-09",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Engineering",
-      "location": "Hwaseong-Lucestar,KOR, Pyeongtaek-NF Summit,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-09",
-      "date": "2026-11-09"
-    },
-    {
       "id": "amat-790319077980",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4333,6 +4314,25 @@
       "source": "기업 공식 채용 공고",
       "dateBasis": "공고 등록일",
       "firstSeen": "2026-11-03",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "amat-790319411546",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "PDC(PROVision) Process Support Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790319411546",
+      "deadline": "",
+      "postedDate": "2026-11-09",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Engineering",
+      "location": "Hwaseong-Lucestar,KOR, Pyeongtaek-NF Summit,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-09",
       "date": "2026-11-09"
     },
     {
@@ -4353,25 +4353,6 @@
       "dateBasis": "공고 등록일",
       "firstSeen": "2026-11-03",
       "date": "2026-11-04"
-    },
-    {
-      "id": "amat-790319281126",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "Supplier Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790319281126",
-      "deadline": "",
-      "postedDate": "2026-11-02",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Engineering",
-      "location": "Hwaseong-Lucestar,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-11-02"
     },
     {
       "id": "amat-790319277925",
@@ -4412,6 +4393,25 @@
       "date": "2026-11-02"
     },
     {
+      "id": "amat-790319281126",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "Supplier Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790319281126",
+      "deadline": "",
+      "postedDate": "2026-11-02",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Engineering",
+      "location": "Hwaseong-Lucestar,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-11-02"
+    },
+    {
       "id": "amat-790319215411",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4431,25 +4431,6 @@
       "date": "2026-10-29"
     },
     {
-      "id": "amat-790316062984",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "FEP/EPI Account Sales",
-      "url": "https://careers.appliedmaterials.com/careers/job/790316062984",
-      "deadline": "",
-      "postedDate": "2026-10-28",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Sales",
-      "location": "Hwaseong-Lucestar,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-10-28"
-    },
-    {
       "id": "amat-790319089905",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4461,6 +4442,25 @@
       "level": "미분류",
       "category": "Engineering",
       "location": "ChunAn,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "amat-790316062984",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "FEP/EPI Account Sales",
+      "url": "https://careers.appliedmaterials.com/careers/job/790316062984",
+      "deadline": "",
+      "postedDate": "2026-10-28",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Sales",
+      "location": "Hwaseong-Lucestar,KOR",
       "rolling": true,
       "note": "마감일 미표시(상시 모집)",
       "source": "기업 공식 채용 공고",
@@ -4507,6 +4507,25 @@
       "date": "2026-10-27"
     },
     {
+      "id": "amat-790319152346",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "Display(CVD, PVD) Installation Customer Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790319152346",
+      "deadline": "",
+      "postedDate": "2026-10-27",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Customer Service & Support",
+      "location": "ChunAn,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-10-27"
+    },
+    {
       "id": "amat-790316576093",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4545,23 +4564,23 @@
       "date": "2026-10-27"
     },
     {
-      "id": "amat-790319152346",
+      "id": "amat-790319125649",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
-      "title": "Display(CVD, PVD) Installation Customer Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790319152346",
+      "title": "PDC(XVision) Process Support Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790319125649",
       "deadline": "",
-      "postedDate": "2026-10-27",
+      "postedDate": "2026-10-26",
       "applyStart": "",
       "level": "미분류",
-      "category": "Customer Service & Support",
-      "location": "ChunAn,KOR",
+      "category": "Engineering",
+      "location": "CheongJu,KOR, Icheon-Godam,KOR",
       "rolling": true,
       "note": "마감일 미표시(상시 모집)",
       "source": "기업 공식 채용 공고",
       "dateBasis": "공고 등록일",
       "firstSeen": "2026-11-03",
-      "date": "2026-10-27"
+      "date": "2026-10-26"
     },
     {
       "id": "amat-790319085399",
@@ -4575,25 +4594,6 @@
       "level": "미분류",
       "category": "Finance",
       "location": "Bundang,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-10-26"
-    },
-    {
-      "id": "amat-790319125649",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "PDC(XVision) Process Support Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790319125649",
-      "deadline": "",
-      "postedDate": "2026-10-26",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Engineering",
-      "location": "CheongJu,KOR, Icheon-Godam,KOR",
       "rolling": true,
       "note": "마감일 미표시(상시 모집)",
       "source": "기업 공식 채용 공고",
@@ -4716,44 +4716,6 @@
       "date": "2026-10-20"
     },
     {
-      "id": "amat-790318975918",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "Application Engineer III",
-      "url": "https://careers.appliedmaterials.com/careers/job/790318975918",
-      "deadline": "",
-      "postedDate": "2026-10-20",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Engineering",
-      "location": "ChunAn,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-10-20"
-    },
-    {
-      "id": "amat-790318970458",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "SRP(R&D) Customer Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790318970458",
-      "deadline": "",
-      "postedDate": "2026-10-20",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Customer Service & Support",
-      "location": "Pyeongtaek-Mokok,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-10-20"
-    },
-    {
       "id": "amat-790318970101",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4790,6 +4752,63 @@
       "dateBasis": "공고 등록일",
       "firstSeen": "2026-11-03",
       "date": "2026-10-20"
+    },
+    {
+      "id": "amat-790318970458",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "SRP(R&D) Customer Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790318970458",
+      "deadline": "",
+      "postedDate": "2026-10-20",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Customer Service & Support",
+      "location": "Pyeongtaek-Mokok,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "amat-790318975918",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "Application Engineer III",
+      "url": "https://careers.appliedmaterials.com/careers/job/790318975918",
+      "deadline": "",
+      "postedDate": "2026-10-20",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Engineering",
+      "location": "ChunAn,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "amat-790318971181",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "CMP Customer Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790318971181",
+      "deadline": "",
+      "postedDate": "2026-10-19",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Customer Service & Support",
+      "location": "Pyeongtaek-NF Summit,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-10-19"
     },
     {
       "id": "amat-790319014774",
@@ -4830,25 +4849,6 @@
       "date": "2026-10-19"
     },
     {
-      "id": "amat-790318971181",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "CMP Customer Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790318971181",
-      "deadline": "",
-      "postedDate": "2026-10-19",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Customer Service & Support",
-      "location": "Pyeongtaek-NF Summit,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-10-19"
-    },
-    {
       "id": "amat-790318928822",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4868,25 +4868,6 @@
       "date": "2026-10-16"
     },
     {
-      "id": "amat-790316312309",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "MDP Account Sales",
-      "url": "https://careers.appliedmaterials.com/careers/job/790316312309",
-      "deadline": "",
-      "postedDate": "2026-10-15",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Sales",
-      "location": "Hwaseong-Lucestar,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-10-15"
-    },
-    {
       "id": "amat-790318965242",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -4898,6 +4879,25 @@
       "level": "미분류",
       "category": "Project/Program Management",
       "location": "Pyeongtaek-NF Summit,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "amat-790316312309",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "MDP Account Sales",
+      "url": "https://careers.appliedmaterials.com/careers/job/790316312309",
+      "deadline": "",
+      "postedDate": "2026-10-15",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Sales",
+      "location": "Hwaseong-Lucestar,KOR",
       "rolling": true,
       "note": "마감일 미표시(상시 모집)",
       "source": "기업 공식 채용 공고",
@@ -4982,6 +4982,25 @@
       "date": "2026-10-06"
     },
     {
+      "id": "amat-790318716171",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "Manager, DDP Customer Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790318716171",
+      "deadline": "",
+      "postedDate": "2026-09-30",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Customer Service & Support",
+      "location": "Icheon-Gwango,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-09-30"
+    },
+    {
       "id": "amat-790318716160",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -5006,25 +5025,6 @@
       "company": "어플라이드머티어리얼즈 코리아",
       "title": "Manager, ETCH Customer Engineer",
       "url": "https://careers.appliedmaterials.com/careers/job/790318716169",
-      "deadline": "",
-      "postedDate": "2026-09-30",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Customer Service & Support",
-      "location": "Icheon-Gwango,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-09-30"
-    },
-    {
-      "id": "amat-790318716171",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "Manager, DDP Customer Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790318716171",
       "deadline": "",
       "postedDate": "2026-09-30",
       "applyStart": "",
@@ -5248,25 +5248,6 @@
       "date": "2026-09-03"
     },
     {
-      "id": "amat-790318314248",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "Epitaxy/FEP Customer Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790318314248",
-      "deadline": "",
-      "postedDate": "2026-09-02",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Customer Service & Support",
-      "location": "CheongJu,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-09-02"
-    },
-    {
       "id": "amat-790318275977",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -5286,25 +5267,6 @@
       "date": "2026-09-02"
     },
     {
-      "id": "amat-790318241958",
-      "collector": "amat",
-      "company": "어플라이드머티어리얼즈 코리아",
-      "title": "Field Quality Engineer",
-      "url": "https://careers.appliedmaterials.com/careers/job/790318241958",
-      "deadline": "",
-      "postedDate": "2026-09-02",
-      "applyStart": "",
-      "level": "미분류",
-      "category": "Quality",
-      "location": "Hwaseong-Lucestar,KOR, Pyeongtaek-NF Summit,KOR",
-      "rolling": true,
-      "note": "마감일 미표시(상시 모집)",
-      "source": "기업 공식 채용 공고",
-      "dateBasis": "공고 등록일",
-      "firstSeen": "2026-11-03",
-      "date": "2026-09-02"
-    },
-    {
       "id": "amat-790318314238",
       "collector": "amat",
       "company": "어플라이드머티어리얼즈 코리아",
@@ -5316,6 +5278,44 @@
       "level": "미분류",
       "category": "Customer Service & Support",
       "location": "Icheon-Gwango,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "amat-790318314248",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "Epitaxy/FEP Customer Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790318314248",
+      "deadline": "",
+      "postedDate": "2026-09-02",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Customer Service & Support",
+      "location": "CheongJu,KOR",
+      "rolling": true,
+      "note": "마감일 미표시(상시 모집)",
+      "source": "기업 공식 채용 공고",
+      "dateBasis": "공고 등록일",
+      "firstSeen": "2026-11-03",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "amat-790318241958",
+      "collector": "amat",
+      "company": "어플라이드머티어리얼즈 코리아",
+      "title": "Field Quality Engineer",
+      "url": "https://careers.appliedmaterials.com/careers/job/790318241958",
+      "deadline": "",
+      "postedDate": "2026-09-02",
+      "applyStart": "",
+      "level": "미분류",
+      "category": "Quality",
+      "location": "Hwaseong-Lucestar,KOR, Pyeongtaek-NF Summit,KOR",
       "rolling": true,
       "note": "마감일 미표시(상시 모집)",
       "source": "기업 공식 채용 공고",
@@ -6369,53 +6369,53 @@
       "date": "2026-11-22"
     }
   ],
-  "startedAt": "2026-11-24T01:00:02+09:00",
+  "startedAt": "2026-11-24T06:53:38+09:00",
   "collectors": {
     "tel": {
       "label": "도쿄일렉트론코리아",
       "status": "ok",
       "error": "",
-      "checkedAt": "2026-11-24T01:00:21+09:00",
+      "checkedAt": "2026-11-24T06:53:56+09:00",
       "count": 3,
-      "lastOk": "2026-11-24T01:00:21+09:00"
+      "lastOk": "2026-11-24T06:53:56+09:00"
     },
     "asml": {
       "label": "ASML 코리아",
       "status": "ok",
       "error": "",
-      "checkedAt": "2026-11-24T01:00:21+09:00",
+      "checkedAt": "2026-11-24T06:53:56+09:00",
       "count": 13,
-      "lastOk": "2026-11-24T01:00:21+09:00"
+      "lastOk": "2026-11-24T06:53:56+09:00"
     },
     "samsung": {
       "label": "삼성전자 DS·삼성전기",
       "status": "ok",
       "error": "",
-      "checkedAt": "2026-11-24T01:00:21+09:00",
+      "checkedAt": "2026-11-24T06:53:56+09:00",
       "count": 0,
-      "lastOk": "2026-11-24T01:00:21+09:00"
+      "lastOk": "2026-11-24T06:53:56+09:00"
     },
     "skcareers": {
       "label": "SK하이닉스·실트론·키파운드리 등 (SK그룹 채용)",
       "status": "ok",
       "error": "",
-      "checkedAt": "2026-11-24T01:00:21+09:00",
+      "checkedAt": "2026-11-24T06:53:56+09:00",
       "count": 4,
-      "lastOk": "2026-11-24T01:00:21+09:00"
+      "lastOk": "2026-11-24T06:53:56+09:00"
     },
     "hynix_hub": {
       "label": "SK하이닉스 인재허브",
       "status": "ok",
       "error": "",
-      "checkedAt": "2026-11-24T01:00:21+09:00",
+      "checkedAt": "2026-11-24T06:53:56+09:00",
       "count": 0,
-      "lastOk": "2026-11-24T01:00:21+09:00"
+      "lastOk": "2026-11-24T06:53:56+09:00"
     },
     "dbhitek": {
       "label": "DB하이텍",
       "status": "error",
       "error": "URLError: <urlopen error timed out>",
-      "checkedAt": "2026-11-24T01:00:21+09:00",
+      "checkedAt": "2026-11-24T06:53:56+09:00",
       "count": 0,
       "lastOk": "2026-11-23T00:41:14+09:00"
     },
@@ -6423,29 +6423,29 @@
       "label": "램리서치 코리아",
       "status": "ok",
       "error": "",
-      "checkedAt": "2026-11-24T01:00:21+09:00",
+      "checkedAt": "2026-11-24T06:53:56+09:00",
       "count": 60,
-      "lastOk": "2026-11-24T01:00:21+09:00"
+      "lastOk": "2026-11-24T06:53:56+09:00"
     },
     "amat": {
       "label": "어플라이드머티어리얼즈 코리아",
       "status": "ok",
       "error": "",
-      "checkedAt": "2026-11-24T01:00:21+09:00",
+      "checkedAt": "2026-11-24T06:53:56+09:00",
       "count": 88,
-      "lastOk": "2026-11-24T01:00:21+09:00"
+      "lastOk": "2026-11-24T06:53:56+09:00"
     },
     "kla": {
       "label": "KLA 코리아",
       "status": "ok",
       "error": "",
-      "checkedAt": "2026-11-24T01:00:21+09:00",
+      "checkedAt": "2026-11-24T06:53:56+09:00",
       "count": 38,
-      "lastOk": "2026-11-24T01:00:21+09:00"
+      "lastOk": "2026-11-24T06:53:56+09:00"
     }
   },
   "careerWatch": {
-    "checkedAt": "2026-11-24T01:02:03+09:00",
+    "checkedAt": "2026-11-24T06:55:49+09:00",
     "total": 26,
     "ok": 8,
     "jsOnly": 2,
@@ -6462,13 +6462,13 @@
         "id": "extra70",
         "name": "Micron",
         "url": "https://careers.micron.com/",
-        "changedAt": "2026-11-24T01:02:03+09:00"
+        "changedAt": "2026-11-24T06:55:49+09:00"
       },
       {
         "id": "extra73",
         "name": "Qualcomm",
         "url": "https://careers.qualcomm.com/",
-        "changedAt": "2026-11-24T01:02:03+09:00"
+        "changedAt": "2026-11-24T06:55:49+09:00"
       },
       {
         "id": "extra75",
@@ -6504,7 +6504,7 @@
         "id": "extra82",
         "name": "Renesas",
         "url": "https://www.renesas.com/us/en/about/careers",
-        "changedAt": "2026-11-24T01:02:03+09:00"
+        "changedAt": "2026-11-24T06:55:49+09:00"
       },
       {
         "id": "extra92",
@@ -6516,18 +6516,18 @@
         "id": "extra98",
         "name": "Synopsys",
         "url": "https://www.synopsys.com/careers.html",
-        "changedAt": "2026-11-24T01:02:03+09:00"
+        "changedAt": "2026-11-24T06:55:49+09:00"
       },
       {
         "id": "extra100",
         "name": "Arm",
         "url": "https://careers.arm.com/",
-        "changedAt": "2026-11-24T01:02:03+09:00"
+        "changedAt": "2026-11-24T06:55:49+09:00"
       }
     ]
   },
   "jobCount": 206,
-  "lastAttempt": "2026-11-24T01:03:08+09:00",
+  "lastAttempt": "2026-11-24T06:56:40+09:00",
   "errors": [
     "고용24 API 키 없음 — 실제 채용공고 수집 비활성",
     "DB하이텍 수집 실패 — URLError: <urlopen error timed out>"
