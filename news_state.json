@@ -619,10 +619,10 @@
   ],
   "totalBackfillTasks": 616,
   "remainingBackfillTasks": 0,
-  "lastAttempt": "2026-11-28T03:46:26+09:00",
-  "lastSuccess": "2026-11-28T03:46:26+09:00",
+  "lastAttempt": "2026-11-28T12:10:56+09:00",
+  "lastSuccess": "2026-11-28T12:10:56+09:00",
   "articleCount": 12000,
-  "newArticles": 113,
+  "newArticles": 62,
   "errors": [
     "direct-3: ParseError"
   ],

@@ -1,7 +1,7 @@
 {
  "amkor": {
   "url": "https://amkor.com/kr/careers/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 1413,
   "status": "ok",
@@ -10,7 +10,7 @@
  },
  "extra17": {
   "url": "https://www.yccorp.com/kr/recruit/recruit03.php",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 1326,
   "status": "ok",
@@ -20,7 +20,7 @@
  },
  "extra66": {
   "url": "https://careers.tsmc.com/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "status": "error",
   "error": "HTTPError",
   "name": "TSMC",
@@ -29,7 +29,7 @@
  },
  "extra68": {
   "url": "https://gf.com/careers/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 6712,
   "status": "changed",
@@ -39,7 +39,7 @@
  },
  "extra69": {
   "url": "https://jobs.intel.com/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "status": "js_only",
   "error": "",
   "name": "Intel",
@@ -48,17 +48,17 @@
  },
  "extra70": {
   "url": "https://careers.micron.com/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
-  "len": 162108,
+  "len": 162112,
   "status": "changed",
-  "hash": "cc36cd02d9942be7cd1b15e6bbe20588f397bd25",
+  "hash": "46bcfa4b694fa1310f5d72275c2790d1217a7162",
   "name": "Micron",
-  "changedAt": "2026-11-28T03:48:18+09:00"
+  "changedAt": "2026-11-28T12:13:11+09:00"
  },
  "extra71": {
   "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 22917,
   "status": "ok",
@@ -67,7 +67,7 @@
  },
  "extra72": {
   "url": "https://careers.amd.com/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 1224,
   "status": "ok",
@@ -76,24 +76,24 @@
  },
  "extra73": {
   "url": "https://careers.qualcomm.com/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
-  "len": 177045,
+  "len": 177049,
   "status": "changed",
-  "hash": "438047b68072ddeff3fb0c4782d9082dcac9e029",
+  "hash": "551cc7fb8b52febe55e080148fe98ec45e3e47b0",
   "name": "Qualcomm",
-  "changedAt": "2026-11-28T03:48:18+09:00"
+  "changedAt": "2026-11-28T12:13:11+09:00"
  },
  "extra74": {
   "url": "https://careers.broadcom.com/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "status": "error",
   "error": "URLError",
   "name": "Broadcom"
  },
  "extra75": {
   "url": "https://www.marvell.com/company/careers.html",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 7799,
   "status": "changed",
@@ -103,15 +103,15 @@
  },
  "extra76": {
   "url": "https://careers.ti.com/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
-  "error": "",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
+  "error": "HTTPError",
   "len": 17,
-  "status": "js_only",
+  "status": "error",
   "name": "Texas Instruments"
  },
  "extra77": {
   "url": "https://www.analog.com/en/about-adi/careers.html",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 4070,
   "status": "changed",
@@ -121,7 +121,7 @@
  },
  "extra78": {
   "url": "https://www.onsemi.com/careers",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 9009,
   "status": "changed",
@@ -131,7 +131,7 @@
  },
  "extra79": {
   "url": "https://www.infineon.com/cms/en/careers/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "status": "changed",
   "error": "",
   "name": "Infineon",
@@ -141,7 +141,7 @@
  },
  "extra80": {
   "url": "https://www.nxp.com/company/about-nxp/careers:CAREERS",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 6000,
   "status": "changed",
@@ -151,34 +151,34 @@
  },
  "extra81": {
   "url": "https://www.st.com/content/st_com/en/about/careers.html",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
-  "len": 8695,
+  "len": 9018,
   "status": "changed",
-  "hash": "b6e119e408f8a79fb990cdc9ad64fbb9ff339535",
+  "hash": "ea631f1a1c42d12b9a24c621c55f3f595e057dea",
   "name": "STMicroelectronics",
-  "changedAt": "2026-11-28T03:48:18+09:00"
+  "changedAt": "2026-11-28T12:13:11+09:00"
  },
  "extra82": {
   "url": "https://www.renesas.com/us/en/about/careers",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "status": "changed",
   "error": "",
   "name": "Renesas",
-  "len": 7001,
-  "hash": "b3c7f915b3b34de8aedd929316a321721c2481d3",
-  "changedAt": "2026-11-28T03:48:18+09:00"
+  "len": 6999,
+  "hash": "83c6b397ffb6813489364ab06b624e5126c2eee2",
+  "changedAt": "2026-11-28T12:13:11+09:00"
  },
  "extra85": {
   "url": "https://careers.mediatek.com/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "status": "error",
   "error": "HTTPError",
   "name": "MediaTek"
  },
  "extra91": {
   "url": "https://www.advantest.com/careers/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 6840,
   "status": "ok",
@@ -188,7 +188,7 @@
  },
  "extra92": {
   "url": "https://www.teradyne.com/careers/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 4101,
   "status": "changed",
@@ -198,7 +198,7 @@
  },
  "extra95": {
   "url": "https://www.asm.com/careers",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 5023,
   "status": "ok",
@@ -207,17 +207,17 @@
  },
  "extra98": {
   "url": "https://www.synopsys.com/careers.html",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
-  "len": 2946,
+  "len": 2972,
   "status": "changed",
-  "hash": "227a46b931b2018a4bc1f382ecae9c23d4657f30",
+  "hash": "bd5b413272c58d64bbb53faad95ae1b94d118d73",
   "name": "Synopsys",
-  "changedAt": "2026-11-28T03:48:18+09:00"
+  "changedAt": "2026-11-28T12:13:11+09:00"
  },
  "extra99": {
   "url": "https://www.cadence.com/en_US/home/company/careers.html",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "HTTPError",
   "len": 15649,
   "status": "error",
@@ -226,17 +226,17 @@
  },
  "extra100": {
   "url": "https://careers.arm.com/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
-  "len": 8251,
+  "len": 8029,
   "status": "changed",
-  "hash": "3130488d03d19906e6902d5522e18ce6b245b370",
+  "hash": "2628f2578138ce2f1d8b2a6197189e8eef31b8e4",
   "name": "Arm",
-  "changedAt": "2026-11-28T03:48:18+09:00"
+  "changedAt": "2026-11-28T12:13:11+09:00"
  },
  "extra102": {
   "url": "https://amkor.com/careers/",
-  "checkedAt": "2026-11-28T03:48:18+09:00",
+  "checkedAt": "2026-11-28T12:13:11+09:00",
   "error": "",
   "len": 2107,
   "status": "ok",
